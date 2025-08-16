@@ -38,11 +38,18 @@ export default function InfiniteMode() {
         setSugestoes([]);
     };
 
+    const handleRecomecar = () => {
+        setStreak(0);
+        localStorage.setItem(STREAK_KEY, JSON.stringify(0));
+        novoJogo();
+    };
+
     return (
         <div className="container">
             <h1 className="titulo">Guess the Idol - Infinito 🎤</h1>
             <ModeSwitcher/>
-            <h2>Win streak: {streak}</h2>
+            <h3>Win streak: {streak}</h3>
+
             <GuessTable
                 tentativas={tentativas}
                 palpite={palpite}
@@ -58,6 +65,17 @@ export default function InfiniteMode() {
                 idols={idols}
                 atualizarStreak={atualizarStreak}
             />
+
+            {/* Botões de controle após o jogo acabar */}
+            {mensagemFinal && (
+                <div className="botoes-fim">
+                    {mensagemFinal.includes("Parabéns") ? (
+                        <button onClick={novoJogo}>🎶 Próxima Idol</button>
+                    ) : (
+                        <button onClick={handleRecomecar}>🔄 Recomeçar</button>
+                    )}
+                </div>
+            )}
         </div>
     );
 }

@@ -63,7 +63,7 @@ export default function GuessTable({
         // Ano de nascimento
         if (idolo.ano_nascimento === idoloSecreto.ano_nascimento) {
             resultado.feedback.ano_nascimento = "correto";
-        } else if (Math.abs(idolo.ano_nascimento - idoloSecreto.ano_nascimento) <= 2) {
+        } else if (Math.abs(idolo.ano_nascimento - idoloSecreto.ano_nascimento) <= 1) {
             resultado.feedback.ano_nascimento = idolo.ano_nascimento > idoloSecreto.ano_nascimento ? "proximo-maior" : "proximo-menor";
         } else {
             resultado.feedback.ano_nascimento = idolo.ano_nascimento > idoloSecreto.ano_nascimento ? "maior" : "menor";
@@ -108,7 +108,7 @@ export default function GuessTable({
             if (idolo.nome === idoloSecreto.nome) {
                 if (atualizarStreak) atualizarStreak(true); // modo infinito
                 setMensagemFinal("🎉 Parabéns! Você acertou a idol!");
-            } else if (chances + 1 >= 7) {
+            } else if (chances + 1 >= 10) {
                 if (atualizarStreak) atualizarStreak(false); // modo infinito
                 setMensagemFinal(`❌ Você perdeu! A idol era ${idoloSecreto.nome}.`);
             }
@@ -125,7 +125,7 @@ export default function GuessTable({
                 value={palpite}
                 onChange={handleInput}
             />
-            <span className="chances">{chances}/7</span>
+            <span className="chances">{chances} / 10</span>
 
             {sugestoes.length > 0 && (
                 <ul className="suggestions">
@@ -185,7 +185,7 @@ export default function GuessTable({
                 </tbody>
             </table>
 
-            {mensagemFinal && <h2>{mensagemFinal}</h2>}
+            {mensagemFinal && <h3>{mensagemFinal}</h3>}
         </div>
     );
 }

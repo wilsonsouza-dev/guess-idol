@@ -99,7 +99,7 @@ input:focus {
 }
 
 .suggestions li:hover {
-    background: #eee;
+    background: #413f3f;
 }
 
 table {
@@ -273,28 +273,46 @@ th {
 
 /* Responsividade */
 @media (max-width: 768px) {
+
+    body {
+        padding-top: 2vh;
+    }
+
     .titulo {
-        font-size: 6vw;
+        font-size: 5.7vw;
     }
 
     input {
-        font-size: 3vw;
-        width: 60vw;
+        font-size: 4vw;
+        width: 50vw;
     }
 
     .chances {
-        font-size: 2.5vw;
-        min-width: 20vw;
+        font-size: 4vw;
+        min-width: 15vw;
+        padding: 1vh 1.2vw;
+        margin: 2vw;
     }
 
     table {
-        font-size: 2.5vw;
+        font-size: 1.5vw;
+        width: 100%;
     }
 
     .suggestions {
         width: 50vw;
-        left: 25%;
+        left: 14%;
+        top: 20%;
         font-size: 3vw;
+    }
+
+    .container {
+        width: 95%;
+    }
+
+    .novo-jogo {
+        font-size: 3.5vw;
+        padding: 1vh 2vw;
     }
 }
 
