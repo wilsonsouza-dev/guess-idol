@@ -1,0 +1,316 @@
+body {
+    margin: 0;
+    height: 100vh;
+    font-family: Arial, sans-serif;
+    background: linear-gradient(135deg, #7b8fd7, #4a529a, #143a57);
+    display: flex;
+    justify-content: center;
+    align-items: flex-start;
+    padding-top: 3vh;
+}
+
+.container {
+    text-align: center;
+    color: white;
+    width: 75%;
+    margin: auto;
+    animation: fadeIn 1s ease-in-out;
+    transition: background 0.3s ease; /* suaviza mudança de modo */
+}
+
+.titulo {
+    margin-bottom: 0.7vh;
+    font-size: 4.2vw;
+    animation: slideDown 1s ease;
+}
+
+.novo-jogo {
+    margin-bottom: 1.4vh;
+    font-size: 1.75vw;
+    padding: 0.7vh 1.4vw;
+    cursor: pointer;
+    transition: transform 0.2s ease, background 0.2s ease;
+}
+
+.novo-jogo:hover {
+    transform: scale(1.1);
+    background: #444;
+}
+
+.input-area {
+    align-items: center;
+    justify-content: center;
+    gap: 1.4vw;
+    position: relative;
+    margin-bottom: 1.4vh;
+    animation: fadeInUp 1s ease;
+}
+
+input {
+    padding: 1vh 1.4vw;
+    font-size: 1.75vw;
+    width: 22vw;
+    border-radius: 0.35vw;
+    border: none;
+    transition: box-shadow 0.2s ease;
+}
+
+input:focus {
+    outline: none;
+    box-shadow: 0 0 1vw rgba(255, 255, 255, 0.7);
+}
+
+.chances {
+    font-size: 1.54vw;
+    font-weight: bold;
+    color: black;
+    background: white;
+    padding: 1vh 2vw;
+    margin: 0.5vw;
+    border-radius: 0.56vw;
+    animation: pulse 1.5s infinite;
+}
+
+.suggestions {
+    padding: 1vh 1.4vw;
+    font-size: 1.4vw;
+    width: 20vw;
+    border-radius: 0.35vw;
+    border: none;
+    transition: box-shadow 0.2s ease;
+    list-style: none;
+    margin: 0;
+    background: #ebece3;
+    text-align: center;
+    position: absolute;
+    top: 7%;
+    left: 30%;
+    z-index: 10;
+    box-shadow: 0 0.21vw 0.56vw rgba(0, 0, 0, 0.2);
+    animation: fadeIn 0.5s ease;
+}
+
+.suggestions li {
+    padding: 0.8vh;
+    cursor: pointer;
+    border-bottom: #1a1a1a solid 1px;
+    color: black;
+    transition: background 0.2s ease;
+}
+
+.suggestions li:hover {
+    background: #eee;
+}
+
+table {
+    margin: 2vh auto;
+    width: 100%;
+    table-layout: fixed;
+    font-size: 1.2vw;
+    background-color: #1a1a1a;
+    overflow: hidden;
+    animation: fadeInUp 1s ease;
+    border-radius: 0.5vw;
+}
+
+th, td {
+    border: 1px solid grey;
+    padding: 1.5vh 1.5vw;
+    text-align: center;
+    width: 15%;
+    vertical-align: middle;
+    transition: background 0.3s ease;
+}
+
+th {
+    background: rgba(255, 255, 255, 0.2);
+}
+
+.correto {
+    background: #4caf50;
+    animation: highlight 1s ease;
+}
+
+.proximo,
+.proximo-maior,
+.proximo-menor {
+    background-color: #e5b03b; /* amarelo mantém */
+}
+
+.posicoes-container {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.mini-bloco {
+    font-size: 0.9em;
+    font-weight: bold;
+    width: 100%;
+    text-align: center;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border-bottom: 1px solid rgba(255, 255, 255, 0.3); /* linha divisória */
+}
+
+.mini-bloco:last-child {
+    border-bottom: none;
+}
+
+.valor-com-seta {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 0.35vw;
+}
+
+.reveal td {
+    opacity: 0;
+    transform: translateX(-20px);
+    animation: revealCell 0.5s forwards;
+}
+
+.reveal td:nth-child(1) {
+    animation-delay: 0s;
+}
+
+.reveal td:nth-child(2) {
+    animation-delay: 0.4s;
+}
+
+.reveal td:nth-child(3) {
+    animation-delay: 0.8s;
+}
+
+.reveal td:nth-child(4) {
+    animation-delay: 1.2s;
+}
+
+.reveal td:nth-child(5) {
+    animation-delay: 1.6s;
+}
+
+.reveal td:nth-child(6) {
+    animation-delay: 2s;
+}
+
+.reveal td:nth-child(7) {
+    animation-delay: 2.4s;
+}
+
+/* Animações */
+@keyframes revealCell {
+    to {
+        opacity: 1;
+        transform: translateX(0);
+    }
+}
+
+@keyframes fadeIn {
+    from {
+        opacity: 0;
+    }
+    to {
+        opacity: 1;
+    }
+}
+
+@keyframes fadeInUp {
+    from {
+        opacity: 0;
+        transform: translateY(20px);
+    }
+    to {
+        opacity: 1;
+        transform: translateY(0);
+    }
+}
+
+@keyframes slideDown {
+    from {
+        opacity: 0;
+        transform: translateY(-20px);
+    }
+    to {
+        opacity: 1;
+        transform: translateY(0);
+    }
+}
+
+@keyframes highlight {
+    0%, 100% {
+        transform: scale(1);
+    }
+    50% {
+        transform: scale(1.1);
+    }
+}
+
+@keyframes pulse {
+    0%, 100% {
+        transform: scale(1);
+    }
+    50% {
+        transform: scale(1.05);
+    }
+}
+
+@keyframes shake {
+    0%, 100% {
+        transform: translateX(0);
+    }
+    25% {
+        transform: translateX(-5px);
+    }
+    50% {
+        transform: translateX(5px);
+    }
+    75% {
+        transform: translateX(-5px);
+    }
+}
+
+/* Responsividade */
+@media (max-width: 768px) {
+    .titulo {
+        font-size: 6vw;
+    }
+
+    input {
+        font-size: 3vw;
+        width: 60vw;
+    }
+
+    .chances {
+        font-size: 2.5vw;
+        min-width: 20vw;
+    }
+
+    table {
+        font-size: 2.5vw;
+    }
+
+    .suggestions {
+        width: 50vw;
+        left: 25%;
+        font-size: 3vw;
+    }
+}
+
+/* Diferenciação de Modo */
+.modo-diario {
+    background: linear-gradient(135deg, #7b8fd7, #4a529a, #143a57);
+}
+
+.modo-infinito {
+    background: linear-gradient(135deg, #f7a72b, #ff6f3c, #e53935);
+}
+
+.streak-indicator {
+    font-weight: bold;
+    font-size: 1.2em;
+    margin-left: 1vw;
+    color: #fff;
+    animation: pulse 1.5s infinite;
+}

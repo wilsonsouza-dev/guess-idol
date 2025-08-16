@@ -1,0 +1,3201 @@
+[
+  {
+    "nome": "Yeji",
+    "grupo": "ITZY",
+    "empresa": "JYP Entertainment",
+    "ano_nascimento": 2000,
+    "nacionalidade": "Coreana",
+    "posicao": [
+      "Leader",
+      "Lead Vocal",
+      "Main Dancer"
+    ],
+    "altura_cm": 167
+  },
+  {
+    "nome": "Lia",
+    "grupo": "ITZY",
+    "empresa": "JYP Entertainment",
+    "ano_nascimento": 2000,
+    "nacionalidade": "Coreana",
+    "posicao": [
+      "Main Vocal"
+    ],
+    "altura_cm": 165
+  },
+  {
+    "nome": "Ryujin",
+    "grupo": "ITZY",
+    "empresa": "JYP Entertainment",
+    "ano_nascimento": 2001,
+    "nacionalidade": "Coreana",
+    "posicao": [
+      "Main Rapper",
+      "Lead Dancer"
+    ],
+    "altura_cm": 164
+  },
+  {
+    "nome": "Chaeryeong",
+    "grupo": "ITZY",
+    "empresa": "JYP Entertainment",
+    "ano_nascimento": 2001,
+    "nacionalidade": "Coreana",
+    "posicao": [
+      "Main Dancer",
+      "Vocal"
+    ],
+    "altura_cm": 166
+  },
+  {
+    "nome": "Yuna",
+    "grupo": "ITZY",
+    "empresa": "JYP Entertainment",
+    "ano_nascimento": 2003,
+    "nacionalidade": "Coreana",
+    "posicao": [
+      "Visual",
+      "Maknae",
+      "Lead Rapper"
+    ],
+    "altura_cm": 170
+  },
+  {
+    "nome": "HeeJin",
+    "grupo": "LOONA",
+    "empresa": "BlockBerry Creative",
+    "ano_nascimento": 2000,
+    "nacionalidade": "Coreana",
+    "posicao": [
+      "Vocal",
+      "Dancer",
+      "Visual"
+    ],
+    "altura_cm": 161
+  },
+  {
+    "nome": "HyunJin",
+    "grupo": "LOONA",
+    "empresa": "BlockBerry Creative",
+    "ano_nascimento": 2000,
+    "nacionalidade": "Coreana",
+    "posicao": [
+      "Vocal",
+      "Dancer"
+    ],
+    "altura_cm": 163
+  },
+  {
+    "nome": "HaSeul",
+    "grupo": "LOONA",
+    "empresa": "BlockBerry Creative",
+    "ano_nascimento": 1997,
+    "nacionalidade": "Coreana",
+    "posicao": [
+      "Leader",
+      "Vocal"
+    ],
+    "altura_cm": 160
+  },
+  {
+    "nome": "YeoJin",
+    "grupo": "LOONA",
+    "empresa": "BlockBerry Creative",
+    "ano_nascimento": 2002,
+    "nacionalidade": "Coreana",
+    "posicao": [
+      "Vocal",
+      "Rapper"
+    ],
+    "altura_cm": 156
+  },
+  {
+    "nome": "ViVi",
+    "grupo": "LOONA",
+    "empresa": "BlockBerry Creative",
+    "ano_nascimento": 1996,
+    "nacionalidade": "Chinesa",
+    "posicao": [
+      "Vocal"
+    ],
+    "altura_cm": 160
+  },
+  {
+    "nome": "Kim Lip",
+    "grupo": "LOONA",
+    "empresa": "BlockBerry Creative",
+    "ano_nascimento": 1999,
+    "nacionalidade": "Coreana",
+    "posicao": [
+      "Vocal"
+    ],
+    "altura_cm": 161
+  },
+  {
+    "nome": "JinSoul",
+    "grupo": "LOONA",
+    "empresa": "BlockBerry Creative",
+    "ano_nascimento": 1997,
+    "nacionalidade": "Coreana",
+    "posicao": [
+      "Vocal",
+      "Rapper"
+    ],
+    "altura_cm": 166
+  },
+  {
+    "nome": "Choerry",
+    "grupo": "LOONA",
+    "empresa": "BlockBerry Creative",
+    "ano_nascimento": 2001,
+    "nacionalidade": "Coreana",
+    "posicao": [
+      "Vocal",
+      "Dancer"
+    ],
+    "altura_cm": 160
+  },
+  {
+    "nome": "Yves",
+    "grupo": "LOONA",
+    "empresa": "BlockBerry Creative",
+    "ano_nascimento": 1997,
+    "nacionalidade": "Coreana",
+    "posicao": [
+      "Vocal",
+      "Dancer"
+    ],
+    "altura_cm": 166
+  },
+  {
+    "nome": "Chuu",
+    "grupo": "LOONA",
+    "empresa": "BlockBerry Creative",
+    "ano_nascimento": 1999,
+    "nacionalidade": "Coreana",
+    "posicao": [
+      "Main Vocal"
+    ],
+    "altura_cm": 161
+  },
+  {
+    "nome": "Go Won",
+    "grupo": "LOONA",
+    "empresa": "BlockBerry Creative",
+    "ano_nascimento": 2000,
+    "nacionalidade": "Coreana",
+    "posicao": [
+      "Vocal",
+      "Rapper"
+    ],
+    "altura_cm": 160
+  },
+  {
+    "nome": "Olivia Hye",
+    "grupo": "LOONA",
+    "empresa": "BlockBerry Creative",
+    "ano_nascimento": 2001,
+    "nacionalidade": "Coreana",
+    "posicao": [
+      "Vocal",
+      "Dancer"
+    ],
+    "altura_cm": 165
+  },
+  {
+    "nome": "Lily",
+    "grupo": "NMIXX",
+    "empresa": "JYP Entertainment",
+    "ano_nascimento": 2002,
+    "nacionalidade": "Coreana-Australiana",
+    "posicao": [
+      "Main Vocal"
+    ],
+    "altura_cm": 165
+  },
+  {
+    "nome": "Haewon",
+    "grupo": "NMIXX",
+    "empresa": "JYP Entertainment",
+    "ano_nascimento": 2003,
+    "nacionalidade": "Coreana",
+    "posicao": [
+      "Leader",
+      "Main Vocal",
+      "Lead Dancer"
+    ],
+    "altura_cm": 164
+  },
+  {
+    "nome": "Sullyoon",
+    "grupo": "NMIXX",
+    "empresa": "JYP Entertainment",
+    "ano_nascimento": 2004,
+    "nacionalidade": "Coreana",
+    "posicao": [
+      "Lead Vocal",
+      "Visual"
+    ],
+    "altura_cm": 167
+  },
+  {
+    "nome": "Bae",
+    "grupo": "NMIXX",
+    "empresa": "JYP Entertainment",
+    "ano_nascimento": 2004,
+    "nacionalidade": "Coreana",
+    "posicao": [
+      "Lead Dancer",
+      "Lead Vocal"
+    ],
+    "altura_cm": 165
+  },
+  {
+    "nome": "Jiwoo",
+    "grupo": "NMIXX",
+    "empresa": "JYP Entertainment",
+    "ano_nascimento": 2005,
+    "nacionalidade": "Coreana",
+    "posicao": [
+      "Main Rapper",
+      "Main Dancer"
+    ],
+    "altura_cm": 163
+  },
+  {
+    "nome": "Kyujin",
+    "grupo": "NMIXX",
+    "empresa": "JYP Entertainment",
+    "ano_nascimento": 2006,
+    "nacionalidade": "Coreana",
+    "posicao": [
+      "Main Dancer",
+      "Lead Rapper",
+      "Maknae"
+    ],
+    "altura_cm": 166
+  },
+  {
+    "nome": "Saerom",
+    "grupo": "fromis_9",
+    "empresa": "Pledis Entertainment (HYBE)",
+    "ano_nascimento": 1997,
+    "nacionalidade": "Coreana",
+    "posicao": [
+      "Leader",
+      "Visual",
+      "Lead Dancer"
+    ],
+    "altura_cm": 163
+  },
+  {
+    "nome": "Hayoung",
+    "grupo": "fromis_9",
+    "empresa": "Pledis Entertainment (HYBE)",
+    "ano_nascimento": 1997,
+    "nacionalidade": "Coreana",
+    "posicao": [
+      "Main Vocal",
+      "Main Dancer"
+    ],
+    "altura_cm": 164
+  },
+  {
+    "nome": "Gyuri",
+    "grupo": "fromis_9",
+    "empresa": "Pledis Entertainment (HYBE)",
+    "ano_nascimento": 1997,
+    "nacionalidade": "Coreana",
+    "posicao": [
+      "Lead Vocal"
+    ],
+    "altura_cm": 168
+  },
+  {
+    "nome": "Jiwon",
+    "grupo": "fromis_9",
+    "empresa": "Pledis Entertainment (HYBE)",
+    "ano_nascimento": 1998,
+    "nacionalidade": "Coreana",
+    "posicao": [
+      "Main Vocal"
+    ],
+    "altura_cm": 158
+  },
+  {
+    "nome": "Jisun",
+    "grupo": "fromis_9",
+    "empresa": "Pledis Entertainment (HYBE)",
+    "ano_nascimento": 1998,
+    "nacionalidade": "Coreana",
+    "posicao": [
+      "Vocal"
+    ],
+    "altura_cm": 158
+  },
+  {
+    "nome": "Seoyeon",
+    "grupo": "fromis_9",
+    "empresa": "Pledis Entertainment (HYBE)",
+    "ano_nascimento": 2000,
+    "nacionalidade": "Coreana",
+    "posicao": [
+      "Main Rapper",
+      "Lead Vocal"
+    ],
+    "altura_cm": 161
+  },
+  {
+    "nome": "Chaeyoung",
+    "grupo": "fromis_9",
+    "empresa": "Pledis Entertainment (HYBE)",
+    "ano_nascimento": 2000,
+    "nacionalidade": "Coreana",
+    "posicao": [
+      "Lead Rapper",
+      "Lead Dancer",
+      "Vocal"
+    ],
+    "altura_cm": 169
+  },
+  {
+    "nome": "Nagyung",
+    "grupo": "fromis_9",
+    "empresa": "Pledis Entertainment (HYBE)",
+    "ano_nascimento": 2000,
+    "nacionalidade": "Coreana",
+    "posicao": [
+      "Lead Vocal",
+      "Visual"
+    ],
+    "altura_cm": 160
+  },
+  {
+    "nome": "Jiheon",
+    "grupo": "fromis_9",
+    "empresa": "Pledis Entertainment (HYBE)",
+    "ano_nascimento": 2003,
+    "nacionalidade": "Coreana",
+    "posicao": [
+      "Vocal",
+      "Maknae"
+    ],
+    "altura_cm": 162
+  },
+  {
+    "nome": "Sakura",
+    "grupo": "LE SSERAFIM",
+    "empresa": "Source Music (HYBE)",
+    "ano_nascimento": 1998,
+    "nacionalidade": "Japonesa",
+    "posicao": [
+      "Vocal",
+      "Rapper"
+    ],
+    "altura_cm": 163
+  },
+  {
+    "nome": "Chaewon",
+    "grupo": "LE SSERAFIM",
+    "empresa": "Source Music (HYBE)",
+    "ano_nascimento": 2000,
+    "nacionalidade": "Coreana",
+    "posicao": [
+      "Leader",
+      "Lead Vocal",
+      "Lead Dancer"
+    ],
+    "altura_cm": 164
+  },
+  {
+    "nome": "Yunjin",
+    "grupo": "LE SSERAFIM",
+    "empresa": "Source Music (HYBE)",
+    "ano_nascimento": 2001,
+    "nacionalidade": "Coreana-Americana",
+    "posicao": [
+      "Main Vocal",
+      "Lead Dancer"
+    ],
+    "altura_cm": 172
+  },
+  {
+    "nome": "Kazuha",
+    "grupo": "LE SSERAFIM",
+    "empresa": "Source Music (HYBE)",
+    "ano_nascimento": 2003,
+    "nacionalidade": "Japonesa",
+    "posicao": [
+      "Main Dancer",
+      "Main Rapper"
+    ],
+    "altura_cm": 170
+  },
+  {
+    "nome": "Eunchae",
+    "grupo": "LE SSERAFIM",
+    "empresa": "Source Music (HYBE)",
+    "ano_nascimento": 2006,
+    "nacionalidade": "Coreana",
+    "posicao": [
+      "Maknae",
+      "Vocal"
+    ],
+    "altura_cm": 168
+  },
+  {
+    "nome": "Karina",
+    "grupo": "aespa",
+    "empresa": "SM Entertainment",
+    "ano_nascimento": 2000,
+    "nacionalidade": "Coreana",
+    "posicao": [
+      "Leader",
+      "Lead Rapper",
+      "Main Dancer"
+    ],
+    "altura_cm": 167
+  },
+  {
+    "nome": "Giselle",
+    "grupo": "aespa",
+    "empresa": "SM Entertainment",
+    "ano_nascimento": 2000,
+    "nacionalidade": "Japonesa-Coreana",
+    "posicao": [
+      "Main Rapper"
+    ],
+    "altura_cm": 166
+  },
+  {
+    "nome": "Winter",
+    "grupo": "aespa",
+    "empresa": "SM Entertainment",
+    "ano_nascimento": 2001,
+    "nacionalidade": "Coreana",
+    "posicao": [
+      "Main Vocal",
+      "Lead Dancer",
+      "Visual"
+    ],
+    "altura_cm": 165
+  },
+  {
+    "nome": "Ningning",
+    "grupo": "aespa",
+    "empresa": "SM Entertainment",
+    "ano_nascimento": 2002,
+    "nacionalidade": "Chinesa",
+    "posicao": [
+      "Main Vocal",
+      "Maknae"
+    ],
+    "altura_cm": 161
+  },
+  {
+    "nome": "Naoi Rei",
+    "grupo": "IVE",
+    "empresa": "Starship Entertainment",
+    "ano_nascimento": 2004,
+    "nacionalidade": "Japonesa",
+    "posicao": [
+      "Main Rapper",
+      "Vocal"
+    ],
+    "altura_cm": 169
+  },
+  {
+    "nome": "An Yujin",
+    "grupo": "IVE",
+    "empresa": "Starship Entertainment",
+    "ano_nascimento": 2003,
+    "nacionalidade": "Coreana",
+    "posicao": [
+      "Leader",
+      "Main Vocal",
+      "Main Dancer"
+    ],
+    "altura_cm": 172
+  },
+  {
+    "nome": "Gaeul",
+    "grupo": "IVE",
+    "empresa": "Starship Entertainment",
+    "ano_nascimento": 2002,
+    "nacionalidade": "Coreana",
+    "posicao": [
+      "Lead Rapper",
+      "Lead Dancer"
+    ],
+    "altura_cm": 166
+  },
+  {
+    "nome": "Jang Wonyoung",
+    "grupo": "IVE",
+    "empresa": "Starship Entertainment",
+    "ano_nascimento": 2004,
+    "nacionalidade": "Coreana",
+    "posicao": [
+      "Vocal",
+      "Visual"
+    ],
+    "altura_cm": 173
+  },
+  {
+    "nome": "Liz",
+    "grupo": "IVE",
+    "empresa": "Starship Entertainment",
+    "ano_nascimento": 2004,
+    "nacionalidade": "Coreana",
+    "posicao": [
+      "Main Vocal"
+    ],
+    "altura_cm": 170
+  },
+  {
+    "nome": "Leeseo",
+    "grupo": "IVE",
+    "empresa": "Starship Entertainment",
+    "ano_nascimento": 2007,
+    "nacionalidade": "Coreana",
+    "posicao": [
+      "Maknae",
+      "Vocal"
+    ],
+    "altura_cm": 170
+  },
+  {
+    "nome": "Na Goeun",
+    "grupo": "Purple Kiss",
+    "empresa": "RBW Entertainment",
+    "ano_nascimento": 1999,
+    "nacionalidade": "Coreana",
+    "posicao": [
+      "Main Vocal",
+      "Lead Dancer"
+    ],
+    "altura_cm": 160
+  },
+  {
+    "nome": "Dosie",
+    "grupo": "Purple Kiss",
+    "empresa": "RBW Entertainment",
+    "ano_nascimento": 2000,
+    "nacionalidade": "Coreana",
+    "posicao": [
+      "Vocal",
+      "Main Dancer"
+    ],
+    "altura_cm": 163
+  },
+  {
+    "nome": "Ireh",
+    "grupo": "Purple Kiss",
+    "empresa": "RBW Entertainment",
+    "ano_nascimento": 2002,
+    "nacionalidade": "Coreana",
+    "posicao": [
+      "Main Dancer",
+      "Vocal"
+    ],
+    "altura_cm": 161
+  },
+  {
+    "nome": "Yuki",
+    "grupo": "Purple Kiss",
+    "empresa": "RBW Entertainment",
+    "ano_nascimento": 2002,
+    "nacionalidade": "Japonesa",
+    "posicao": [
+      "Main Rapper",
+      "Lead Dancer",
+      "Vocal"
+    ],
+    "altura_cm": 164
+  },
+  {
+    "nome": "Chaein",
+    "grupo": "Purple Kiss",
+    "empresa": "RBW Entertainment",
+    "ano_nascimento": 2002,
+    "nacionalidade": "Coreana",
+    "posicao": [
+      "Main Vocal",
+      "Lead Rapper",
+      "Lead Dancer"
+    ],
+    "altura_cm": 160
+  },
+  {
+    "nome": "Swan",
+    "grupo": "Purple Kiss",
+    "empresa": "RBW Entertainment",
+    "ano_nascimento": 2003,
+    "nacionalidade": "Coreana",
+    "posicao": [
+      "Main Vocal",
+      "Maknae"
+    ],
+    "altura_cm": 163
+  },
+  {
+    "nome": "Sumin",
+    "grupo": "STAYC",
+    "empresa": "High Up Entertainment",
+    "ano_nascimento": 2001,
+    "nacionalidade": "Coreana",
+    "posicao": [
+      "Leader",
+      "Vocal",
+      "Lead Rapper"
+    ],
+    "altura_cm": 159
+  },
+  {
+    "nome": "Sieun",
+    "grupo": "STAYC",
+    "empresa": "High Up Entertainment",
+    "ano_nascimento": 2001,
+    "nacionalidade": "Coreana",
+    "posicao": [
+      "Main Vocal"
+    ],
+    "altura_cm": 158
+  },
+  {
+    "nome": "Isa",
+    "grupo": "STAYC",
+    "empresa": "High Up Entertainment",
+    "ano_nascimento": 2002,
+    "nacionalidade": "Coreana",
+    "posicao": [
+      "Lead Vocal"
+    ],
+    "altura_cm": 162
+  },
+  {
+    "nome": "Seeun",
+    "grupo": "STAYC",
+    "empresa": "High Up Entertainment",
+    "ano_nascimento": 2003,
+    "nacionalidade": "Coreana",
+    "posicao": [
+      "Vocal"
+    ],
+    "altura_cm": 161
+  },
+  {
+    "nome": "Yoon",
+    "grupo": "STAYC",
+    "empresa": "High Up Entertainment",
+    "ano_nascimento": 2004,
+    "nacionalidade": "Coreana",
+    "posicao": [
+      "Lead Vocal"
+    ],
+    "altura_cm": 170
+  },
+  {
+    "nome": "J",
+    "grupo": "STAYC",
+    "empresa": "High Up Entertainment",
+    "ano_nascimento": 2004,
+    "nacionalidade": "Coreana",
+    "posicao": [
+      "Maknae",
+      "Vocal",
+      "Main Rapper"
+    ],
+    "altura_cm": 167
+  },
+  {
+    "nome": "Minji",
+    "grupo": "NewJeans",
+    "empresa": "ADOR (HYBE)",
+    "ano_nascimento": 2004,
+    "nacionalidade": "Coreana",
+    "posicao": [
+      "Vocal",
+      "Visual"
+    ],
+    "altura_cm": 169
+  },
+  {
+    "nome": "Hanni",
+    "grupo": "NewJeans",
+    "empresa": "ADOR (HYBE)",
+    "ano_nascimento": 2004,
+    "nacionalidade": "Vietnamita-Australiana",
+    "posicao": [
+      "Main Vocal",
+      "Main Dancer"
+    ],
+    "altura_cm": 161
+  },
+  {
+    "nome": "Danielle",
+    "grupo": "NewJeans",
+    "empresa": "ADOR (HYBE)",
+    "ano_nascimento": 2005,
+    "nacionalidade": "Coreana-Australiana",
+    "posicao": [
+      "Main Vocal"
+    ],
+    "altura_cm": 165
+  },
+  {
+    "nome": "Haerin",
+    "grupo": "NewJeans",
+    "empresa": "ADOR (HYBE)",
+    "ano_nascimento": 2006,
+    "nacionalidade": "Coreana",
+    "posicao": [
+      "Lead Vocal",
+      "Lead Dancer"
+    ],
+    "altura_cm": 165
+  },
+  {
+    "nome": "Hyein",
+    "grupo": "NewJeans",
+    "empresa": "ADOR (HYBE)",
+    "ano_nascimento": 2008,
+    "nacionalidade": "Coreana",
+    "posicao": [
+      "Maknae",
+      "Vocal"
+    ],
+    "altura_cm": 170
+  },
+  {
+    "nome": "Irene",
+    "grupo": "Red Velvet",
+    "empresa": "SM Entertainment",
+    "ano_nascimento": 1991,
+    "nacionalidade": "Coreana",
+    "posicao": [
+      "Leader",
+      "Main Rapper",
+      "Visual"
+    ],
+    "altura_cm": 158
+  },
+  {
+    "nome": "Seulgi",
+    "grupo": "Red Velvet",
+    "empresa": "SM Entertainment",
+    "ano_nascimento": 1994,
+    "nacionalidade": "Coreana",
+    "posicao": [
+      "Lead Vocal",
+      "Main Dancer"
+    ],
+    "altura_cm": 161
+  },
+  {
+    "nome": "Wendy",
+    "grupo": "Red Velvet",
+    "empresa": "SM Entertainment",
+    "ano_nascimento": 1994,
+    "nacionalidade": "Coreana",
+    "posicao": [
+      "Main Vocal"
+    ],
+    "altura_cm": 159
+  },
+  {
+    "nome": "Joy",
+    "grupo": "Red Velvet",
+    "empresa": "SM Entertainment",
+    "ano_nascimento": 1996,
+    "nacionalidade": "Coreana",
+    "posicao": [
+      "Lead Vocal",
+      "Rapper"
+    ],
+    "altura_cm": 168
+  },
+  {
+    "nome": "Yeri",
+    "grupo": "Red Velvet",
+    "empresa": "SM Entertainment",
+    "ano_nascimento": 1999,
+    "nacionalidade": "Coreana",
+    "posicao": [
+      "Vocal",
+      "Lead Rapper",
+      "Maknae"
+    ],
+    "altura_cm": 158
+  },
+  {
+    "nome": "Jennie",
+    "grupo": "BLACKPINK",
+    "empresa": "YG Entertainment",
+    "ano_nascimento": 1996,
+    "nacionalidade": "Coreana",
+    "posicao": [
+      "Main Rapper",
+      "Lead Vocal"
+    ],
+    "altura_cm": 163
+  },
+  {
+    "nome": "Jisoo",
+    "grupo": "BLACKPINK",
+    "empresa": "YG Entertainment",
+    "ano_nascimento": 1995,
+    "nacionalidade": "Coreana",
+    "posicao": [
+      "Lead Vocal",
+      "Visual"
+    ],
+    "altura_cm": 162
+  },
+  {
+    "nome": "Rosé",
+    "grupo": "BLACKPINK",
+    "empresa": "YG Entertainment",
+    "ano_nascimento": 1997,
+    "nacionalidade": "Coreana-Nova Zelandesa",
+    "posicao": [
+      "Main Vocal",
+      "Lead Vocalist"
+    ],
+    "altura_cm": 168
+  },
+  {
+    "nome": "Lisa",
+    "grupo": "BLACKPINK",
+    "empresa": "YG Entertainment",
+    "ano_nascimento": 1997,
+    "nacionalidade": "Tailandesa",
+    "posicao": [
+      "Lead Rapper",
+      "Main Dancer"
+    ],
+    "altura_cm": 167
+  },
+  {
+    "nome": "JiU",
+    "grupo": "Dreamcatcher",
+    "empresa": "Dreamcatcher Company",
+    "ano_nascimento": 1994,
+    "nacionalidade": "Coreana",
+    "posicao": [
+      "Leader",
+      "Lead Vocal",
+      "Visual"
+    ],
+    "altura_cm": 167
+  },
+  {
+    "nome": "SuA",
+    "grupo": "Dreamcatcher",
+    "empresa": "Dreamcatcher Company",
+    "ano_nascimento": 1994,
+    "nacionalidade": "Coreana",
+    "posicao": [
+      "Main Dancer",
+      "Vocal",
+      "Lead Rapper"
+    ],
+    "altura_cm": 162
+  },
+  {
+    "nome": "Siyeon",
+    "grupo": "Dreamcatcher",
+    "empresa": "Dreamcatcher Company",
+    "ano_nascimento": 1995,
+    "nacionalidade": "Coreana",
+    "posicao": [
+      "Main Vocal"
+    ],
+    "altura_cm": 166
+  },
+  {
+    "nome": "Handong",
+    "grupo": "Dreamcatcher",
+    "empresa": "Dreamcatcher Company",
+    "ano_nascimento": 1996,
+    "nacionalidade": "Chinesa",
+    "posicao": [
+      "Vocal"
+    ],
+    "altura_cm": 165
+  },
+  {
+    "nome": "Yoohyeon",
+    "grupo": "Dreamcatcher",
+    "empresa": "Dreamcatcher Company",
+    "ano_nascimento": 1997,
+    "nacionalidade": "Coreana",
+    "posicao": [
+      "Lead Dancer",
+      "Lead Vocal"
+    ],
+    "altura_cm": 168
+  },
+  {
+    "nome": "Dami",
+    "grupo": "Dreamcatcher",
+    "empresa": "Dreamcatcher Company",
+    "ano_nascimento": 1997,
+    "nacionalidade": "Coreana",
+    "posicao": [
+      "Main Rapper",
+      "Lead Dancer"
+    ],
+    "altura_cm": 163
+  },
+  {
+    "nome": "Gahyeon",
+    "grupo": "Dreamcatcher",
+    "empresa": "Dreamcatcher Company",
+    "ano_nascimento": 1999,
+    "nacionalidade": "Coreana",
+    "posicao": [
+      "Vocal",
+      "Lead Rapper",
+      "Maknae"
+    ],
+    "altura_cm": 160
+  },
+  {
+    "nome": "Seola",
+    "grupo": "WJSN",
+    "empresa": "Starship Entertainment",
+    "ano_nascimento": 1994,
+    "nacionalidade": "Coreana",
+    "posicao": [
+      "Lead Vocal"
+    ],
+    "altura_cm": 165
+  },
+  {
+    "nome": "Xuanyi",
+    "grupo": "WJSN",
+    "empresa": "Starship Entertainment",
+    "ano_nascimento": 1995,
+    "nacionalidade": "Chinesa",
+    "posicao": [
+      "Vocal",
+      "Lead Dancer"
+    ],
+    "altura_cm": 166
+  },
+  {
+    "nome": "Bona",
+    "grupo": "WJSN",
+    "empresa": "Starship Entertainment",
+    "ano_nascimento": 1995,
+    "nacionalidade": "Coreana",
+    "posicao": [
+      "Vocal",
+      "Lead Dancer",
+      "Visual"
+    ],
+    "altura_cm": 163
+  },
+  {
+    "nome": "Soobin",
+    "grupo": "WJSN",
+    "empresa": "Starship Entertainment",
+    "ano_nascimento": 1996,
+    "nacionalidade": "Coreana",
+    "posicao": [
+      "Main Vocal"
+    ],
+    "altura_cm": 159
+  },
+  {
+    "nome": "Luda",
+    "grupo": "WJSN",
+    "empresa": "Starship Entertainment",
+    "ano_nascimento": 1997,
+    "nacionalidade": "Coreana",
+    "posicao": [
+      "Vocal",
+      "Rapper"
+    ],
+    "altura_cm": 156
+  },
+  {
+    "nome": "Dawon",
+    "grupo": "WJSN",
+    "empresa": "Starship Entertainment",
+    "ano_nascimento": 1997,
+    "nacionalidade": "Coreana",
+    "posicao": [
+      "Main Vocal"
+    ],
+    "altura_cm": 165
+  },
+  {
+    "nome": "Eunseo",
+    "grupo": "WJSN",
+    "empresa": "Starship Entertainment",
+    "ano_nascimento": 1998,
+    "nacionalidade": "Coreana",
+    "posicao": [
+      "Vocal",
+      "Rapper"
+    ],
+    "altura_cm": 165
+  },
+  {
+    "nome": "Cheng Xiao",
+    "grupo": "WJSN",
+    "empresa": "Starship Entertainment",
+    "ano_nascimento": 1998,
+    "nacionalidade": "Chinesa",
+    "posicao": [
+      "Main Dancer",
+      "Visual"
+    ],
+    "altura_cm": 167
+  },
+  {
+    "nome": "Meiqi",
+    "grupo": "WJSN",
+    "empresa": "Starship Entertainment",
+    "ano_nascimento": 1998,
+    "nacionalidade": "Chinesa",
+    "posicao": [
+      "Main Dancer",
+      "Vocal"
+    ],
+    "altura_cm": 165
+  },
+  {
+    "nome": "Yeoreum",
+    "grupo": "WJSN",
+    "empresa": "Starship Entertainment",
+    "ano_nascimento": 1999,
+    "nacionalidade": "Coreana",
+    "posicao": [
+      "Lead Rapper",
+      "Main Dancer"
+    ],
+    "altura_cm": 161
+  },
+  {
+    "nome": "Dayoung",
+    "grupo": "WJSN",
+    "empresa": "Starship Entertainment",
+    "ano_nascimento": 1999,
+    "nacionalidade": "Coreana",
+    "posicao": [
+      "Lead Vocal"
+    ],
+    "altura_cm": 161
+  },
+  {
+    "nome": "Yeonjung",
+    "grupo": "WJSN",
+    "empresa": "Starship Entertainment",
+    "ano_nascimento": 1999,
+    "nacionalidade": "Coreana",
+    "posicao": [
+      "Main Vocal",
+      "Maknae"
+    ],
+    "altura_cm": 166
+  },
+  {
+    "nome": "Nayeon",
+    "grupo": "TWICE",
+    "empresa": "JYP Entertainment",
+    "ano_nascimento": 1995,
+    "nacionalidade": "Coreana",
+    "posicao": [
+      "Lead Vocal",
+      "Lead Dancer",
+      "Center"
+    ],
+    "altura_cm": 163
+  },
+  {
+    "nome": "Jeongyeon",
+    "grupo": "TWICE",
+    "empresa": "JYP Entertainment",
+    "ano_nascimento": 1996,
+    "nacionalidade": "Coreana",
+    "posicao": [
+      "Lead Vocal"
+    ],
+    "altura_cm": 167
+  },
+  {
+    "nome": "Momo",
+    "grupo": "TWICE",
+    "empresa": "JYP Entertainment",
+    "ano_nascimento": 1996,
+    "nacionalidade": "Japonesa",
+    "posicao": [
+      "Main Dancer",
+      "Rapper"
+    ],
+    "altura_cm": 162
+  },
+  {
+    "nome": "Sana",
+    "grupo": "TWICE",
+    "empresa": "JYP Entertainment",
+    "ano_nascimento": 1996,
+    "nacionalidade": "Japonesa",
+    "posicao": [
+      "Vocal",
+      "Visual",
+      "Lead Dancer"
+    ],
+    "altura_cm": 164
+  },
+  {
+    "nome": "Jihyo",
+    "grupo": "TWICE",
+    "empresa": "JYP Entertainment",
+    "ano_nascimento": 1997,
+    "nacionalidade": "Coreana",
+    "posicao": [
+      "Leader",
+      "Main Vocal",
+      "Lead Dancer"
+    ],
+    "altura_cm": 160
+  },
+  {
+    "nome": "Mina",
+    "grupo": "TWICE",
+    "empresa": "JYP Entertainment",
+    "ano_nascimento": 1997,
+    "nacionalidade": "Japonesa",
+    "posicao": [
+      "Vocal",
+      "Main Dancer",
+      "Visual"
+    ],
+    "altura_cm": 163
+  },
+  {
+    "nome": "Dahyun",
+    "grupo": "TWICE",
+    "empresa": "JYP Entertainment",
+    "ano_nascimento": 1998,
+    "nacionalidade": "Coreana",
+    "posicao": [
+      "Lead Rapper",
+      "Vocal"
+    ],
+    "altura_cm": 159
+  },
+  {
+    "nome": "Chaeyoung",
+    "grupo": "TWICE",
+    "empresa": "JYP Entertainment",
+    "ano_nascimento": 1999,
+    "nacionalidade": "Coreana",
+    "posicao": [
+      "Main Rapper",
+      "Vocal"
+    ],
+    "altura_cm": 159
+  },
+  {
+    "nome": "Tzuyu",
+    "grupo": "TWICE",
+    "empresa": "JYP Entertainment",
+    "ano_nascimento": 1999,
+    "nacionalidade": "Taiwanesa",
+    "posicao": [
+      "Vocal",
+      "Visual",
+      "Maknae"
+    ],
+    "altura_cm": 170
+  },
+  {
+    "nome": "Soojin",
+    "grupo": "Weeekly",
+    "empresa": "IST Entertainment",
+    "ano_nascimento": 2001,
+    "nacionalidade": "Coreana",
+    "posicao": [
+      "Leader",
+      "Vocal",
+      "Dancer"
+    ],
+    "altura_cm": 164
+  },
+  {
+    "nome": "Jiyoon",
+    "grupo": "Weeekly",
+    "empresa": "IST Entertainment",
+    "ano_nascimento": 2002,
+    "nacionalidade": "Coreana",
+    "posicao": [
+      "Vocal",
+      "Rapper"
+    ],
+    "altura_cm": 165
+  },
+  {
+    "nome": "Monday",
+    "grupo": "Weeekly",
+    "empresa": "IST Entertainment",
+    "ano_nascimento": 2002,
+    "nacionalidade": "Coreana",
+    "posicao": [
+      "Main Vocal",
+      "Dancer"
+    ],
+    "altura_cm": 171
+  },
+  {
+    "nome": "Soeun",
+    "grupo": "Weeekly",
+    "empresa": "IST Entertainment",
+    "ano_nascimento": 2002,
+    "nacionalidade": "Coreana",
+    "posicao": [
+      "Vocal",
+      "Dancer"
+    ],
+    "altura_cm": 170
+  },
+  {
+    "nome": "Jaehee",
+    "grupo": "Weeekly",
+    "empresa": "IST Entertainment",
+    "ano_nascimento": 2004,
+    "nacionalidade": "Coreana",
+    "posicao": [
+      "Vocal"
+    ],
+    "altura_cm": 166
+  },
+  {
+    "nome": "Jihan",
+    "grupo": "Weeekly",
+    "empresa": "IST Entertainment",
+    "ano_nascimento": 2004,
+    "nacionalidade": "Coreana",
+    "posicao": [
+      "Vocal",
+      "Visual"
+    ],
+    "altura_cm": 164
+  },
+  {
+    "nome": "Zoa",
+    "grupo": "Weeekly",
+    "empresa": "IST Entertainment",
+    "ano_nascimento": 2005,
+    "nacionalidade": "Coreana",
+    "posicao": [
+      "Vocal",
+      "Rapper",
+      "Maknae"
+    ],
+    "altura_cm": 171
+  },
+  {
+    "nome": "Chorong",
+    "grupo": "Apink",
+    "empresa": "IST Entertainment",
+    "ano_nascimento": 1991,
+    "nacionalidade": "Coreana",
+    "posicao": [
+      "Leader",
+      "Vocal"
+    ],
+    "altura_cm": 161
+  },
+  {
+    "nome": "Bomi",
+    "grupo": "Apink",
+    "empresa": "IST Entertainment",
+    "ano_nascimento": 1993,
+    "nacionalidade": "Coreana",
+    "posicao": [
+      "Vocal",
+      "Dancer"
+    ],
+    "altura_cm": 161
+  },
+  {
+    "nome": "Eunji",
+    "grupo": "Apink",
+    "empresa": "IST Entertainment",
+    "ano_nascimento": 1993,
+    "nacionalidade": "Coreana",
+    "posicao": [
+      "Main Vocal"
+    ],
+    "altura_cm": 162
+  },
+  {
+    "nome": "Namjoo",
+    "grupo": "Apink",
+    "empresa": "IST Entertainment",
+    "ano_nascimento": 1995,
+    "nacionalidade": "Coreana",
+    "posicao": [
+      "Vocal",
+      "Rapper"
+    ],
+    "altura_cm": 165
+  },
+  {
+    "nome": "Hayoung",
+    "grupo": "Apink",
+    "empresa": "IST Entertainment",
+    "ano_nascimento": 1996,
+    "nacionalidade": "Coreana",
+    "posicao": [
+      "Vocal",
+      "Rapper",
+      "Maknae"
+    ],
+    "altura_cm": 169
+  },
+  {
+    "nome": "Sihyeon",
+    "grupo": "EVERGLOW",
+    "empresa": "Yuehua Entertainment",
+    "ano_nascimento": 1999,
+    "nacionalidade": "Coreana",
+    "posicao": [
+      "Leader",
+      "Main Vocal"
+    ],
+    "altura_cm": 168
+  },
+  {
+    "nome": "E:U",
+    "grupo": "EVERGLOW",
+    "empresa": "Yuehua Entertainment",
+    "ano_nascimento": 1998,
+    "nacionalidade": "Coreana",
+    "posicao": [
+      "Main Rapper",
+      "Dancer"
+    ],
+    "altura_cm": 166
+  },
+  {
+    "nome": "Mia",
+    "grupo": "EVERGLOW",
+    "empresa": "Yuehua Entertainment",
+    "ano_nascimento": 2000,
+    "nacionalidade": "Coreana",
+    "posicao": [
+      "Main Vocal",
+      "Dancer"
+    ],
+    "altura_cm": 163
+  },
+  {
+    "nome": "Onda",
+    "grupo": "EVERGLOW",
+    "empresa": "Yuehua Entertainment",
+    "ano_nascimento": 2000,
+    "nacionalidade": "Coreana",
+    "posicao": [
+      "Vocal"
+    ],
+    "altura_cm": 165
+  },
+  {
+    "nome": "Aisha",
+    "grupo": "EVERGLOW",
+    "empresa": "Yuehua Entertainment",
+    "ano_nascimento": 2000,
+    "nacionalidade": "Coreana",
+    "posicao": [
+      "Rapper",
+      "Vocal"
+    ],
+    "altura_cm": 174
+  },
+  {
+    "nome": "Yiren",
+    "grupo": "EVERGLOW",
+    "empresa": "Yuehua Entertainment",
+    "ano_nascimento": 2000,
+    "nacionalidade": "Chinesa",
+    "posicao": [
+      "Vocal",
+      "Dancer",
+      "Maknae"
+    ],
+    "altura_cm": 163
+  },
+  {
+    "nome": "Gyuri",
+    "grupo": "KARA",
+    "empresa": "DSP Media",
+    "ano_nascimento": 1988,
+    "nacionalidade": "Coreana",
+    "posicao": [
+      "Leader",
+      "Vocal"
+    ],
+    "altura_cm": 162
+  },
+  {
+    "nome": "Seungyeon",
+    "grupo": "KARA",
+    "empresa": "DSP Media",
+    "ano_nascimento": 1988,
+    "nacionalidade": "Coreana",
+    "posicao": [
+      "Main Vocal"
+    ],
+    "altura_cm": 160
+  },
+  {
+    "nome": "Nicole",
+    "grupo": "KARA",
+    "empresa": "DSP Media",
+    "ano_nascimento": 1991,
+    "nacionalidade": "Coreana-Americana",
+    "posicao": [
+      "Main Rapper",
+      "Dancer"
+    ],
+    "altura_cm": 165
+  },
+  {
+    "nome": "Jiyoung",
+    "grupo": "KARA",
+    "empresa": "DSP Media",
+    "ano_nascimento": 1994,
+    "nacionalidade": "Coreana",
+    "posicao": [
+      "Vocal",
+      "Maknae"
+    ],
+    "altura_cm": 167
+  },
+  {
+    "nome": "Youngji",
+    "grupo": "KARA",
+    "empresa": "DSP Media",
+    "ano_nascimento": 1994,
+    "nacionalidade": "Coreana",
+    "posicao": [
+      "Rapper",
+      "Vocal"
+    ],
+    "altura_cm": 166
+  },
+  {
+    "nome": "Yeeun",
+    "grupo": "Wonder Girls",
+    "empresa": "JYP Entertainment",
+    "ano_nascimento": 1989,
+    "nacionalidade": "Coreana",
+    "posicao": [
+      "Leader",
+      "Main Vocal"
+    ],
+    "altura_cm": 165
+  },
+  {
+    "nome": "Sunye",
+    "grupo": "Wonder Girls",
+    "empresa": "JYP Entertainment",
+    "ano_nascimento": 1989,
+    "nacionalidade": "Coreana",
+    "posicao": [
+      "Main Vocal"
+    ],
+    "altura_cm": 160
+  },
+  {
+    "nome": "Sunmi",
+    "grupo": "Wonder Girls",
+    "empresa": "JYP Entertainment",
+    "ano_nascimento": 1992,
+    "nacionalidade": "Coreana",
+    "posicao": [
+      "Vocal",
+      "Dancer"
+    ],
+    "altura_cm": 166
+  },
+  {
+    "nome": "Hyuna",
+    "grupo": "Wonder Girls",
+    "empresa": "JYP Entertainment",
+    "ano_nascimento": 1992,
+    "nacionalidade": "Coreana",
+    "posicao": [
+      "Main Rapper",
+      "Dancer"
+    ],
+    "altura_cm": 164
+  },
+  {
+    "nome": "Sohee",
+    "grupo": "Wonder Girls",
+    "empresa": "JYP Entertainment",
+    "ano_nascimento": 1992,
+    "nacionalidade": "Coreana",
+    "posicao": [
+      "Vocal"
+    ],
+    "altura_cm": 162
+  },
+  {
+    "nome": "Yubin",
+    "grupo": "Wonder Girls",
+    "empresa": "JYP Entertainment",
+    "ano_nascimento": 1988,
+    "nacionalidade": "Coreana",
+    "posicao": [
+      "Rapper",
+      "Vocal"
+    ],
+    "altura_cm": 163
+  },
+  {
+    "nome": "Hyerim",
+    "grupo": "Wonder Girls",
+    "empresa": "JYP Entertainment",
+    "ano_nascimento": 1992,
+    "nacionalidade": "Coreana",
+    "posicao": [
+      "Vocal",
+      "Rapper",
+      "Maknae"
+    ],
+    "altura_cm": 167
+  },
+  {
+    "nome": "Sowon",
+    "grupo": "Gfriend",
+    "empresa": "Source Music",
+    "ano_nascimento": 1995,
+    "nacionalidade": "Coreana",
+    "posicao": [
+      "Leader",
+      "Vocal",
+      "Rapper"
+    ],
+    "altura_cm": 172
+  },
+  {
+    "nome": "Yerin",
+    "grupo": "Gfriend",
+    "empresa": "Source Music",
+    "ano_nascimento": 1996,
+    "nacionalidade": "Coreana",
+    "posicao": [
+      "Vocal",
+      "Dancer"
+    ],
+    "altura_cm": 167
+  },
+  {
+    "nome": "Eunha",
+    "grupo": "Gfriend",
+    "empresa": "Source Music",
+    "ano_nascimento": 1997,
+    "nacionalidade": "Coreana",
+    "posicao": [
+      "Main Vocal"
+    ],
+    "altura_cm": 162
+  },
+  {
+    "nome": "Yuju",
+    "grupo": "Gfriend",
+    "empresa": "Source Music",
+    "ano_nascimento": 1997,
+    "nacionalidade": "Coreana",
+    "posicao": [
+      "Main Vocal"
+    ],
+    "altura_cm": 169
+  },
+  {
+    "nome": "SinB",
+    "grupo": "Gfriend",
+    "empresa": "Source Music",
+    "ano_nascimento": 1998,
+    "nacionalidade": "Coreana",
+    "posicao": [
+      "Main Dancer",
+      "Vocal"
+    ],
+    "altura_cm": 166
+  },
+  {
+    "nome": "Umji",
+    "grupo": "Gfriend",
+    "empresa": "Source Music",
+    "ano_nascimento": 1998,
+    "nacionalidade": "Coreana",
+    "posicao": [
+      "Vocal",
+      "Maknae"
+    ],
+    "altura_cm": 165
+  },
+  {
+    "nome": "Solar",
+    "grupo": "MAMAMOO",
+    "empresa": "RBW Entertainment",
+    "ano_nascimento": 1991,
+    "nacionalidade": "Coreana",
+    "posicao": [
+      "Leader",
+      "Main Vocal"
+    ],
+    "altura_cm": 159
+  },
+  {
+    "nome": "Moonbyul",
+    "grupo": "MAMAMOO",
+    "empresa": "RBW Entertainment",
+    "ano_nascimento": 1992,
+    "nacionalidade": "Coreana",
+    "posicao": [
+      "Main Rapper",
+      "Dancer"
+    ],
+    "altura_cm": 163
+  },
+  {
+    "nome": "Wheein",
+    "grupo": "MAMAMOO",
+    "empresa": "RBW Entertainment",
+    "ano_nascimento": 1995,
+    "nacionalidade": "Coreana",
+    "posicao": [
+      "Main Vocal"
+    ],
+    "altura_cm": 162
+  },
+  {
+    "nome": "Hwasa",
+    "grupo": "MAMAMOO",
+    "empresa": "RBW Entertainment",
+    "ano_nascimento": 1995,
+    "nacionalidade": "Coreana",
+    "posicao": [
+      "Vocal",
+      "Rapper"
+    ],
+    "altura_cm": 160
+  },
+  {
+    "nome": "Natty",
+    "grupo": "KISS OF LIFE",
+    "empresa": "S2 Entertainment",
+    "ano_nascimento": 2002,
+    "nacionalidade": "Tailandesa",
+    "posicao": [
+      "Vocal",
+      "Main Dancer"
+    ],
+    "altura_cm": 165
+  },
+  {
+    "nome": "Julie",
+    "grupo": "KISS OF LIFE",
+    "empresa": "S2 Entertainment",
+    "ano_nascimento": 2000,
+    "nacionalidade": "Coreana-Americana",
+    "posicao": [
+      "Leader",
+      "Rapper",
+      "Vocal"
+    ],
+    "altura_cm": 164
+  },
+  {
+    "nome": "Belle",
+    "grupo": "KISS OF LIFE",
+    "empresa": "S2 Entertainment",
+    "ano_nascimento": 2004,
+    "nacionalidade": "Coreana-Americana",
+    "posicao": [
+      "Main Vocal"
+    ],
+    "altura_cm": 162
+  },
+  {
+    "nome": "Haneul",
+    "grupo": "KISS OF LIFE",
+    "empresa": "S2 Entertainment",
+    "ano_nascimento": 2005,
+    "nacionalidade": "Coreana",
+    "posicao": [
+      "Vocal",
+      "Maknae"
+    ],
+    "altura_cm": 161
+  },
+  {
+    "nome": "Ruka",
+    "grupo": "BABYMONSTER",
+    "empresa": "YG Entertainment",
+    "ano_nascimento": 2002,
+    "nacionalidade": "Japonesa",
+    "posicao": [
+      "Dancer",
+      "Rapper"
+    ],
+    "altura_cm": null
+  },
+  {
+    "nome": "Pharita",
+    "grupo": "BABYMONSTER",
+    "empresa": "YG Entertainment",
+    "ano_nascimento": 2005,
+    "nacionalidade": "Tailandesa",
+    "posicao": [
+      "Vocal"
+    ],
+    "altura_cm": null
+  },
+  {
+    "nome": "Asa",
+    "grupo": "BABYMONSTER",
+    "empresa": "YG Entertainment",
+    "ano_nascimento": 2006,
+    "nacionalidade": "Japonesa",
+    "posicao": [
+      "Rapper",
+      "Dancer"
+    ],
+    "altura_cm": 165
+  },
+  {
+    "nome": "Ahyeon",
+    "grupo": "BABYMONSTER",
+    "empresa": "YG Entertainment",
+    "ano_nascimento": 2007,
+    "nacionalidade": "Coreana",
+    "posicao": [
+      "Vocal",
+      "Rapper"
+    ],
+    "altura_cm": 168
+  },
+  {
+    "nome": "Rami",
+    "grupo": "BABYMONSTER",
+    "empresa": "YG Entertainment",
+    "ano_nascimento": 2007,
+    "nacionalidade": "Coreana",
+    "posicao": [
+      "Vocal"
+    ],
+    "altura_cm": null
+  },
+  {
+    "nome": "Rora",
+    "grupo": "BABYMONSTER",
+    "empresa": "YG Entertainment",
+    "ano_nascimento": 2008,
+    "nacionalidade": "Coreana",
+    "posicao": [
+      "Vocal",
+      "Maknae"
+    ],
+    "altura_cm": 166
+  },
+  {
+    "nome": "Chiquita",
+    "grupo": "BABYMONSTER",
+    "empresa": "YG Entertainment",
+    "ano_nascimento": 2009,
+    "nacionalidade": "Tailandesa",
+    "posicao": [
+      "Maknae",
+      "Vocal"
+    ],
+    "altura_cm": null
+  },
+  {
+    "nome": "Taeyeon",
+    "grupo": "Girls' Generation",
+    "empresa": "SM Entertainment",
+    "ano_nascimento": 1989,
+    "nacionalidade": "Coreana",
+    "posicao": [
+      "Leader",
+      "Main Vocal"
+    ],
+    "altura_cm": 158
+  },
+  {
+    "nome": "Sunny",
+    "grupo": "Girls' Generation",
+    "empresa": "SM Entertainment",
+    "ano_nascimento": 1989,
+    "nacionalidade": "Coreana-Americana",
+    "posicao": [
+      "Vocal"
+    ],
+    "altura_cm": 158
+  },
+  {
+    "nome": "Tiffany",
+    "grupo": "Girls' Generation",
+    "empresa": "SM Entertainment",
+    "ano_nascimento": 1989,
+    "nacionalidade": "Coreana-Americana",
+    "posicao": [
+      "Vocal"
+    ],
+    "altura_cm": 163
+  },
+  {
+    "nome": "Hyoyeon",
+    "grupo": "Girls' Generation",
+    "empresa": "SM Entertainment",
+    "ano_nascimento": 1989,
+    "nacionalidade": "Coreana",
+    "posicao": [
+      "Main Dancer",
+      "Rapper"
+    ],
+    "altura_cm": 160
+  },
+  {
+    "nome": "Yuri",
+    "grupo": "Girls' Generation",
+    "empresa": "SM Entertainment",
+    "ano_nascimento": 1989,
+    "nacionalidade": "Coreana",
+    "posicao": [
+      "Vocal",
+      "Dancer"
+    ],
+    "altura_cm": 167
+  },
+  {
+    "nome": "Sooyoung",
+    "grupo": "Girls' Generation",
+    "empresa": "SM Entertainment",
+    "ano_nascimento": 1990,
+    "nacionalidade": "Coreana",
+    "posicao": [
+      "Vocal"
+    ],
+    "altura_cm": 170
+  },
+  {
+    "nome": "Yoona",
+    "grupo": "Girls' Generation",
+    "empresa": "SM Entertainment",
+    "ano_nascimento": 1990,
+    "nacionalidade": "Coreana",
+    "posicao": [
+      "Vocal",
+      "Visual"
+    ],
+    "altura_cm": 168
+  },
+  {
+    "nome": "Seohyun",
+    "grupo": "Girls' Generation",
+    "empresa": "SM Entertainment",
+    "ano_nascimento": 1991,
+    "nacionalidade": "Coreana",
+    "posicao": [
+      "Vocal",
+      "Maknae"
+    ],
+    "altura_cm": 168
+  },
+  {
+    "nome": "Fei",
+    "grupo": "miss A",
+    "empresa": "JYP Entertainment",
+    "ano_nascimento": 1987,
+    "nacionalidade": "Chinesa",
+    "posicao": [
+      "Main Vocal"
+    ],
+    "altura_cm": 165
+  },
+  {
+    "nome": "Jia",
+    "grupo": "miss A",
+    "empresa": "JYP Entertainment",
+    "ano_nascimento": 1989,
+    "nacionalidade": "Chinesa",
+    "posicao": [
+      "Rapper",
+      "Vocal"
+    ],
+    "altura_cm": 166
+  },
+  {
+    "nome": "Min",
+    "grupo": "miss A",
+    "empresa": "JYP Entertainment",
+    "ano_nascimento": 1991,
+    "nacionalidade": "Coreana",
+    "posicao": [
+      "Vocal",
+      "Main Dancer"
+    ],
+    "altura_cm": 161
+  },
+  {
+    "nome": "Suzy",
+    "grupo": "miss A",
+    "empresa": "JYP Entertainment",
+    "ano_nascimento": 1994,
+    "nacionalidade": "Coreana",
+    "posicao": [
+      "Vocal",
+      "Visual",
+      "Maknae"
+    ],
+    "altura_cm": 168
+  },
+  {
+    "nome": "Yujin",
+    "grupo": "Kep1er",
+    "empresa": "WakeOne Entertainment",
+    "ano_nascimento": 1996,
+    "nacionalidade": "Coreana",
+    "posicao": [
+      "Leader",
+      "Vocal"
+    ],
+    "altura_cm": 163
+  },
+  {
+    "nome": "Xiaoting",
+    "grupo": "Kep1er",
+    "empresa": "WakeOne Entertainment",
+    "ano_nascimento": 1999,
+    "nacionalidade": "Chinesa",
+    "posicao": [
+      "Dancer",
+      "Vocal"
+    ],
+    "altura_cm": 166
+  },
+  {
+    "nome": "Mashiro",
+    "grupo": "Kep1er",
+    "empresa": "WakeOne Entertainment",
+    "ano_nascimento": 1999,
+    "nacionalidade": "Japonesa",
+    "posicao": [
+      "Vocal"
+    ],
+    "altura_cm": 158
+  },
+  {
+    "nome": "Chaehyun",
+    "grupo": "Kep1er",
+    "empresa": "WakeOne Entertainment",
+    "ano_nascimento": 2002,
+    "nacionalidade": "Coreana",
+    "posicao": [
+      "Main Vocal"
+    ],
+    "altura_cm": 160
+  },
+  {
+    "nome": "Dayeon",
+    "grupo": "Kep1er",
+    "empresa": "WakeOne Entertainment",
+    "ano_nascimento": 2003,
+    "nacionalidade": "Coreana",
+    "posicao": [
+      "Vocal",
+      "Dancer"
+    ],
+    "altura_cm": 158
+  },
+  {
+    "nome": "Hikaru",
+    "grupo": "Kep1er",
+    "empresa": "WakeOne Entertainment",
+    "ano_nascimento": 2004,
+    "nacionalidade": "Japonesa",
+    "posicao": [
+      "Rapper",
+      "Dancer"
+    ],
+    "altura_cm": 155
+  },
+  {
+    "nome": "Huening Bahiyyih",
+    "grupo": "Kep1er",
+    "empresa": "WakeOne Entertainment",
+    "ano_nascimento": 2004,
+    "nacionalidade": "Coreana-Americana",
+    "posicao": [
+      "Vocal"
+    ],
+    "altura_cm": 166
+  },
+  {
+    "nome": "Youngeun",
+    "grupo": "Kep1er",
+    "empresa": "WakeOne Entertainment",
+    "ano_nascimento": 2004,
+    "nacionalidade": "Coreana",
+    "posicao": [
+      "Vocal",
+      "Rapper"
+    ],
+    "altura_cm": 159
+  },
+  {
+    "nome": "Yeseo",
+    "grupo": "Kep1er",
+    "empresa": "WakeOne Entertainment",
+    "ano_nascimento": 2005,
+    "nacionalidade": "Coreana",
+    "posicao": [
+      "Vocal",
+      "Maknae"
+    ],
+    "altura_cm": 157
+  },
+  {
+    "nome": "Minju",
+    "grupo": "ILLIT",
+    "empresa": "Belift Lab (HYBE)",
+    "ano_nascimento": 2004,
+    "nacionalidade": "Coreana",
+    "posicao": [
+      "Vocal"
+    ],
+    "altura_cm": null
+  },
+  {
+    "nome": "Moka",
+    "grupo": "ILLIT",
+    "empresa": "Belift Lab (HYBE)",
+    "ano_nascimento": 2004,
+    "nacionalidade": "Japonesa",
+    "posicao": [
+      "Dancer",
+      "Vocal"
+    ],
+    "altura_cm": null
+  },
+  {
+    "nome": "Wonhee",
+    "grupo": "ILLIT",
+    "empresa": "Belift Lab (HYBE)",
+    "ano_nascimento": 2007,
+    "nacionalidade": "Coreana",
+    "posicao": [
+      "Vocal"
+    ],
+    "altura_cm": null
+  },
+  {
+    "nome": "Iroha",
+    "grupo": "ILLIT",
+    "empresa": "Belift Lab (HYBE)",
+    "ano_nascimento": 2008,
+    "nacionalidade": "Japonesa",
+    "posicao": [
+      "Dancer",
+      "Maknae"
+    ],
+    "altura_cm": null
+  },
+  {
+    "nome": "Sunhye",
+    "grupo": "Young Posse",
+    "empresa": "DSP Media",
+    "ano_nascimento": 2001,
+    "nacionalidade": "Coreana",
+    "posicao": [
+      "Leader",
+      "Rapper"
+    ],
+    "altura_cm": null
+  },
+  {
+    "nome": "Yeonjung",
+    "grupo": "Young Posse",
+    "empresa": "DSP Media",
+    "ano_nascimento": 2004,
+    "nacionalidade": "Coreana",
+    "posicao": [
+      "Vocal"
+    ],
+    "altura_cm": null
+  },
+  {
+    "nome": "Jiana",
+    "grupo": "Young Posse",
+    "empresa": "DSP Media",
+    "ano_nascimento": 2006,
+    "nacionalidade": "Coreana",
+    "posicao": [
+      "Rapper"
+    ],
+    "altura_cm": null
+  },
+  {
+    "nome": "Doeun",
+    "grupo": "Young Posse",
+    "empresa": "DSP Media",
+    "ano_nascimento": 2006,
+    "nacionalidade": "Coreana",
+    "posicao": [
+      "Vocal"
+    ],
+    "altura_cm": null
+  },
+  {
+    "nome": "Jieun",
+    "grupo": "Young Posse",
+    "empresa": "DSP Media",
+    "ano_nascimento": 2007,
+    "nacionalidade": "Coreana",
+    "posicao": [
+      "Vocal",
+      "Maknae"
+    ],
+    "altura_cm": null
+  },
+  {
+    "nome": "Won",
+    "grupo": "Rescene",
+    "empresa": "MUPLY",
+    "ano_nascimento": 2003,
+    "nacionalidade": "Coreana",
+    "posicao": [
+      "Vocal"
+    ],
+    "altura_cm": null
+  },
+  {
+    "nome": "Liv",
+    "grupo": "Rescene",
+    "empresa": "MUPLY",
+    "ano_nascimento": 2004,
+    "nacionalidade": "Coreana",
+    "posicao": [
+      "Vocal"
+    ],
+    "altura_cm": null
+  },
+  {
+    "nome": "Minami",
+    "grupo": "Rescene",
+    "empresa": "MUPLY",
+    "ano_nascimento": 2005,
+    "nacionalidade": "Japonesa",
+    "posicao": [
+      "Vocal"
+    ],
+    "altura_cm": null
+  },
+  {
+    "nome": "May",
+    "grupo": "Rescene",
+    "empresa": "MUPLY",
+    "ano_nascimento": 2006,
+    "nacionalidade": "Coreana",
+    "posicao": [
+      "Vocal"
+    ],
+    "altura_cm": null
+  },
+  {
+    "nome": "Kami",
+    "grupo": "Rescene",
+    "empresa": "MUPLY",
+    "ano_nascimento": 2007,
+    "nacionalidade": "Coreana",
+    "posicao": [
+      "Vocal",
+      "Maknae"
+    ],
+    "altura_cm": null
+  },
+  {
+    "nome": "Ayana",
+    "grupo": "KiiiKiii",
+    "empresa": "Unknown",
+    "ano_nascimento": null,
+    "nacionalidade": "Coreana",
+    "posicao": [
+      "Vocal"
+    ],
+    "altura_cm": null
+  },
+  {
+    "nome": "Hina",
+    "grupo": "KiiiKiii",
+    "empresa": "Unknown",
+    "ano_nascimento": null,
+    "nacionalidade": "Japonesa",
+    "posicao": [
+      "Vocal"
+    ],
+    "altura_cm": null
+  },
+  {
+    "nome": "Sena",
+    "grupo": "KiiiKiii",
+    "empresa": "Unknown",
+    "ano_nascimento": null,
+    "nacionalidade": "Coreana",
+    "posicao": [
+      "Vocal"
+    ],
+    "altura_cm": null
+  },
+  {
+    "nome": "Suji",
+    "grupo": "Hearts2Hearts",
+    "empresa": "Unknown",
+    "ano_nascimento": null,
+    "nacionalidade": "Coreana",
+    "posicao": [
+      "Vocal"
+    ],
+    "altura_cm": null
+  },
+  {
+    "nome": "Mina",
+    "grupo": "Hearts2Hearts",
+    "empresa": "Unknown",
+    "ano_nascimento": null,
+    "nacionalidade": "Coreana",
+    "posicao": [
+      "Vocal"
+    ],
+    "altura_cm": null
+  },
+  {
+    "nome": "Soohee",
+    "grupo": "Billlie",
+    "empresa": "Mystic Story",
+    "ano_nascimento": 2000,
+    "nacionalidade": "Coreana",
+    "posicao": [
+      "Vocal"
+    ],
+    "altura_cm": 161
+  },
+  {
+    "nome": "Siyoon",
+    "grupo": "Billlie",
+    "empresa": "Mystic Story",
+    "ano_nascimento": 2000,
+    "nacionalidade": "Coreana",
+    "posicao": [
+      "Vocal",
+      "Rapper"
+    ],
+    "altura_cm": 163
+  },
+  {
+    "nome": "Tsuki",
+    "grupo": "Billlie",
+    "empresa": "Mystic Story",
+    "ano_nascimento": 2002,
+    "nacionalidade": "Japonesa",
+    "posicao": [
+      "Main Dancer",
+      "Vocal"
+    ],
+    "altura_cm": 164
+  },
+  {
+    "nome": "Moon Sua",
+    "grupo": "Billlie",
+    "empresa": "Mystic Story",
+    "ano_nascimento": 1999,
+    "nacionalidade": "Coreana",
+    "posicao": [
+      "Main Rapper",
+      "Vocal"
+    ],
+    "altura_cm": 164
+  },
+  {
+    "nome": "Haram",
+    "grupo": "Billlie",
+    "empresa": "Mystic Story",
+    "ano_nascimento": 2001,
+    "nacionalidade": "Coreana",
+    "posicao": [
+      "Main Vocal"
+    ],
+    "altura_cm": 162
+  },
+  {
+    "nome": "Sheon",
+    "grupo": "Billlie",
+    "empresa": "Mystic Story",
+    "ano_nascimento": 2003,
+    "nacionalidade": "Coreana",
+    "posicao": [
+      "Vocal",
+      "Dancer"
+    ],
+    "altura_cm": 165
+  },
+  {
+    "nome": "Haruna",
+    "grupo": "Billlie",
+    "empresa": "Mystic Story",
+    "ano_nascimento": 2006,
+    "nacionalidade": "Japonesa",
+    "posicao": [
+      "Vocal",
+      "Maknae"
+    ],
+    "altura_cm": 160
+  },
+  {
+    "nome": "Seolhee",
+    "grupo": "H1-KEY",
+    "empresa": "GLG",
+    "ano_nascimento": 1998,
+    "nacionalidade": "Coreana",
+    "posicao": [
+      "Leader",
+      "Vocal"
+    ],
+    "altura_cm": 165
+  },
+  {
+    "nome": "Riina",
+    "grupo": "H1-KEY",
+    "empresa": "GLG",
+    "ano_nascimento": 2001,
+    "nacionalidade": "Coreana",
+    "posicao": [
+      "Vocal"
+    ],
+    "altura_cm": 164
+  },
+  {
+    "nome": "Hwiseo",
+    "grupo": "H1-KEY",
+    "empresa": "GLG",
+    "ano_nascimento": 2002,
+    "nacionalidade": "Coreana",
+    "posicao": [
+      "Main Vocal"
+    ],
+    "altura_cm": 162
+  },
+  {
+    "nome": "Yel",
+    "grupo": "H1-KEY",
+    "empresa": "GLG",
+    "ano_nascimento": 2004,
+    "nacionalidade": "Coreana",
+    "posicao": [
+      "Vocal",
+      "Rapper",
+      "Maknae"
+    ],
+    "altura_cm": 170
+  },
+  {
+    "nome": "Solji",
+    "grupo": "EXID",
+    "empresa": "Banana Culture",
+    "ano_nascimento": 1989,
+    "nacionalidade": "Coreana",
+    "posicao": [
+      "Leader",
+      "Main Vocal"
+    ],
+    "altura_cm": 170
+  },
+  {
+    "nome": "LE",
+    "grupo": "EXID",
+    "empresa": "Banana Culture",
+    "ano_nascimento": 1991,
+    "nacionalidade": "Coreana",
+    "posicao": [
+      "Main Rapper"
+    ],
+    "altura_cm": 168
+  },
+  {
+    "nome": "Hani",
+    "grupo": "EXID",
+    "empresa": "Banana Culture",
+    "ano_nascimento": 1992,
+    "nacionalidade": "Coreana",
+    "posicao": [
+      "Vocal",
+      "Visual"
+    ],
+    "altura_cm": 168
+  },
+  {
+    "nome": "Hyerin",
+    "grupo": "EXID",
+    "empresa": "Banana Culture",
+    "ano_nascimento": 1993,
+    "nacionalidade": "Coreana",
+    "posicao": [
+      "Vocal"
+    ],
+    "altura_cm": 165
+  },
+  {
+    "nome": "Jeonghwa",
+    "grupo": "EXID",
+    "empresa": "Banana Culture",
+    "ano_nascimento": 1995,
+    "nacionalidade": "Coreana",
+    "posicao": [
+      "Main Dancer",
+      "Rapper",
+      "Maknae"
+    ],
+    "altura_cm": 169
+  },
+  {
+    "nome": "Keena",
+    "grupo": "FIFTY FIFTY",
+    "empresa": "ATTRAKT",
+    "ano_nascimento": 2002,
+    "nacionalidade": "Coreana",
+    "posicao": [
+      "Rapper",
+      "Vocal"
+    ],
+    "altura_cm": null
+  },
+  {
+    "nome": "Chanelle",
+    "grupo": "FIFTY FIFTY",
+    "empresa": "ATTRAKT",
+    "ano_nascimento": 2003,
+    "nacionalidade": "Coreana-Americana",
+    "posicao": [
+      "Vocal"
+    ],
+    "altura_cm": null
+  },
+  {
+    "nome": "Yewon",
+    "grupo": "FIFTY FIFTY",
+    "empresa": "ATTRAKT",
+    "ano_nascimento": 2004,
+    "nacionalidade": "Coreana",
+    "posicao": [
+      "Vocal"
+    ],
+    "altura_cm": null
+  },
+  {
+    "nome": "Hana",
+    "grupo": "FIFTY FIFTY",
+    "empresa": "ATTRAKT",
+    "ano_nascimento": 2004,
+    "nacionalidade": "Coreana",
+    "posicao": [
+      "Vocal",
+      "Maknae"
+    ],
+    "altura_cm": null
+  },
+  {
+    "nome": "Miyeon",
+    "grupo": "(G)I-DLE",
+    "empresa": "Cube Entertainment",
+    "ano_nascimento": 1997,
+    "nacionalidade": "Coreana",
+    "posicao": [
+      "Main Vocal"
+    ],
+    "altura_cm": 161
+  },
+  {
+    "nome": "Minnie",
+    "grupo": "(G)I-DLE",
+    "empresa": "Cube Entertainment",
+    "ano_nascimento": 1997,
+    "nacionalidade": "Tailandesa",
+    "posicao": [
+      "Main Vocal"
+    ],
+    "altura_cm": 164
+  },
+  {
+    "nome": "Soojin",
+    "grupo": "(G)I-DLE",
+    "empresa": "Cube Entertainment",
+    "ano_nascimento": 1998,
+    "nacionalidade": "Coreana",
+    "posicao": [
+      "Main Dancer",
+      "Vocal"
+    ],
+    "altura_cm": 164
+  },
+  {
+    "nome": "Soyeon",
+    "grupo": "(G)I-DLE",
+    "empresa": "Cube Entertainment",
+    "ano_nascimento": 1998,
+    "nacionalidade": "Coreana",
+    "posicao": [
+      "Leader",
+      "Main Rapper"
+    ],
+    "altura_cm": 157
+  },
+  {
+    "nome": "Yuqi",
+    "grupo": "(G)I-DLE",
+    "empresa": "Cube Entertainment",
+    "ano_nascimento": 1999,
+    "nacionalidade": "Chinesa",
+    "posicao": [
+      "Vocal",
+      "Dancer"
+    ],
+    "altura_cm": 162
+  },
+  {
+    "nome": "Shuhua",
+    "grupo": "(G)I-DLE",
+    "empresa": "Cube Entertainment",
+    "ano_nascimento": 2000,
+    "nacionalidade": "Taiwanesa",
+    "posicao": [
+      "Vocal",
+      "Maknae"
+    ],
+    "altura_cm": 161
+  },
+  {
+    "nome": "Jeemin",
+    "grupo": "izna",
+    "empresa": "WakeOne Entertainment",
+    "ano_nascimento": 2005,
+    "nacionalidade": "Coreana",
+    "posicao": [
+      "Vocal"
+    ],
+    "altura_cm": null
+  },
+  {
+    "nome": "Mai",
+    "grupo": "izna",
+    "empresa": "WakeOne Entertainment",
+    "ano_nascimento": 2007,
+    "nacionalidade": "Japonesa",
+    "posicao": [
+      "Vocal"
+    ],
+    "altura_cm": null
+  },
+  {
+    "nome": "Jiyoon",
+    "grupo": "izna",
+    "empresa": "WakeOne Entertainment",
+    "ano_nascimento": 2005,
+    "nacionalidade": "Coreana",
+    "posicao": [
+      "Vocal"
+    ],
+    "altura_cm": null
+  },
+  {
+    "nome": "Jiwon",
+    "grupo": "izna",
+    "empresa": "WakeOne Entertainment",
+    "ano_nascimento": 2006,
+    "nacionalidade": "Coreana",
+    "posicao": [
+      "Vocal"
+    ],
+    "altura_cm": null
+  },
+  {
+    "nome": "Saran",
+    "grupo": "izna",
+    "empresa": "WakeOne Entertainment",
+    "ano_nascimento": 2007,
+    "nacionalidade": "Coreana",
+    "posicao": [
+      "Vocal"
+    ],
+    "altura_cm": null
+  },
+  {
+    "nome": "Ryu Sarang",
+    "grupo": "izna",
+    "empresa": "WakeOne Entertainment",
+    "ano_nascimento": 2006,
+    "nacionalidade": "Coreana",
+    "posicao": [
+      "Vocal"
+    ],
+    "altura_cm": null
+  },
+  {
+    "nome": "Koko",
+    "grupo": "izna",
+    "empresa": "WakeOne Entertainment",
+    "ano_nascimento": 2008,
+    "nacionalidade": "Japonesa",
+    "posicao": [
+      "Vocal",
+      "Maknae"
+    ],
+    "altura_cm": null
+  },
+  {
+    "nome": "Anna",
+    "grupo": "MEOVV",
+    "empresa": "THEBLACKLABEL",
+    "ano_nascimento": 2004,
+    "nacionalidade": "Coreana-Americana",
+    "posicao": [
+      "Vocal"
+    ],
+    "altura_cm": null
+  },
+  {
+    "nome": "Gawon",
+    "grupo": "MEOVV",
+    "empresa": "THEBLACKLABEL",
+    "ano_nascimento": 2005,
+    "nacionalidade": "Coreana",
+    "posicao": [
+      "Vocal"
+    ],
+    "altura_cm": null
+  },
+  {
+    "nome": "Sooin",
+    "grupo": "MEOVV",
+    "empresa": "THEBLACKLABEL",
+    "ano_nascimento": 2005,
+    "nacionalidade": "Coreana",
+    "posicao": [
+      "Vocal"
+    ],
+    "altura_cm": null
+  },
+  {
+    "nome": "Ella",
+    "grupo": "MEOVV",
+    "empresa": "THEBLACKLABEL",
+    "ano_nascimento": 2006,
+    "nacionalidade": "Coreana-Americana",
+    "posicao": [
+      "Vocal"
+    ],
+    "altura_cm": null
+  },
+  {
+    "nome": "Narin",
+    "grupo": "MEOVV",
+    "empresa": "THEBLACKLABEL",
+    "ano_nascimento": 2007,
+    "nacionalidade": "Coreana",
+    "posicao": [
+      "Vocal",
+      "Maknae"
+    ],
+    "altura_cm": null
+  },
+  {
+    "nome": "Hyein",
+    "grupo": "MOMOLAND",
+    "empresa": "MLD Entertainment",
+    "ano_nascimento": 1998,
+    "nacionalidade": "Coreana",
+    "posicao": [
+      "Vocal"
+    ],
+    "altura_cm": 164
+  },
+  {
+    "nome": "Daisy",
+    "grupo": "MOMOLAND",
+    "empresa": "MLD Entertainment",
+    "ano_nascimento": 1999,
+    "nacionalidade": "Coreana-Canadense",
+    "posicao": [
+      "Main Rapper"
+    ],
+    "altura_cm": 162
+  },
+  {
+    "nome": "JooE",
+    "grupo": "MOMOLAND",
+    "empresa": "MLD Entertainment",
+    "ano_nascimento": 1999,
+    "nacionalidade": "Coreana",
+    "posicao": [
+      "Rapper",
+      "Dancer",
+      "Vocal"
+    ],
+    "altura_cm": 164
+  },
+  {
+    "nome": "Ahin",
+    "grupo": "MOMOLAND",
+    "empresa": "MLD Entertainment",
+    "ano_nascimento": 1999,
+    "nacionalidade": "Coreana",
+    "posicao": [
+      "Main Vocal"
+    ],
+    "altura_cm": 160
+  },
+  {
+    "nome": "Nancy",
+    "grupo": "MOMOLAND",
+    "empresa": "MLD Entertainment",
+    "ano_nascimento": 2000,
+    "nacionalidade": "Coreana-Americana",
+    "posicao": [
+      "Vocal",
+      "Visual",
+      "Maknae"
+    ],
+    "altura_cm": 162
+  },
+  {
+    "nome": "Hyojung",
+    "grupo": "OH MY GIRL",
+    "empresa": "WM Entertainment",
+    "ano_nascimento": 1994,
+    "nacionalidade": "Coreana",
+    "posicao": [
+      "Leader",
+      "Main Vocal"
+    ],
+    "altura_cm": 158
+  },
+  {
+    "nome": "JinE",
+    "grupo": "OH MY GIRL",
+    "empresa": "WM Entertainment",
+    "ano_nascimento": 1995,
+    "nacionalidade": "Coreana",
+    "posicao": [
+      "Vocal"
+    ],
+    "altura_cm": 160
+  },
+  {
+    "nome": "Mimi",
+    "grupo": "OH MY GIRL",
+    "empresa": "WM Entertainment",
+    "ano_nascimento": 1995,
+    "nacionalidade": "Coreana",
+    "posicao": [
+      "Main Rapper"
+    ],
+    "altura_cm": 159
+  },
+  {
+    "nome": "YooA",
+    "grupo": "OH MY GIRL",
+    "empresa": "WM Entertainment",
+    "ano_nascimento": 1995,
+    "nacionalidade": "Coreana",
+    "posicao": [
+      "Vocal",
+      "Main Dancer"
+    ],
+    "altura_cm": 160
+  },
+  {
+    "nome": "Seunghee",
+    "grupo": "OH MY GIRL",
+    "empresa": "WM Entertainment",
+    "ano_nascimento": 1996,
+    "nacionalidade": "Coreana",
+    "posicao": [
+      "Main Vocal"
+    ],
+    "altura_cm": 160
+  },
+  {
+    "nome": "Jiho",
+    "grupo": "OH MY GIRL",
+    "empresa": "WM Entertainment",
+    "ano_nascimento": 1997,
+    "nacionalidade": "Coreana",
+    "posicao": [
+      "Vocal",
+      "Visual"
+    ],
+    "altura_cm": 165
+  },
+  {
+    "nome": "Binnie",
+    "grupo": "OH MY GIRL",
+    "empresa": "WM Entertainment",
+    "ano_nascimento": 1997,
+    "nacionalidade": "Coreana",
+    "posicao": [
+      "Vocal"
+    ],
+    "altura_cm": 159
+  },
+  {
+    "nome": "Arin",
+    "grupo": "OH MY GIRL",
+    "empresa": "WM Entertainment",
+    "ano_nascimento": 1999,
+    "nacionalidade": "Coreana",
+    "posicao": [
+      "Vocal",
+      "Maknae"
+    ],
+    "altura_cm": 165
+  },
+  {
+    "nome": "CL",
+    "grupo": "2NE1",
+    "empresa": "YG Entertainment",
+    "ano_nascimento": 1991,
+    "nacionalidade": "Coreana",
+    "posicao": [
+      "Leader",
+      "Main Rapper",
+      "Vocal"
+    ],
+    "altura_cm": 162
+  },
+  {
+    "nome": "Bom",
+    "grupo": "2NE1",
+    "empresa": "YG Entertainment",
+    "ano_nascimento": 1984,
+    "nacionalidade": "Coreana",
+    "posicao": [
+      "Main Vocal"
+    ],
+    "altura_cm": 165
+  },
+  {
+    "nome": "Dara",
+    "grupo": "2NE1",
+    "empresa": "YG Entertainment",
+    "ano_nascimento": 1984,
+    "nacionalidade": "Coreana",
+    "posicao": [
+      "Vocal",
+      "Visual"
+    ],
+    "altura_cm": 162
+  },
+  {
+    "nome": "Minzy",
+    "grupo": "2NE1",
+    "empresa": "YG Entertainment",
+    "ano_nascimento": 1994,
+    "nacionalidade": "Coreana",
+    "posicao": [
+      "Main Dancer",
+      "Vocal",
+      "Maknae"
+    ],
+    "altura_cm": 161
+  },
+  {
+    "nome": "Seoyeon",
+    "grupo": "TripleS",
+    "empresa": "Modhaus",
+    "ano_nascimento": 2003,
+    "nacionalidade": "Coreana",
+    "posicao": [
+      "Leader",
+      "Vocal"
+    ],
+    "altura_cm": 160
+  },
+  {
+    "nome": "Hyerin",
+    "grupo": "TripleS",
+    "empresa": "Modhaus",
+    "ano_nascimento": 2007,
+    "nacionalidade": "Coreana",
+    "posicao": [
+      "Lead Dancer"
+    ],
+    "altura_cm": 162
+  },
+  {
+    "nome": "Jiwoo",
+    "grupo": "TripleS",
+    "empresa": "Modhaus",
+    "ano_nascimento": 2005,
+    "nacionalidade": "Coreana",
+    "posicao": [
+      "Main Vocal"
+    ],
+    "altura_cm": 173
+  },
+  {
+    "nome": "Chaeyeon",
+    "grupo": "TripleS",
+    "empresa": "Modhaus",
+    "ano_nascimento": 2004,
+    "nacionalidade": "Coreana",
+    "posicao": [
+      "Vocal"
+    ],
+    "altura_cm": 171
+  },
+  {
+    "nome": "Yooyeon",
+    "grupo": "TripleS",
+    "empresa": "Modhaus",
+    "ano_nascimento": 2001,
+    "nacionalidade": "Coreana",
+    "posicao": [
+      "Visual",
+      "Center"
+    ],
+    "altura_cm": 165
+  },
+  {
+    "nome": "Soomin",
+    "grupo": "TripleS",
+    "empresa": "Modhaus",
+    "ano_nascimento": 2007,
+    "nacionalidade": "Coreana",
+    "posicao": [
+      "Vocal",
+      "Visual"
+    ],
+    "altura_cm": 161
+  },
+  {
+    "nome": "Nakyoung",
+    "grupo": "TripleS",
+    "empresa": "Modhaus",
+    "ano_nascimento": 2002,
+    "nacionalidade": "Coreana",
+    "posicao": [
+      "Main Dancer",
+      "Main Rapper",
+      "Lead Vocal"
+    ],
+    "altura_cm": 166
+  },
+  {
+    "nome": "Yubin",
+    "grupo": "TripleS",
+    "empresa": "Modhaus",
+    "ano_nascimento": 2005,
+    "nacionalidade": "Coreana",
+    "posicao": [
+      "Main Dancer",
+      "Center"
+    ],
+    "altura_cm": 164
+  },
+  {
+    "nome": "Kaede",
+    "grupo": "TripleS",
+    "empresa": "Modhaus",
+    "ano_nascimento": 2005,
+    "nacionalidade": "Japonesa",
+    "posicao": [
+      "Main Dancer",
+      "Lead Vocal",
+      "Center"
+    ],
+    "altura_cm": 161
+  },
+  {
+    "nome": "Dahyun",
+    "grupo": "TripleS",
+    "empresa": "Modhaus",
+    "ano_nascimento": 2003,
+    "nacionalidade": "Coreana",
+    "posicao": [
+      "Main Vocal"
+    ],
+    "altura_cm": 160
+  },
+  {
+    "nome": "Kotone",
+    "grupo": "TripleS",
+    "empresa": "Modhaus",
+    "ano_nascimento": 2004,
+    "nacionalidade": "Japonesa",
+    "posicao": [
+      "Main Dancer",
+      "Main Rapper"
+    ],
+    "altura_cm": 162
+  },
+  {
+    "nome": "Yeonji",
+    "grupo": "TripleS",
+    "empresa": "Modhaus",
+    "ano_nascimento": 2008,
+    "nacionalidade": "Coreana",
+    "posicao": [
+      "Dancer"
+    ],
+    "altura_cm": 163
+  },
+  {
+    "nome": "Nien",
+    "grupo": "TripleS",
+    "empresa": "Modhaus",
+    "ano_nascimento": 2003,
+    "nacionalidade": "Taiwan",
+    "posicao": [
+      "Lead Dancer"
+    ],
+    "altura_cm": 169
+  },
+  {
+    "nome": "Sohyun",
+    "grupo": "TripleS",
+    "empresa": "Modhaus",
+    "ano_nascimento": 2002,
+    "nacionalidade": "Coreana",
+    "posicao": [
+      "Lead Dancer",
+      "Lead Rapper"
+    ],
+    "altura_cm": 167
+  },
+  {
+    "nome": "Xinyu",
+    "grupo": "TripleS",
+    "empresa": "Modhaus",
+    "ano_nascimento": 2002,
+    "nacionalidade": "Chinesa",
+    "posicao": [
+      "Visual",
+      "Vocal"
+    ],
+    "altura_cm": 174
+  },
+  {
+    "nome": "Mayu",
+    "grupo": "TripleS",
+    "empresa": "Modhaus",
+    "ano_nascimento": 2002,
+    "nacionalidade": "Japonesa",
+    "posicao": [
+      "Lead Vocal"
+    ],
+    "altura_cm": 160
+  },
+  {
+    "nome": "Lynn",
+    "grupo": "TripleS",
+    "empresa": "Modhaus",
+    "ano_nascimento": 2006,
+    "nacionalidade": "Japonesa",
+    "posicao": [
+      "Main Dancer",
+      "Lead Rapper"
+    ],
+    "altura_cm": 171
+  },
+  {
+    "nome": "JooBin",
+    "grupo": "TripleS",
+    "empresa": "Modhaus",
+    "ano_nascimento": 2008,
+    "nacionalidade": "Coreana",
+    "posicao": [
+      "Visual",
+      "Vocal"
+    ],
+    "altura_cm": 168
+  },
+  {
+    "nome": "Hayeon",
+    "grupo": "TripleS",
+    "empresa": "Modhaus",
+    "ano_nascimento": 2007,
+    "nacionalidade": "Coreana",
+    "posicao": [
+      "Lead Vocal",
+      "Dancer"
+    ],
+    "altura_cm": 166
+  },
+  {
+    "nome": "Shion",
+    "grupo": "TripleS",
+    "empresa": "Modhaus",
+    "ano_nascimento": 2006,
+    "nacionalidade": "Coreana",
+    "posicao": [
+      "Main Vocal"
+    ],
+    "altura_cm": 166
+  },
+  {
+    "nome": "Chaewon",
+    "grupo": "TripleS",
+    "empresa": "Modhaus",
+    "ano_nascimento": 2007,
+    "nacionalidade": "Coreana",
+    "posicao": [
+      "Vocal"
+    ],
+    "altura_cm": 163
+  },
+  {
+    "nome": "Sullin",
+    "grupo": "TripleS",
+    "empresa": "Modhaus",
+    "ano_nascimento": 2006,
+    "nacionalidade": "Tailandesa",
+    "posicao": [
+      "Vocal"
+    ],
+    "altura_cm": 169
+  },
+  {
+    "nome": "Seoah",
+    "grupo": "TripleS",
+    "empresa": "Modhaus",
+    "ano_nascimento": 2010,
+    "nacionalidade": "Coreana",
+    "posicao": [
+      "Maknae",
+      "Lead Vocal"
+    ],
+    "altura_cm": 158
+  },
+  {
+    "nome": "Jiyeon",
+    "grupo": "TripleS",
+    "empresa": "Modhaus",
+    "ano_nascimento": 2004,
+    "nacionalidade": "Coreana",
+    "posicao": [
+      "Lead Dancer"
+    ],
+    "altura_cm": 167
+  }
+]
