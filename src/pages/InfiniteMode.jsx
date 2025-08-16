@@ -11,21 +11,31 @@ export default function InfiniteMode() {
     const [sugestoes, setSugestoes] = useState([]);
     const [chances, setChances] = useState(0);
     const [mensagemFinal, setMensagemFinal] = useState("");
-    const [streak, setStreak] = useState(0);
 
-    const STREAK_KEY = "infinite-streak";
+    const [atual, setAtual] = useState(0); // streak atual
+    const [recorde, setRecorde] = useState(0); // recorde salvo
+
+    const RECORDE_KEY = "infinite-recorde";
 
     useEffect(() => {
         setIdols(idolsData);
-        const saved = JSON.parse(localStorage.getItem(STREAK_KEY));
-        if (saved) setStreak(saved);
+        const savedRecorde = JSON.parse(localStorage.getItem(RECORDE_KEY));
+        if (savedRecorde) setRecorde(savedRecorde);
         novoJogo();
     }, []);
 
-    const atualizarStreak = (ganhou) => {
-        let novaStreak = ganhou ? streak + 1 : 0;
-        setStreak(novaStreak);
-        localStorage.setItem(STREAK_KEY, JSON.stringify(novaStreak));
+    const atualizarPontuacao = (ganhou) => {
+        if (ganhou) {
+            const novoAtual = atual + 1;
+            setAtual(novoAtual);
+
+            if (novoAtual > recorde) {
+                setRecorde(novoAtual);
+                localStorage.setItem(RECORDE_KEY, JSON.stringify(novoAtual));
+            }
+        } else {
+            setAtual(0);
+        }
     };
 
     const novoJogo = () => {
@@ -38,17 +48,15 @@ export default function InfiniteMode() {
         setSugestoes([]);
     };
 
-    const handleRecomecar = () => {
-        setStreak(0);
-        localStorage.setItem(STREAK_KEY, JSON.stringify(0));
-        novoJogo();
-    };
-
     return (
         <div className="container">
             <h1 className="titulo">Guess the Idol - Infinito 🎤</h1>
             <ModeSwitcher/>
-            <h3>Win streak: {streak}</h3>
+
+            <div className="scoreboard">
+                <p>🔥 Atual: {atual}</p>
+                <p>🏆 Recorde: {recorde}</p>
+            </div>
 
             <GuessTable
                 tentativas={tentativas}
@@ -63,16 +71,15 @@ export default function InfiniteMode() {
                 setMensagemFinal={setMensagemFinal}
                 idoloSecreto={idoloSecreto}
                 idols={idols}
-                atualizarStreak={atualizarStreak}
+                atualizarStreak={atualizarPontuacao} // só troquei o nome pra manter compatível
             />
 
-            {/* Botões de controle após o jogo acabar */}
             {mensagemFinal && (
                 <div className="botoes-fim">
                     {mensagemFinal.includes("Parabéns") ? (
                         <button onClick={novoJogo}>🎶 Próxima Idol</button>
                     ) : (
-                        <button onClick={handleRecomecar}>🔄 Recomeçar</button>
+                        <button onClick={novoJogo}>🔄 Recomeçar</button>
                     )}
                 </div>
             )}

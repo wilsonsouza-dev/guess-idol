@@ -27,7 +27,7 @@ export default function GuessTable({
                     idolo.nome.toLowerCase().startsWith(valor.toLowerCase())
                 )
                 .sort((a, b) => a.nome.localeCompare(b.nome, "pt", {sensitivity: "base"}))
-                .slice(0, 20);
+                .slice(0, 10);
 
             setSugestoes(filtrados);
         } else {

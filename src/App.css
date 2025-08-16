@@ -6,7 +6,7 @@ body {
     display: flex;
     justify-content: center;
     align-items: flex-start;
-    padding-top: 3vh;
+    padding-top: 1vh;
 }
 
 .container {
@@ -25,11 +25,12 @@ body {
 }
 
 .novo-jogo {
-    margin-bottom: 1.4vh;
     font-size: 1.75vw;
     padding: 0.7vh 1.4vw;
     cursor: pointer;
     transition: transform 0.2s ease, background 0.2s ease;
+    border-radius: 12px;
+    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
 }
 
 .novo-jogo:hover {
@@ -53,6 +54,7 @@ input {
     border-radius: 0.35vw;
     border: none;
     transition: box-shadow 0.2s ease;
+
 }
 
 input:focus {
@@ -69,6 +71,7 @@ input:focus {
     margin: 0.5vw;
     border-radius: 0.56vw;
     animation: pulse 1.5s infinite;
+    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
 }
 
 .suggestions {
@@ -99,7 +102,7 @@ input:focus {
 }
 
 .suggestions li:hover {
-    background: #413f3f;
+    background: #b2a1a1;
 }
 
 table {
@@ -114,8 +117,8 @@ table {
 }
 
 th, td {
-    border: 1px solid grey;
-    padding: 1.5vh 1.5vw;
+    border: 1px solid rgba(128, 128, 128, 0.4);
+    padding: 1vh 1vw;
     text-align: center;
     width: 15%;
     vertical-align: middle;
@@ -275,11 +278,11 @@ th {
 @media (max-width: 768px) {
 
     body {
-        padding-top: 2vh;
+        padding-top: 1vh;
     }
 
     .titulo {
-        font-size: 5.7vw;
+        font-size: 5.4vw;
     }
 
     input {
@@ -290,7 +293,7 @@ th {
     .chances {
         font-size: 4vw;
         min-width: 15vw;
-        padding: 1vh 1.2vw;
+        padding: 1vh 1.5vw;
         margin: 2vw;
     }
 
@@ -300,19 +303,24 @@ th {
     }
 
     .suggestions {
-        width: 50vw;
-        left: 14%;
-        top: 20%;
+        width: 45vw;
+        left: 16%;
+        top: 30%;
         font-size: 3vw;
     }
 
     .container {
-        width: 95%;
+        width: 98%;
     }
 
     .novo-jogo {
         font-size: 3.5vw;
         padding: 1vh 2vw;
+    }
+
+    .scoreboard p{
+        font-size: 1vh;
+        gap: 1rem;
     }
 }
 
@@ -325,10 +333,29 @@ th {
     background: linear-gradient(135deg, #f7a72b, #ff6f3c, #e53935);
 }
 
-.streak-indicator {
+.scoreboard {
+    display: flex;
+    justify-content: center;
+    gap: 1rem;
     font-weight: bold;
-    font-size: 1.2em;
-    margin-left: 1vw;
-    color: #fff;
-    animation: pulse 1.5s infinite;
+    font-size: 1.54vw;
+    color: black;
+    margin: 0.5vw;
+}
+
+.scoreboard p {
+    background: #2a2222;
+    padding: 0.5rem 1rem;
+    border-radius: 12px;
+    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+}
+
+/* 🔥 Atual */
+.scoreboard p:first-child {
+    color: #73be32;
+}
+
+/* 🏆 Recorde */
+.scoreboard p:last-child {
+    color: #2a9d8f;
 }

@@ -44,16 +44,6 @@ export default function DailyMode() {
         );
     };
 
-    const novoJogo = () => {
-        const secreto = idolsData[Math.floor(Math.random() * idolsData.length)];
-        setIdoloSecreto(secreto);
-        setTentativas([]);
-        setChances(0);
-        setMensagemFinal("");
-        setPalpite("");
-        setSugestoes([]);
-    };
-
     return (
         <div className="container">
             <h1 className="titulo">Guess the Idol - Diário 🎤</h1>
