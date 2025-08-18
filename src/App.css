@@ -208,15 +208,6 @@ tr .single-item {
     }
 }
 
-@keyframes highlight {
-    0% {
-        background: #ffffff;
-    }
-    100% {
-        background: #4caf50;
-    }
-}
-
 @keyframes pulse {
     0% {
         transform: scale(1);
