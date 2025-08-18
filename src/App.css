@@ -261,7 +261,7 @@ tr .single-item {
         width: 35vw;
         border: none;
         background: #0c0c0c;
-        min-width: 25vw; /* Garante que não encolha *//* Garante que não encolha */
+        min-width: 25vw;
     }
 
     .chances {
@@ -271,8 +271,8 @@ tr .single-item {
         font-weight: bold;
         color: black;
         background: white;
-        padding: 1vh;
         border-radius: 1vw;
+        height: 1.5vh;
     }
 
     table {
