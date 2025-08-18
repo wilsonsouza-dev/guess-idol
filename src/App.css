@@ -300,4 +300,8 @@ tr .single-item {
         background-color: #1a1a1a;
     }
 
+    .next-idol {
+        font-size: 3vw;
+        margin-bottom: 3vh;
+    }
 }

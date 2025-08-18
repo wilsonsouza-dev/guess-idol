@@ -196,6 +196,7 @@ export default function GuessTable({
                 </tbody>
             </table>
             <br/>
+            {mensagemFinal && <h1>{mensagemFinal}</h1>}
         </div>
     );
 }
