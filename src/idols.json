@@ -21,7 +21,7 @@
     "posicao": [
       "Main Vocal"
     ],
-    "altura_cm": 165
+    "altura_cm": 162
   },
   {
     "nome": "Ryujin",
@@ -69,7 +69,7 @@
     "posicao": [
       "Vocal",
       "Dancer",
-      "Visual"
+      "Center"
     ],
     "altura_cm": 161
   },
@@ -95,7 +95,7 @@
       "Leader",
       "Vocal"
     ],
-    "altura_cm": 160
+    "altura_cm": 159
   },
   {
     "nome": "YeoJin",
@@ -107,7 +107,7 @@
       "Vocal",
       "Rapper"
     ],
-    "altura_cm": 156
+    "altura_cm": 149
   },
   {
     "nome": "ViVi",
@@ -129,7 +129,7 @@
     "posicao": [
       "Vocal"
     ],
-    "altura_cm": 161
+    "altura_cm": 163
   },
   {
     "nome": "JinSoul",
@@ -141,7 +141,7 @@
       "Vocal",
       "Rapper"
     ],
-    "altura_cm": 166
+    "altura_cm": 165
   },
   {
     "nome": "Choerry",
@@ -153,7 +153,7 @@
       "Vocal",
       "Dancer"
     ],
-    "altura_cm": 160
+    "altura_cm": 163
   },
   {
     "nome": "Yves",
@@ -174,7 +174,8 @@
     "ano_nascimento": 1999,
     "nacionalidade": "Coreana",
     "posicao": [
-      "Main Vocal"
+      "Main Vocal",
+      "Face Of The Group"
     ],
     "altura_cm": 161
   },
@@ -211,7 +212,7 @@
     "posicao": [
       "Main Vocal"
     ],
-    "altura_cm": 165
+    "altura_cm": 163
   },
   {
     "nome": "Haewon",
@@ -224,7 +225,7 @@
       "Main Vocal",
       "Lead Dancer"
     ],
-    "altura_cm": 164
+    "altura_cm": 162
   },
   {
     "nome": "Sullyoon",
@@ -234,7 +235,8 @@
     "nacionalidade": "Coreana",
     "posicao": [
       "Lead Vocal",
-      "Visual"
+      "Visual",
+      "Dancer"
     ],
     "altura_cm": 167
   },
@@ -248,7 +250,7 @@
       "Lead Dancer",
       "Lead Vocal"
     ],
-    "altura_cm": 165
+    "altura_cm": 170
   },
   {
     "nome": "Jiwoo",
@@ -258,9 +260,10 @@
     "nacionalidade": "Coreana",
     "posicao": [
       "Main Rapper",
-      "Main Dancer"
+      "Main Dancer",
+      "Vocalist"
     ],
-    "altura_cm": 163
+    "altura_cm": 161
   },
   {
     "nome": "Kyujin",
@@ -273,7 +276,7 @@
       "Lead Rapper",
       "Maknae"
     ],
-    "altura_cm": 166
+    "altura_cm": 164
   },
   {
     "nome": "Saerom",
@@ -298,7 +301,7 @@
       "Main Vocal",
       "Main Dancer"
     ],
-    "altura_cm": 164
+    "altura_cm": 163
   },
   {
     "nome": "Gyuri",
@@ -307,7 +310,8 @@
     "ano_nascimento": 1997,
     "nacionalidade": "Coreana",
     "posicao": [
-      "Lead Vocal"
+      "Lead Vocal",
+      "Face of The Group"
     ],
     "altura_cm": 168
   },
@@ -320,7 +324,7 @@
     "posicao": [
       "Main Vocal"
     ],
-    "altura_cm": 158
+    "altura_cm": 157
   },
   {
     "nome": "Jisun",
@@ -341,9 +345,10 @@
     "nacionalidade": "Coreana",
     "posicao": [
       "Main Rapper",
-      "Lead Vocal"
+      "Lead Vocal",
+      "Main Dancer"
     ],
-    "altura_cm": 161
+    "altura_cm": 158
   },
   {
     "nome": "Chaeyoung",
@@ -356,7 +361,7 @@
       "Lead Dancer",
       "Vocal"
     ],
-    "altura_cm": 169
+    "altura_cm": 168
   },
   {
     "nome": "Nagyung",
@@ -380,7 +385,7 @@
       "Vocal",
       "Maknae"
     ],
-    "altura_cm": 162
+    "altura_cm": 166
   },
   {
     "nome": "Sakura",
@@ -390,7 +395,8 @@
     "nacionalidade": "Japonesa",
     "posicao": [
       "Vocal",
-      "Rapper"
+      "Rapper",
+      "Dancer"
     ],
     "altura_cm": 163
   },
@@ -439,9 +445,10 @@
     "nacionalidade": "Coreana",
     "posicao": [
       "Maknae",
+      "Dancer",
       "Vocal"
     ],
-    "altura_cm": 168
+    "altura_cm": 169
   },
   {
     "nome": "Karina",
@@ -451,10 +458,10 @@
     "nacionalidade": "Coreana",
     "posicao": [
       "Leader",
-      "Lead Rapper",
+      "Visual",
       "Main Dancer"
     ],
-    "altura_cm": 167
+    "altura_cm": 168
   },
   {
     "nome": "Giselle",
@@ -465,7 +472,7 @@
     "posicao": [
       "Main Rapper"
     ],
-    "altura_cm": 166
+    "altura_cm": 163
   },
   {
     "nome": "Winter",
@@ -478,7 +485,7 @@
       "Lead Dancer",
       "Visual"
     ],
-    "altura_cm": 165
+    "altura_cm": 163
   },
   {
     "nome": "Ningning",
@@ -493,19 +500,18 @@
     "altura_cm": 161
   },
   {
-    "nome": "Naoi Rei",
+    "nome": "Rei",
     "grupo": "IVE",
     "empresa": "Starship Entertainment",
     "ano_nascimento": 2004,
     "nacionalidade": "Japonesa",
     "posicao": [
-      "Main Rapper",
-      "Vocal"
+      "Main Rapper"
     ],
-    "altura_cm": 169
+    "altura_cm": 170
   },
   {
-    "nome": "An Yujin",
+    "nome": "Yujin",
     "grupo": "IVE",
     "empresa": "Starship Entertainment",
     "ano_nascimento": 2003,
@@ -515,7 +521,7 @@
       "Main Vocal",
       "Main Dancer"
     ],
-    "altura_cm": 172
+    "altura_cm": 173
   },
   {
     "nome": "Gaeul",
@@ -525,12 +531,12 @@
     "nacionalidade": "Coreana",
     "posicao": [
       "Lead Rapper",
-      "Lead Dancer"
+      "Main Dancer"
     ],
-    "altura_cm": 166
+    "altura_cm": 164
   },
   {
-    "nome": "Jang Wonyoung",
+    "nome": "Wonyoung",
     "grupo": "IVE",
     "empresa": "Starship Entertainment",
     "ano_nascimento": 2004,
@@ -550,7 +556,7 @@
     "posicao": [
       "Main Vocal"
     ],
-    "altura_cm": 170
+    "altura_cm": 171
   },
   {
     "nome": "Leeseo",
@@ -562,7 +568,7 @@
       "Maknae",
       "Vocal"
     ],
-    "altura_cm": 170
+    "altura_cm": 165
   },
   {
     "nome": "Na Goeun",
@@ -574,7 +580,7 @@
       "Main Vocal",
       "Lead Dancer"
     ],
-    "altura_cm": 160
+    "altura_cm": 161
   },
   {
     "nome": "Dosie",
@@ -598,7 +604,7 @@
       "Main Dancer",
       "Vocal"
     ],
-    "altura_cm": 161
+    "altura_cm": 164
   },
   {
     "nome": "Yuki",
@@ -608,8 +614,7 @@
     "nacionalidade": "Japonesa",
     "posicao": [
       "Main Rapper",
-      "Lead Dancer",
-      "Vocal"
+      "Lead Dancer"
     ],
     "altura_cm": 164
   },
@@ -636,7 +641,7 @@
       "Main Vocal",
       "Maknae"
     ],
-    "altura_cm": 163
+    "altura_cm": 165
   },
   {
     "nome": "Sumin",
@@ -658,9 +663,11 @@
     "ano_nascimento": 2001,
     "nacionalidade": "Coreana",
     "posicao": [
-      "Main Vocal"
+      "Main Vocal",
+      "Lead Rapper",
+      "Dancer"
     ],
-    "altura_cm": 158
+    "altura_cm": 159
   },
   {
     "nome": "Isa",
@@ -669,9 +676,10 @@
     "ano_nascimento": 2002,
     "nacionalidade": "Coreana",
     "posicao": [
-      "Lead Vocal"
+      "Lead Vocal",
+      "Dancer"
     ],
-    "altura_cm": 162
+    "altura_cm": 165
   },
   {
     "nome": "Seeun",
@@ -682,7 +690,7 @@
     "posicao": [
       "Vocal"
     ],
-    "altura_cm": 161
+    "altura_cm": 167
   },
   {
     "nome": "Yoon",
@@ -693,7 +701,7 @@
     "posicao": [
       "Lead Vocal"
     ],
-    "altura_cm": 170
+    "altura_cm": 172
   },
   {
     "nome": "J",
@@ -706,7 +714,7 @@
       "Vocal",
       "Main Rapper"
     ],
-    "altura_cm": 167
+    "altura_cm": 169
   },
   {
     "nome": "Minji",
@@ -716,7 +724,8 @@
     "nacionalidade": "Coreana",
     "posicao": [
       "Vocal",
-      "Visual"
+      "Visual",
+      "Rapper"
     ],
     "altura_cm": 169
   },
@@ -730,7 +739,7 @@
       "Main Vocal",
       "Main Dancer"
     ],
-    "altura_cm": 161
+    "altura_cm": 162
   },
   {
     "nome": "Danielle",
@@ -753,7 +762,7 @@
       "Lead Vocal",
       "Lead Dancer"
     ],
-    "altura_cm": 165
+    "altura_cm": 164
   },
   {
     "nome": "Hyein",
@@ -799,7 +808,9 @@
     "ano_nascimento": 1994,
     "nacionalidade": "Coreana",
     "posicao": [
-      "Main Vocal"
+      "Main Vocal",
+      "Dancer",
+      "Rapper"
     ],
     "altura_cm": 159
   },
@@ -813,7 +824,7 @@
       "Lead Vocal",
       "Rapper"
     ],
-    "altura_cm": 168
+    "altura_cm": 167
   },
   {
     "nome": "Yeri",
@@ -823,7 +834,7 @@
     "nacionalidade": "Coreana",
     "posicao": [
       "Vocal",
-      "Lead Rapper",
+      "Rapper",
       "Maknae"
     ],
     "altura_cm": 158
@@ -872,9 +883,10 @@
     "nacionalidade": "Tailandesa",
     "posicao": [
       "Lead Rapper",
-      "Main Dancer"
+      "Main Dancer",
+      "Maknae"
     ],
-    "altura_cm": 167
+    "altura_cm": 166
   },
   {
     "nome": "JiU",
@@ -970,7 +982,7 @@
     "posicao": [
       "Lead Vocal"
     ],
-    "altura_cm": 165
+    "altura_cm": 164
   },
   {
     "nome": "Xuanyi",
@@ -1006,7 +1018,7 @@
     "posicao": [
       "Main Vocal"
     ],
-    "altura_cm": 159
+    "altura_cm": 157
   },
   {
     "nome": "Luda",
@@ -1029,7 +1041,7 @@
     "posicao": [
       "Main Vocal"
     ],
-    "altura_cm": 165
+    "altura_cm": 167
   },
   {
     "nome": "Eunseo",
@@ -1041,7 +1053,7 @@
       "Vocal",
       "Rapper"
     ],
-    "altura_cm": 165
+    "altura_cm": 170
   },
   {
     "nome": "Cheng Xiao",
@@ -1051,9 +1063,10 @@
     "nacionalidade": "Chinesa",
     "posicao": [
       "Main Dancer",
+      "Face Of the Group",
       "Visual"
     ],
-    "altura_cm": 167
+    "altura_cm": 166
   },
   {
     "nome": "Meiqi",
@@ -1074,10 +1087,10 @@
     "ano_nascimento": 1999,
     "nacionalidade": "Coreana",
     "posicao": [
-      "Lead Rapper",
+      "Rapper",
       "Main Dancer"
     ],
-    "altura_cm": 161
+    "altura_cm": 162
   },
   {
     "nome": "Dayoung",
@@ -1100,6 +1113,18 @@
       "Main Vocal",
       "Maknae"
     ],
+    "altura_cm": 165
+  },
+  {
+    "nome": "Exy",
+    "grupo": "WJSN",
+    "empresa": "Starship Entertainment",
+    "ano_nascimento": 1995,
+    "nacionalidade": "Coreana",
+    "posicao": [
+      "Main Rapper",
+      "Leader"
+    ],
     "altura_cm": 166
   },
   {
@@ -1110,7 +1135,7 @@
     "nacionalidade": "Coreana",
     "posicao": [
       "Lead Vocal",
-      "Lead Dancer",
+      "Face of the Group",
       "Center"
     ],
     "altura_cm": 163
@@ -1136,7 +1161,7 @@
       "Main Dancer",
       "Rapper"
     ],
-    "altura_cm": 162
+    "altura_cm": 163
   },
   {
     "nome": "Sana",
@@ -1149,7 +1174,7 @@
       "Visual",
       "Lead Dancer"
     ],
-    "altura_cm": 164
+    "altura_cm": 163
   },
   {
     "nome": "Jihyo",
@@ -1187,7 +1212,7 @@
       "Lead Rapper",
       "Vocal"
     ],
-    "altura_cm": 159
+    "altura_cm": 161
   },
   {
     "nome": "Chaeyoung",
@@ -1199,7 +1224,7 @@
       "Main Rapper",
       "Vocal"
     ],
-    "altura_cm": 159
+    "altura_cm": 158
   },
   {
     "nome": "Tzuyu",
@@ -1222,10 +1247,10 @@
     "nacionalidade": "Coreana",
     "posicao": [
       "Leader",
-      "Vocal",
-      "Dancer"
+      "Visuall",
+      "Main Dancer"
     ],
-    "altura_cm": 164
+    "altura_cm": 165
   },
   {
     "nome": "Jiyoon",
@@ -1247,9 +1272,10 @@
     "nacionalidade": "Coreana",
     "posicao": [
       "Main Vocal",
-      "Dancer"
+      "Main Dancer",
+      "Rapper"
     ],
-    "altura_cm": 171
+    "altura_cm": 173
   },
   {
     "nome": "Soeun",
@@ -1258,10 +1284,10 @@
     "ano_nascimento": 2002,
     "nacionalidade": "Coreana",
     "posicao": [
-      "Vocal",
-      "Dancer"
+      "Lead Vocal",
+      "Main Dancer"
     ],
-    "altura_cm": 170
+    "altura_cm": 171
   },
   {
     "nome": "Jaehee",
@@ -1270,7 +1296,8 @@
     "ano_nascimento": 2004,
     "nacionalidade": "Coreana",
     "posicao": [
-      "Vocal"
+      "Vocal",
+      "Rapper"
     ],
     "altura_cm": 166
   },
@@ -1281,10 +1308,11 @@
     "ano_nascimento": 2004,
     "nacionalidade": "Coreana",
     "posicao": [
-      "Vocal",
-      "Visual"
+      "Lead Vocal",
+      "Visual",
+      "Center"
     ],
-    "altura_cm": 164
+    "altura_cm": 167
   },
   {
     "nome": "Zoa",
@@ -1293,7 +1321,7 @@
     "ano_nascimento": 2005,
     "nacionalidade": "Coreana",
     "posicao": [
-      "Vocal",
+      "Visual",
       "Rapper",
       "Maknae"
     ],
@@ -1307,9 +1335,10 @@
     "nacionalidade": "Coreana",
     "posicao": [
       "Leader",
+      "Lead Dancer",
       "Vocal"
     ],
-    "altura_cm": 161
+    "altura_cm": 162
   },
   {
     "nome": "Bomi",
@@ -1318,10 +1347,11 @@
     "ano_nascimento": 1993,
     "nacionalidade": "Coreana",
     "posicao": [
-      "Vocal",
-      "Dancer"
+      "Main Dancer",
+      "Main Rapper",
+      "Center"
     ],
-    "altura_cm": 161
+    "altura_cm": 163
   },
   {
     "nome": "Eunji",
@@ -1330,7 +1360,8 @@
     "ano_nascimento": 1993,
     "nacionalidade": "Coreana",
     "posicao": [
-      "Main Vocal"
+      "Main Vocal",
+      "Face of the Group"
     ],
     "altura_cm": 162
   },
@@ -1341,7 +1372,8 @@
     "ano_nascimento": 1995,
     "nacionalidade": "Coreana",
     "posicao": [
-      "Vocal",
+      "Lead Vocalist",
+      "Lead Dancer",
       "Rapper"
     ],
     "altura_cm": 165
@@ -1367,9 +1399,10 @@
     "nacionalidade": "Coreana",
     "posicao": [
       "Leader",
-      "Main Vocal"
+      "Main Vocal",
+      "Face of the Group"
     ],
-    "altura_cm": 168
+    "altura_cm": 170
   },
   {
     "nome": "E:U",
@@ -1379,9 +1412,9 @@
     "nacionalidade": "Coreana",
     "posicao": [
       "Main Rapper",
-      "Dancer"
+      "Main Dancer"
     ],
-    "altura_cm": 166
+    "altura_cm": 161
   },
   {
     "nome": "Mia",
@@ -1391,7 +1424,8 @@
     "nacionalidade": "Coreana",
     "posicao": [
       "Main Vocal",
-      "Dancer"
+      "Main Dancer",
+      "Rapper"
     ],
     "altura_cm": 163
   },
@@ -1402,9 +1436,9 @@
     "ano_nascimento": 2000,
     "nacionalidade": "Coreana",
     "posicao": [
-      "Vocal"
+      "Lead Dancer"
     ],
-    "altura_cm": 165
+    "altura_cm": 166
   },
   {
     "nome": "Aisha",
@@ -1413,8 +1447,9 @@
     "ano_nascimento": 2000,
     "nacionalidade": "Coreana",
     "posicao": [
-      "Rapper",
-      "Vocal"
+      "Face of the Group",
+      "Lead Dancer",
+      "Lead Rapper"
     ],
     "altura_cm": 174
   },
@@ -1425,8 +1460,8 @@
     "ano_nascimento": 2000,
     "nacionalidade": "Chinesa",
     "posicao": [
-      "Vocal",
-      "Dancer",
+      "Visuall",
+      "Center",
       "Maknae"
     ],
     "altura_cm": 163
@@ -1439,7 +1474,7 @@
     "nacionalidade": "Coreana",
     "posicao": [
       "Leader",
-      "Vocal"
+      "Lead Vocalist"
     ],
     "altura_cm": 162
   },
@@ -1462,7 +1497,8 @@
     "nacionalidade": "Coreana-Americana",
     "posicao": [
       "Main Rapper",
-      "Dancer"
+      "Main Dancer",
+      "Vocal"
     ],
     "altura_cm": 165
   },
@@ -1474,6 +1510,7 @@
     "nacionalidade": "Coreana",
     "posicao": [
       "Vocal",
+      "Visual",
       "Maknae"
     ],
     "altura_cm": 167
@@ -1485,10 +1522,11 @@
     "ano_nascimento": 1994,
     "nacionalidade": "Coreana",
     "posicao": [
-      "Rapper",
-      "Vocal"
+      "Main Rapper",
+      "Maknae",
+      "Lead Dancer"
     ],
-    "altura_cm": 166
+    "altura_cm": 165
   },
   {
     "nome": "Yeeun",
@@ -1521,21 +1559,10 @@
     "nacionalidade": "Coreana",
     "posicao": [
       "Vocal",
-      "Dancer"
+      "Main Dancer",
+      "Visual"
     ],
     "altura_cm": 166
-  },
-  {
-    "nome": "Hyuna",
-    "grupo": "Wonder Girls",
-    "empresa": "JYP Entertainment",
-    "ano_nascimento": 1992,
-    "nacionalidade": "Coreana",
-    "posicao": [
-      "Main Rapper",
-      "Dancer"
-    ],
-    "altura_cm": 164
   },
   {
     "nome": "Sohee",
@@ -1544,9 +1571,11 @@
     "ano_nascimento": 1992,
     "nacionalidade": "Coreana",
     "posicao": [
-      "Vocal"
+      "Face of The Group",
+      "Main Dancer",
+      "Visual"
     ],
-    "altura_cm": 162
+    "altura_cm": 163
   },
   {
     "nome": "Yubin",
@@ -1555,23 +1584,24 @@
     "ano_nascimento": 1988,
     "nacionalidade": "Coreana",
     "posicao": [
-      "Rapper",
+      "Main Rapper",
+      "Face of the Group",
       "Vocal"
     ],
-    "altura_cm": 163
+    "altura_cm": 161
   },
   {
-    "nome": "Hyerim",
+    "nome": "Hyelim",
     "grupo": "Wonder Girls",
     "empresa": "JYP Entertainment",
     "ano_nascimento": 1992,
     "nacionalidade": "Coreana",
     "posicao": [
       "Vocal",
-      "Rapper",
+      "Lead Rapper",
       "Maknae"
     ],
-    "altura_cm": 167
+    "altura_cm": 165
   },
   {
     "nome": "Sowon",
@@ -1582,9 +1612,9 @@
     "posicao": [
       "Leader",
       "Vocal",
-      "Rapper"
+      "Visual"
     ],
-    "altura_cm": 172
+    "altura_cm": 173
   },
   {
     "nome": "Yerin",
@@ -1593,8 +1623,9 @@
     "ano_nascimento": 1996,
     "nacionalidade": "Coreana",
     "posicao": [
-      "Vocal",
-      "Dancer"
+      "Center",
+      "Lead Dancer",
+      "Face of the Group"
     ],
     "altura_cm": 167
   },
@@ -1605,7 +1636,7 @@
     "ano_nascimento": 1997,
     "nacionalidade": "Coreana",
     "posicao": [
-      "Main Vocal"
+      "Lead Vocalist"
     ],
     "altura_cm": 162
   },
@@ -1628,7 +1659,7 @@
     "nacionalidade": "Coreana",
     "posicao": [
       "Main Dancer",
-      "Vocal"
+      "Center"
     ],
     "altura_cm": 166
   },
@@ -1642,7 +1673,7 @@
       "Vocal",
       "Maknae"
     ],
-    "altura_cm": 165
+    "altura_cm": 164
   },
   {
     "nome": "Solar",
@@ -1654,7 +1685,7 @@
       "Leader",
       "Main Vocal"
     ],
-    "altura_cm": 159
+    "altura_cm": 160
   },
   {
     "nome": "Moonbyul",
@@ -1677,7 +1708,7 @@
     "posicao": [
       "Main Vocal"
     ],
-    "altura_cm": 162
+    "altura_cm": 158
   },
   {
     "nome": "Hwasa",
@@ -1686,8 +1717,9 @@
     "ano_nascimento": 1995,
     "nacionalidade": "Coreana",
     "posicao": [
-      "Vocal",
-      "Rapper"
+      "Lead Vocal",
+      "Rapper",
+      "Maknae"
     ],
     "altura_cm": 160
   },
@@ -1699,22 +1731,23 @@
     "nacionalidade": "Tailandesa",
     "posicao": [
       "Vocal",
-      "Main Dancer"
+      "Main Dancer",
+      "Lead Rapper"
     ],
-    "altura_cm": 165
+    "altura_cm": 167
   },
   {
     "nome": "Julie",
     "grupo": "KISS OF LIFE",
     "empresa": "S2 Entertainment",
     "ano_nascimento": 2000,
-    "nacionalidade": "Coreana-Americana",
+    "nacionalidade": "Americana",
     "posicao": [
       "Leader",
-      "Rapper",
-      "Vocal"
+      "Main Rapper",
+      "Lead Dancer"
     ],
-    "altura_cm": 164
+    "altura_cm": 163
   },
   {
     "nome": "Belle",
@@ -1725,7 +1758,7 @@
     "posicao": [
       "Main Vocal"
     ],
-    "altura_cm": 162
+    "altura_cm": 168
   },
   {
     "nome": "Haneul",
@@ -1734,10 +1767,10 @@
     "ano_nascimento": 2005,
     "nacionalidade": "Coreana",
     "posicao": [
-      "Vocal",
+      "Lead Vocal",
       "Maknae"
     ],
-    "altura_cm": 161
+    "altura_cm": 169
   },
   {
     "nome": "Ruka",
@@ -1746,10 +1779,10 @@
     "ano_nascimento": 2002,
     "nacionalidade": "Japonesa",
     "posicao": [
-      "Dancer",
-      "Rapper"
+      "Main Dancer",
+      "Main Rapper"
     ],
-    "altura_cm": null
+    "altura_cm": 64
   },
   {
     "nome": "Pharita",
@@ -1760,7 +1793,7 @@
     "posicao": [
       "Vocal"
     ],
-    "altura_cm": null
+    "altura_cm": 1.71
   },
   {
     "nome": "Asa",
@@ -1769,10 +1802,10 @@
     "ano_nascimento": 2006,
     "nacionalidade": "Japonesa",
     "posicao": [
-      "Rapper",
+      "Main Rapper",
       "Dancer"
     ],
-    "altura_cm": 165
+    "altura_cm": 164
   },
   {
     "nome": "Ahyeon",
@@ -1781,10 +1814,11 @@
     "ano_nascimento": 2007,
     "nacionalidade": "Coreana",
     "posicao": [
-      "Vocal",
-      "Rapper"
+      "Main Vocal",
+      "Rapper",
+      "Center"
     ],
-    "altura_cm": 168
+    "altura_cm": 163
   },
   {
     "nome": "Rami",
@@ -1793,9 +1827,9 @@
     "ano_nascimento": 2007,
     "nacionalidade": "Coreana",
     "posicao": [
-      "Vocal"
+      "Main Vocal"
     ],
-    "altura_cm": null
+    "altura_cm": 1.72
   },
   {
     "nome": "Rora",
@@ -1804,10 +1838,10 @@
     "ano_nascimento": 2008,
     "nacionalidade": "Coreana",
     "posicao": [
-      "Vocal",
-      "Maknae"
+      "Lead Vocal",
+      "Visual"
     ],
-    "altura_cm": 166
+    "altura_cm": 0
   },
   {
     "nome": "Chiquita",
@@ -1817,9 +1851,10 @@
     "nacionalidade": "Tailandesa",
     "posicao": [
       "Maknae",
-      "Vocal"
+      "Vocal",
+      "Dancer"
     ],
-    "altura_cm": null
+    "altura_cm": 0
   },
   {
     "nome": "Taeyeon",
@@ -1831,7 +1866,7 @@
       "Leader",
       "Main Vocal"
     ],
-    "altura_cm": 158
+    "altura_cm": 160
   },
   {
     "nome": "Sunny",
@@ -1840,7 +1875,7 @@
     "ano_nascimento": 1989,
     "nacionalidade": "Coreana-Americana",
     "posicao": [
-      "Vocal"
+      "Lead Vocal"
     ],
     "altura_cm": 158
   },
@@ -1851,9 +1886,9 @@
     "ano_nascimento": 1989,
     "nacionalidade": "Coreana-Americana",
     "posicao": [
-      "Vocal"
+      "Lead Vocal"
     ],
-    "altura_cm": 163
+    "altura_cm": 162
   },
   {
     "nome": "Hyoyeon",
@@ -1863,9 +1898,9 @@
     "nacionalidade": "Coreana",
     "posicao": [
       "Main Dancer",
-      "Rapper"
+      "Main Rapper"
     ],
-    "altura_cm": 160
+    "altura_cm": 161
   },
   {
     "nome": "Yuri",
@@ -1874,8 +1909,9 @@
     "ano_nascimento": 1989,
     "nacionalidade": "Coreana",
     "posicao": [
-      "Vocal",
-      "Dancer"
+      "Lead Rapper",
+      "Main Dancer",
+      "Vocal"
     ],
     "altura_cm": 167
   },
@@ -1886,9 +1922,11 @@
     "ano_nascimento": 1990,
     "nacionalidade": "Coreana",
     "posicao": [
-      "Vocal"
+      "Vocal",
+      "Lead Dancer",
+      "Lead Rapper"
     ],
-    "altura_cm": 170
+    "altura_cm": 172
   },
   {
     "nome": "Yoona",
@@ -1897,8 +1935,9 @@
     "ano_nascimento": 1990,
     "nacionalidade": "Coreana",
     "posicao": [
-      "Vocal",
-      "Visual"
+      "Center",
+      "Visual",
+      "Lead Dancer"
     ],
     "altura_cm": 168
   },
@@ -1909,10 +1948,10 @@
     "ano_nascimento": 1991,
     "nacionalidade": "Coreana",
     "posicao": [
-      "Vocal",
+      "Lead Vocal",
       "Maknae"
     ],
-    "altura_cm": 168
+    "altura_cm": 180
   },
   {
     "nome": "Fei",
@@ -1923,7 +1962,7 @@
     "posicao": [
       "Main Vocal"
     ],
-    "altura_cm": 165
+    "altura_cm": 164
   },
   {
     "nome": "Jia",
@@ -1932,10 +1971,11 @@
     "ano_nascimento": 1989,
     "nacionalidade": "Chinesa",
     "posicao": [
-      "Rapper",
-      "Vocal"
+      "Main Rapper",
+      "Vocal",
+      "Lead Dancer"
     ],
-    "altura_cm": 166
+    "altura_cm": 164
   },
   {
     "nome": "Min",
@@ -1944,8 +1984,9 @@
     "ano_nascimento": 1991,
     "nacionalidade": "Coreana",
     "posicao": [
-      "Vocal",
-      "Main Dancer"
+      "Lead Vocal",
+      "Main Dancer",
+      "Lead Rapper"
     ],
     "altura_cm": 161
   },
@@ -1956,7 +1997,7 @@
     "ano_nascimento": 1994,
     "nacionalidade": "Coreana",
     "posicao": [
-      "Vocal",
+      "Face of The Group",
       "Visual",
       "Maknae"
     ],
@@ -1981,10 +2022,10 @@
     "ano_nascimento": 1999,
     "nacionalidade": "Chinesa",
     "posicao": [
-      "Dancer",
-      "Vocal"
+      "Main Dancer",
+      "Visual"
     ],
-    "altura_cm": 166
+    "altura_cm": 168
   },
   {
     "nome": "Mashiro",
@@ -2004,9 +2045,10 @@
     "ano_nascimento": 2002,
     "nacionalidade": "Coreana",
     "posicao": [
-      "Main Vocal"
+      "Main Vocal",
+      "Center"
     ],
-    "altura_cm": 160
+    "altura_cm": 161
   },
   {
     "nome": "Dayeon",
@@ -2016,7 +2058,8 @@
     "nacionalidade": "Coreana",
     "posicao": [
       "Vocal",
-      "Dancer"
+      "Main Dancer",
+      "Main Rapper"
     ],
     "altura_cm": 158
   },
@@ -2027,13 +2070,13 @@
     "ano_nascimento": 2004,
     "nacionalidade": "Japonesa",
     "posicao": [
-      "Rapper",
-      "Dancer"
+      "Main Dancer",
+      "Main Rapper"
     ],
     "altura_cm": 155
   },
   {
-    "nome": "Huening Bahiyyih",
+    "nome": "Bahiyyih",
     "grupo": "Kep1er",
     "empresa": "WakeOne Entertainment",
     "ano_nascimento": 2004,
@@ -2050,10 +2093,10 @@
     "ano_nascimento": 2004,
     "nacionalidade": "Coreana",
     "posicao": [
-      "Vocal",
-      "Rapper"
+      "Main Vocalist",
+      "Dancer"
     ],
-    "altura_cm": 159
+    "altura_cm": 158
   },
   {
     "nome": "Yeseo",
@@ -2074,9 +2117,9 @@
     "ano_nascimento": 2004,
     "nacionalidade": "Coreana",
     "posicao": [
-      "Vocal"
+      "Main Vocal"
     ],
-    "altura_cm": null
+    "altura_cm": 163
   },
   {
     "nome": "Moka",
@@ -2085,10 +2128,9 @@
     "ano_nascimento": 2004,
     "nacionalidade": "Japonesa",
     "posicao": [
-      "Dancer",
-      "Vocal"
+      "Lead Dancer"
     ],
-    "altura_cm": null
+    "altura_cm": 162
   },
   {
     "nome": "Wonhee",
@@ -2099,7 +2141,7 @@
     "posicao": [
       "Vocal"
     ],
-    "altura_cm": null
+    "altura_cm": 162
   },
   {
     "nome": "Iroha",
@@ -2108,22 +2150,35 @@
     "ano_nascimento": 2008,
     "nacionalidade": "Japonesa",
     "posicao": [
-      "Dancer",
+      "Main Dancer",
       "Maknae"
     ],
-    "altura_cm": null
+    "altura_cm": 158
+  },
+  {
+    "nome": "Yunah",
+    "grupo": "ILLIT",
+    "empresa": "Belift Lab (HYBE)",
+    "ano_nascimento": 2004,
+    "nacionalidade": "Coreana",
+    "posicao": [
+      "Leader",
+      "Lead Vocal"
+    ],
+    "altura_cm": 168
   },
   {
     "nome": "Sunhye",
     "grupo": "Young Posse",
     "empresa": "DSP Media",
-    "ano_nascimento": 2001,
+    "ano_nascimento": 2004,
     "nacionalidade": "Coreana",
     "posicao": [
       "Leader",
-      "Rapper"
+      "Main Rapper",
+      "Lead Dancer"
     ],
-    "altura_cm": null
+    "altura_cm": 159
   },
   {
     "nome": "Yeonjung",
@@ -2132,9 +2187,10 @@
     "ano_nascimento": 2004,
     "nacionalidade": "Coreana",
     "posicao": [
-      "Vocal"
+      "Main Dancer",
+      "Lead Rapper"
     ],
-    "altura_cm": null
+    "altura_cm": 162
   },
   {
     "nome": "Jiana",
@@ -2143,20 +2199,21 @@
     "ano_nascimento": 2006,
     "nacionalidade": "Coreana",
     "posicao": [
-      "Rapper"
+      "Main Vocal"
     ],
-    "altura_cm": null
+    "altura_cm": 163
   },
   {
     "nome": "Doeun",
     "grupo": "Young Posse",
     "empresa": "DSP Media",
-    "ano_nascimento": 2006,
+    "ano_nascimento": 2007,
     "nacionalidade": "Coreana",
     "posicao": [
-      "Vocal"
+      "Lead Dancer",
+      "Lead Rapper"
     ],
-    "altura_cm": null
+    "altura_cm": 168
   },
   {
     "nome": "Jieun",
@@ -2165,121 +2222,145 @@
     "ano_nascimento": 2007,
     "nacionalidade": "Coreana",
     "posicao": [
-      "Vocal",
-      "Maknae"
-    ],
-    "altura_cm": null
-  },
-  {
-    "nome": "Won",
-    "grupo": "Rescene",
-    "empresa": "MUPLY",
-    "ano_nascimento": 2003,
-    "nacionalidade": "Coreana",
-    "posicao": [
+      "Lead Dancer",
+      "Maknae",
       "Vocal"
     ],
-    "altura_cm": null
+    "altura_cm": 157
+  },
+  {
+    "nome": "Woni",
+    "grupo": "Rescene",
+    "empresa": "THE MUZE Entertainment",
+    "ano_nascimento": 2004,
+    "nacionalidade": "Coreana",
+    "posicao": [
+      "Leader",
+      "Main Rapper",
+      "Visual"
+    ],
+    "altura_cm": 0
   },
   {
     "nome": "Liv",
     "grupo": "Rescene",
-    "empresa": "MUPLY",
-    "ano_nascimento": 2004,
+    "empresa": "THE MUZE Entertainment",
+    "ano_nascimento": 2006,
     "nacionalidade": "Coreana",
     "posicao": [
-      "Vocal"
+      "Main Vocalist",
+      "Dancer"
     ],
-    "altura_cm": null
+    "altura_cm": 164
   },
   {
     "nome": "Minami",
     "grupo": "Rescene",
-    "empresa": "MUPLY",
-    "ano_nascimento": 2005,
+    "empresa": "THE MUZE Entertainment",
+    "ano_nascimento": 2006,
     "nacionalidade": "Japonesa",
     "posicao": [
-      "Vocal"
+      "Main Vocalist",
+      "Lead Dancer",
+      "Rapper"
     ],
-    "altura_cm": null
+    "altura_cm": 164
   },
   {
     "nome": "May",
     "grupo": "Rescene",
-    "empresa": "MUPLY",
+    "empresa": "THE MUZE Entertainment",
+    "ano_nascimento": 2008,
+    "nacionalidade": "Coreana",
+    "posicao": [
+      "Vocal",
+      "Lead Dancer"
+    ],
+    "altura_cm": 165
+  },
+  {
+    "nome": "Zena",
+    "grupo": "Rescene",
+    "empresa": "THE MUZE Entertainment",
+    "ano_nascimento": 2008,
+    "nacionalidade": "Coreana",
+    "posicao": [
+      "Main Dancer",
+      "Lead Vocalist",
+      "Maknae"
+    ],
+    "altura_cm": 164
+  },
+  {
+    "nome": "Jiyu",
+    "grupo": "KiiiKiii",
+    "empresa": "STARSHIP Entertainment",
     "ano_nascimento": 2006,
     "nacionalidade": "Coreana",
     "posicao": [
-      "Vocal"
+      "Leader",
+      "Rapper",
+      "Dancer"
     ],
-    "altura_cm": null
+    "altura_cm": 158
   },
   {
-    "nome": "Kami",
-    "grupo": "Rescene",
-    "empresa": "MUPLY",
-    "ano_nascimento": 2007,
+    "nome": "Leesol ",
+    "grupo": "KiiiKiii",
+    "empresa": "STARSHIP Entertainment",
+    "ano_nascimento": 2005,
+    "nacionalidade": "Coreana",
+    "posicao": [
+      "Main Rapper"
+    ],
+    "altura_cm": 166
+  },
+  {
+    "nome": "Sui",
+    "grupo": "KiiiKiii",
+    "empresa": "STARSHIP Entertainment",
+    "ano_nascimento": 2006,
+    "nacionalidade": "Coreana",
+    "posicao": [
+      "Main Vocal"
+    ],
+    "altura_cm": 169
+  },
+  {
+    "nome": "Haum",
+    "grupo": "KiiiKiii",
+    "empresa": "STARSHIP Entertainment",
+    "ano_nascimento": 2006,
+    "nacionalidade": "Coreana",
+    "posicao": [
+      "Vocal",
+      "Visual",
+      "Dancer"
+    ],
+    "altura_cm": 163
+  },
+  {
+    "nome": "Kya",
+    "grupo": "KiiiKiii",
+    "empresa": "STARSHIP Entertainment",
+    "ano_nascimento": 2010,
     "nacionalidade": "Coreana",
     "posicao": [
       "Vocal",
       "Maknae"
     ],
-    "altura_cm": null
-  },
-  {
-    "nome": "Ayana",
-    "grupo": "KiiiKiii",
-    "empresa": "Unknown",
-    "ano_nascimento": null,
-    "nacionalidade": "Coreana",
-    "posicao": [
-      "Vocal"
-    ],
-    "altura_cm": null
-  },
-  {
-    "nome": "Hina",
-    "grupo": "KiiiKiii",
-    "empresa": "Unknown",
-    "ano_nascimento": null,
-    "nacionalidade": "Japonesa",
-    "posicao": [
-      "Vocal"
-    ],
-    "altura_cm": null
-  },
-  {
-    "nome": "Sena",
-    "grupo": "KiiiKiii",
-    "empresa": "Unknown",
-    "ano_nascimento": null,
-    "nacionalidade": "Coreana",
-    "posicao": [
-      "Vocal"
-    ],
-    "altura_cm": null
+    "altura_cm": 168
   },
   {
     "nome": "Suji",
     "grupo": "Hearts2Hearts",
     "empresa": "Unknown",
-    "ano_nascimento": null,
+    "ano_nascimento": 0,
     "nacionalidade": "Coreana",
     "posicao": [
       "Vocal"
     ],
-    "altura_cm": null
-  },
-  {
-    "nome": "Mina",
-    "grupo": "Hearts2Hearts",
-    "empresa": "Unknown",
-    "ano_nascimento": null,
-    "nacionalidade": "Coreana",
-    "posicao": [
-      "Vocal"
-    ],
-    "altura_cm": null
+    "altura_cm": 0
   },
   {
     "nome": "Soohee",
@@ -2479,7 +2560,7 @@
       "Rapper",
       "Vocal"
     ],
-    "altura_cm": null
+    "altura_cm": 0
   },
   {
     "nome": "Chanelle",
@@ -2490,7 +2571,7 @@
     "posicao": [
       "Vocal"
     ],
-    "altura_cm": null
+    "altura_cm": 0
   },
   {
     "nome": "Yewon",
@@ -2501,7 +2582,7 @@
     "posicao": [
       "Vocal"
     ],
-    "altura_cm": null
+    "altura_cm": 0
   },
   {
     "nome": "Hana",
@@ -2513,7 +2594,7 @@
       "Vocal",
       "Maknae"
     ],
-    "altura_cm": null
+    "altura_cm": 0
   },
   {
     "nome": "Miyeon",
@@ -2522,7 +2603,8 @@
     "ano_nascimento": 1997,
     "nacionalidade": "Coreana",
     "posicao": [
-      "Main Vocal"
+      "Main Vocal",
+      "Visual"
     ],
     "altura_cm": 161
   },
@@ -2535,7 +2617,7 @@
     "posicao": [
       "Main Vocal"
     ],
-    "altura_cm": 164
+    "altura_cm": 167
   },
   {
     "nome": "Soojin",
@@ -2557,7 +2639,8 @@
     "nacionalidade": "Coreana",
     "posicao": [
       "Leader",
-      "Main Rapper"
+      "Main Rapper",
+      "Center"
     ],
     "altura_cm": 157
   },
@@ -2568,10 +2651,11 @@
     "ano_nascimento": 1999,
     "nacionalidade": "Chinesa",
     "posicao": [
-      "Vocal",
-      "Dancer"
+      "Lead Vocal",
+      "Main Dancer",
+      "Face of the Group"
     ],
-    "altura_cm": 162
+    "altura_cm": 163
   },
   {
     "nome": "Shuhua",
@@ -2581,7 +2665,8 @@
     "nacionalidade": "Taiwanesa",
     "posicao": [
       "Vocal",
-      "Maknae"
+      "Maknae",
+      "Visual"
     ],
     "altura_cm": 161
   },
@@ -2594,7 +2679,7 @@
     "posicao": [
       "Vocal"
     ],
-    "altura_cm": null
+    "altura_cm": 0
   },
   {
     "nome": "Mai",
@@ -2605,7 +2690,7 @@
     "posicao": [
       "Vocal"
     ],
-    "altura_cm": null
+    "altura_cm": 0
   },
   {
     "nome": "Jiyoon",
@@ -2616,7 +2701,7 @@
     "posicao": [
       "Vocal"
     ],
-    "altura_cm": null
+    "altura_cm": 0
   },
   {
     "nome": "Jiwon",
@@ -2627,7 +2712,7 @@
     "posicao": [
       "Vocal"
     ],
-    "altura_cm": null
+    "altura_cm": 0
   },
   {
     "nome": "Saran",
@@ -2638,7 +2723,7 @@
     "posicao": [
       "Vocal"
     ],
-    "altura_cm": null
+    "altura_cm": 0
   },
   {
     "nome": "Ryu Sarang",
@@ -2649,7 +2734,7 @@
     "posicao": [
       "Vocal"
     ],
-    "altura_cm": null
+    "altura_cm": 0
   },
   {
     "nome": "Koko",
@@ -2661,7 +2746,7 @@
       "Vocal",
       "Maknae"
     ],
-    "altura_cm": null
+    "altura_cm": 0
   },
   {
     "nome": "Anna",
@@ -2672,7 +2757,7 @@
     "posicao": [
       "Vocal"
     ],
-    "altura_cm": null
+    "altura_cm": 0
   },
   {
     "nome": "Gawon",
@@ -2683,7 +2768,7 @@
     "posicao": [
       "Vocal"
     ],
-    "altura_cm": null
+    "altura_cm": 0
   },
   {
     "nome": "Sooin",
@@ -2694,7 +2779,7 @@
     "posicao": [
       "Vocal"
     ],
-    "altura_cm": null
+    "altura_cm": 0
   },
   {
     "nome": "Ella",
@@ -2705,7 +2790,7 @@
     "posicao": [
       "Vocal"
     ],
-    "altura_cm": null
+    "altura_cm": 0
   },
   {
     "nome": "Narin",
@@ -2717,7 +2802,7 @@
       "Vocal",
       "Maknae"
     ],
-    "altura_cm": null
+    "altura_cm": 0
   },
   {
     "nome": "Hyein",

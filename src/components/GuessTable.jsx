@@ -1,4 +1,6 @@
 import React from "react";
+import Select from 'react-select';
+import Confetti from 'react-confetti';
 
 export default function GuessTable({
                                        tentativas,
@@ -12,20 +14,18 @@ export default function GuessTable({
                                        mensagemFinal,
                                        setMensagemFinal,
                                        idoloSecreto,
-                                       salvarLocalStorage, // usado no modo diário
-                                       atualizarStreak, // usado no modo infinito
+                                       salvarLocalStorage,
+                                       atualizarStreak,
                                        idols,
                                    }) {
     // Lógica de input e sugestões
-    const handleInput = (e) => {
-        const valor = e.target.value;
+    const handleInput = (inputValue) => {
+        const valor = inputValue;
         setPalpite(valor);
 
         if (valor.length > 0) {
             const filtrados = idols
-                .filter((idolo) =>
-                    idolo.nome.toLowerCase().startsWith(valor.toLowerCase())
-                )
+                .filter((idolo) => idolo.nome.toLowerCase().startsWith(valor.toLowerCase()))
                 .sort((a, b) => a.nome.localeCompare(b.nome, "pt", {sensitivity: "base"}))
                 .slice(0, 10);
 
@@ -36,9 +36,12 @@ export default function GuessTable({
     };
 
     const escolherSugestao = (idolo) => {
+        if (idolo) {
+            verificarPalpite(idolo);
+        }
+        // Limpa o campo e a lista de sugestões após a seleção
         setPalpite("");
         setSugestoes([]);
-        verificarPalpite(idolo);
     };
 
     const verificarPalpite = (idolo) => {
@@ -81,20 +84,14 @@ export default function GuessTable({
         // Nacionalidade
         if (idolo.nacionalidade === idoloSecreto.nacionalidade) {
             resultado.feedback.nacionalidade = "correto";
-        } else if (
-            idolo.nacionalidade.includes(idoloSecreto.nacionalidade) ||
-            idoloSecreto.nacionalidade.includes(idolo.nacionalidade)
-        ) {
+        } else if (idolo.nacionalidade.includes(idoloSecreto.nacionalidade) || idoloSecreto.nacionalidade.includes(idolo.nacionalidade)) {
             resultado.feedback.nacionalidade = "proximo";
         }
 
-        // Posição
-        const intersecao = idolo.posicao.filter((p) => idoloSecreto.posicao.includes(p));
-        if (intersecao.length === idoloSecreto.posicao.length && intersecao.length === idolo.posicao.length) {
-            resultado.feedback.posicao = "correto";
-        } else if (intersecao.length > 0) {
-            resultado.feedback.posicao = "parcial";
-        }
+        // Posição (avaliação individual por mini-bloco)
+        resultado.feedback.posicao = idolo.posicao.map((p) =>
+            idoloSecreto.posicao.includes(p) ? "correto" : ""
+        );
 
         const novasTentativas = [...tentativas, resultado];
         setTentativas(novasTentativas);
@@ -107,35 +104,49 @@ export default function GuessTable({
         const finalMessage = () => {
             if (idolo.nome === idoloSecreto.nome) {
                 if (atualizarStreak) atualizarStreak(true); // modo infinito
-                setMensagemFinal("🎉 Parabéns! Você acertou a idol!");
+                setMensagemFinal("🎉 Parabéns! Você acertou a idol");
             } else if (chances + 1 >= 10) {
                 if (atualizarStreak) atualizarStreak(false); // modo infinito
-                setMensagemFinal(`❌ Você perdeu! A idol era ${idoloSecreto.nome}.`);
+                setMensagemFinal(`❌ Você perdeu! A idol era ${idoloSecreto.nome} - ${idoloSecreto.grupo}.`);
             }
         };
 
         setTimeout(finalMessage, 2500);
     };
 
-    return (
-        <div className="input-area">
-            <input
-                type="text"
-                placeholder="Digite o nome da idol..."
-                value={palpite}
-                onChange={handleInput}
-            />
-            <span className="chances">{chances} / 10</span>
+    // Opções para o react-select, baseadas no estado sugestoes
+    const options = sugestoes.map((idolo) => ({
+        value: idolo.nome,
+        label: `${idolo.nome} - ${idolo.grupo}`,
+        idolo,
+    }));
 
-            {sugestoes.length > 0 && (
-                <ul className="suggestions">
-                    {sugestoes.map((idolo, i) => (
-                        <li key={i} onClick={() => escolherSugestao(idolo)}>
-                            {idolo.nome} - {idolo.grupo}
-                        </li>
-                    ))}
-                </ul>
+    return (
+        <div className="guess-table-container">
+            {mensagemFinal.includes("Parabéns") && (
+                <Confetti
+                    width={window.innerWidth}
+                    height={window.innerHeight}
+                    recycle={false}
+                    numberOfPieces={200}
+                    tweenDuration={5000}
+                />
             )}
+            <div className="input-wrapper">
+                <Select
+                    options={options}
+                    onChange={(selectedOption) => escolherSugestao(selectedOption ? selectedOption.idolo : null)}
+                    onInputChange={handleInput}
+                    inputValue={palpite}
+                    placeholder="Digite o nome da idol..."
+                    isClearable
+                    className="react-select-container"
+                    classNamePrefix="react-select"
+                    value={null}
+                    isDisabled={mensagemFinal !== ""} // Desabilita o input quando o jogo termina
+                />
+                <span className="chances">{chances} / 10</span>
+            </div>
 
             <table>
                 <thead>
@@ -156,7 +167,6 @@ export default function GuessTable({
                         <td className={t.feedback.grupo}>{t.grupo}</td>
                         <td className={t.feedback.empresa}>{t.empresa}</td>
                         <td className={t.feedback.nacionalidade}>{t.nacionalidade}</td>
-
                         <td className={t.feedback.ano_nascimento}>
                             <div className="valor-com-seta">
                                 {t.ano_nascimento}
@@ -164,7 +174,6 @@ export default function GuessTable({
                                     (t.feedback.ano_nascimento === "menor" || t.feedback.ano_nascimento === "proximo-menor") ? "▲" : ""}
                             </div>
                         </td>
-
                         <td className={t.feedback.altura_cm}>
                             <div className="valor-com-seta">
                                 {t.altura_cm} cm
@@ -172,20 +181,21 @@ export default function GuessTable({
                                     (t.feedback.altura_cm === "menor" || t.feedback.altura_cm === "proximo-menor") ? "▲" : ""}
                             </div>
                         </td>
-
-                        <td className={t.feedback.posicao}>
-                            <div className="posicoes-container">
-                                {t.posicao.map((p, index) => (
-                                    <div key={index} className="mini-bloco">{p}</div>
-                                ))}
-                            </div>
+                        <td>
+                            {t.posicao.map((p, index) => (
+                                <div
+                                    key={index}
+                                    className={`mini-bloco ${t.feedback.posicao[index]} ${t.posicao.length === 1 ? 'single-item' : ''}`}
+                                >
+                                    {p}
+                                </div>
+                            ))}
                         </td>
                     </tr>
                 ))}
                 </tbody>
             </table>
-
-            {mensagemFinal && <h3>{mensagemFinal}</h3>}
+            <br/>
         </div>
     );
 }

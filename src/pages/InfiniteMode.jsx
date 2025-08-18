@@ -1,7 +1,7 @@
 import React, {useEffect, useState} from "react";
 import idolsData from "../idols.json";
 import GuessTable from "../components/GuessTable";
-import ModeSwitcher from "../components/ModeSwitcher";
+import ModeSwitcher from "../components/ModeSwitcher.jsx";
 
 export default function InfiniteMode() {
     const [idols, setIdols] = useState([]);
@@ -49,14 +49,15 @@ export default function InfiniteMode() {
     };
 
     return (
-        <div className="container">
-            <h1 className="titulo">Guess the Idol - Infinito 🎤</h1>
-            <ModeSwitcher/>
 
+        <div className="container">
+            <h1>🎤 Guess the Idol: Infinito </h1>
+            <ModeSwitcher/>
             <div className="scoreboard">
-                <p>🔥 Atual: {atual}</p>
                 <p>🏆 Recorde: {recorde}</p>
+                <p>🔥 Atual: {atual}</p>
             </div>
+
 
             <GuessTable
                 tentativas={tentativas}
@@ -71,11 +72,11 @@ export default function InfiniteMode() {
                 setMensagemFinal={setMensagemFinal}
                 idoloSecreto={idoloSecreto}
                 idols={idols}
-                atualizarStreak={atualizarPontuacao} // só troquei o nome pra manter compatível
+                atualizarStreak={atualizarPontuacao}
             />
 
             {mensagemFinal && (
-                <div className="botoes-fim">
+                <div className="next-idol">
                     {mensagemFinal.includes("Parabéns") ? (
                         <button onClick={novoJogo}>🎶 Próxima Idol</button>
                     ) : (
