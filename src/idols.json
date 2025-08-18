@@ -61,23 +61,23 @@
     "altura_cm": 170
   },
   {
-    "nome": "HeeJin",
-    "grupo": "LOONA",
-    "empresa": "BlockBerry Creative",
-    "ano_nascimento": 2000,
+    "nome": "Haseul",
+    "grupo": "Artms",
+    "empresa": "Modhaus",
+    "ano_nascimento": 1997,
     "nacionalidade": "Coreana",
     "posicao": [
+      "Leader",
       "Vocal",
-      "Dancer",
-      "Center"
+      "Rapper"
     ],
-    "altura_cm": 161
+    "altura_cm": 159
   },
   {
-    "nome": "HyunJin",
-    "grupo": "LOONA",
-    "empresa": "BlockBerry Creative",
-    "ano_nascimento": 2000,
+    "nome": "Kim Lip",
+    "grupo": "Artms",
+    "empresa": "Modhaus",
+    "ano_nascimento": 1999,
     "nacionalidade": "Coreana",
     "posicao": [
       "Vocal",
@@ -86,55 +86,9 @@
     "altura_cm": 163
   },
   {
-    "nome": "HaSeul",
-    "grupo": "LOONA",
-    "empresa": "BlockBerry Creative",
-    "ano_nascimento": 1997,
-    "nacionalidade": "Coreana",
-    "posicao": [
-      "Leader",
-      "Vocal"
-    ],
-    "altura_cm": 159
-  },
-  {
-    "nome": "YeoJin",
-    "grupo": "LOONA",
-    "empresa": "BlockBerry Creative",
-    "ano_nascimento": 2002,
-    "nacionalidade": "Coreana",
-    "posicao": [
-      "Vocal",
-      "Rapper"
-    ],
-    "altura_cm": 149
-  },
-  {
-    "nome": "ViVi",
-    "grupo": "LOONA",
-    "empresa": "BlockBerry Creative",
-    "ano_nascimento": 1996,
-    "nacionalidade": "Chinesa",
-    "posicao": [
-      "Vocal"
-    ],
-    "altura_cm": 160
-  },
-  {
-    "nome": "Kim Lip",
-    "grupo": "LOONA",
-    "empresa": "BlockBerry Creative",
-    "ano_nascimento": 1999,
-    "nacionalidade": "Coreana",
-    "posicao": [
-      "Vocal"
-    ],
-    "altura_cm": 163
-  },
-  {
-    "nome": "JinSoul",
-    "grupo": "LOONA",
-    "empresa": "BlockBerry Creative",
+    "nome": "Jinsoul",
+    "grupo": "Artms",
+    "empresa": "Modhaus",
     "ano_nascimento": 1997,
     "nacionalidade": "Coreana",
     "posicao": [
@@ -145,46 +99,62 @@
   },
   {
     "nome": "Choerry",
-    "grupo": "LOONA",
-    "empresa": "BlockBerry Creative",
+    "grupo": "Artms",
+    "empresa": "Modhaus",
     "ano_nascimento": 2001,
     "nacionalidade": "Coreana",
     "posicao": [
+      "Vocal",
+      "Dancer",
+      "Maknae"
+    ],
+    "altura_cm": 163
+  },
+  {
+    "nome": "Heejin",
+    "grupo": "Artms",
+    "empresa": "Modhaus",
+    "ano_nascimento": 2000,
+    "nacionalidade": "Coreana",
+    "posicao": [
+      "Lead Vocal",
+      "Dancer",
+      "Center"
+    ],
+    "altura_cm": 161
+  },
+  {
+    "nome": "Hyunjin",
+    "grupo": "Loossemble",
+    "empresa": "CTDENM",
+    "ano_nascimento": 2000,
+    "nacionalidade": "Coreana",
+    "posicao": [
+      "Leader",
       "Vocal",
       "Dancer"
     ],
     "altura_cm": 163
   },
   {
-    "nome": "Yves",
-    "grupo": "LOONA",
-    "empresa": "BlockBerry Creative",
-    "ano_nascimento": 1997,
+    "nome": "Yeojin",
+    "grupo": "Loossemble",
+    "empresa": "CTDENM",
+    "ano_nascimento": 2002,
     "nacionalidade": "Coreana",
     "posicao": [
       "Vocal",
-      "Dancer"
+      "Rapper",
+      "Maknae"
     ],
-    "altura_cm": 166
+    "altura_cm": 149
   },
   {
-    "nome": "Chuu",
-    "grupo": "LOONA",
-    "empresa": "BlockBerry Creative",
-    "ano_nascimento": 1999,
-    "nacionalidade": "Coreana",
-    "posicao": [
-      "Main Vocal",
-      "Face Of The Group"
-    ],
-    "altura_cm": 161
-  },
-  {
-    "nome": "Go Won",
-    "grupo": "LOONA",
-    "empresa": "BlockBerry Creative",
-    "ano_nascimento": 2000,
-    "nacionalidade": "Coreana",
+    "nome": "Vivi",
+    "grupo": "Loossemble",
+    "empresa": "CTDENM",
+    "ano_nascimento": 1996,
+    "nacionalidade": "Chinesa",
     "posicao": [
       "Vocal",
       "Rapper"
@@ -192,16 +162,53 @@
     "altura_cm": 160
   },
   {
-    "nome": "Olivia Hye",
-    "grupo": "LOONA",
-    "empresa": "BlockBerry Creative",
+    "nome": "Gowon",
+    "grupo": "Loossemble",
+    "empresa": "CTDENM",
+    "ano_nascimento": 2000,
+    "nacionalidade": "Coreana",
+    "posicao": [
+      "Vocal",
+      "Rapper",
+      "Dancer"
+    ],
+    "altura_cm": 160
+  },
+  {
+    "nome": "Hyeju",
+    "grupo": "Loosemble",
+    "empresa": "CTDENM",
     "ano_nascimento": 2001,
     "nacionalidade": "Coreana",
     "posicao": [
+      "Rapper",
       "Vocal",
       "Dancer"
     ],
     "altura_cm": 165
+  },
+  {
+    "nome": "Yves",
+    "grupo": "Solista",
+    "empresa": "PAIX PER MIL",
+    "ano_nascimento": 1997,
+    "nacionalidade": "Coreana",
+    "posicao": [
+      "Main Dancer",
+      "Vocal"
+    ],
+    "altura_cm": 166
+  },
+  {
+    "nome": "Chuu",
+    "grupo": "Solista",
+    "empresa": "ATRP",
+    "ano_nascimento": 1999,
+    "nacionalidade": "Coreana",
+    "posicao": [
+      "Main Vocal"
+    ],
+    "altura_cm": 161
   },
   {
     "nome": "Lily",
@@ -261,7 +268,7 @@
     "posicao": [
       "Main Rapper",
       "Main Dancer",
-      "Vocal"
+      "Vocalist"
     ],
     "altura_cm": 161
   },
@@ -279,46 +286,22 @@
     "altura_cm": 164
   },
   {
-    "nome": "Saerom",
-    "grupo": "fromis_9",
-    "empresa": "Pledis Entertainment (HYBE)",
-    "ano_nascimento": 1997,
-    "nacionalidade": "Coreana",
-    "posicao": [
-      "Leader",
-      "Visual",
-      "Lead Dancer"
-    ],
-    "altura_cm": 163
-  },
-  {
     "nome": "Hayoung",
     "grupo": "fromis_9",
-    "empresa": "Pledis Entertainment (HYBE)",
+    "empresa": "ASND Label",
     "ano_nascimento": 1997,
     "nacionalidade": "Coreana",
     "posicao": [
       "Main Vocal",
-      "Main Dancer"
+      "Main Dancer",
+      "Leader"
     ],
     "altura_cm": 163
   },
   {
-    "nome": "Gyuri",
-    "grupo": "fromis_9",
-    "empresa": "Pledis Entertainment (HYBE)",
-    "ano_nascimento": 1997,
-    "nacionalidade": "Coreana",
-    "posicao": [
-      "Lead Vocal",
-      "Face of The Group"
-    ],
-    "altura_cm": 168
-  },
-  {
     "nome": "Jiwon",
     "grupo": "fromis_9",
-    "empresa": "Pledis Entertainment (HYBE)",
+    "empresa": "ASND Label",
     "ano_nascimento": 1998,
     "nacionalidade": "Coreana",
     "posicao": [
@@ -327,38 +310,14 @@
     "altura_cm": 157
   },
   {
-    "nome": "Jisun",
-    "grupo": "fromis_9",
-    "empresa": "Pledis Entertainment (HYBE)",
-    "ano_nascimento": 1998,
-    "nacionalidade": "Coreana",
-    "posicao": [
-      "Vocal"
-    ],
-    "altura_cm": 158
-  },
-  {
-    "nome": "Seoyeon",
-    "grupo": "fromis_9",
-    "empresa": "Pledis Entertainment (HYBE)",
-    "ano_nascimento": 2000,
-    "nacionalidade": "Coreana",
-    "posicao": [
-      "Main Rapper",
-      "Lead Vocal",
-      "Main Dancer"
-    ],
-    "altura_cm": 158
-  },
-  {
     "nome": "Chaeyoung",
     "grupo": "fromis_9",
-    "empresa": "Pledis Entertainment (HYBE)",
+    "empresa": "ASND Label",
     "ano_nascimento": 2000,
     "nacionalidade": "Coreana",
     "posicao": [
       "Lead Rapper",
-      "Lead Dancer",
+      "Main Dancer",
       "Vocal"
     ],
     "altura_cm": 168
@@ -366,11 +325,12 @@
   {
     "nome": "Nagyung",
     "grupo": "fromis_9",
-    "empresa": "Pledis Entertainment (HYBE)",
+    "empresa": "ASND Label",
     "ano_nascimento": 2000,
     "nacionalidade": "Coreana",
     "posicao": [
-      "Lead Vocal",
+      "Lead Dancer",
+      "Vocal",
       "Visual"
     ],
     "altura_cm": 160
@@ -378,7 +338,7 @@
   {
     "nome": "Jiheon",
     "grupo": "fromis_9",
-    "empresa": "Pledis Entertainment (HYBE)",
+    "empresa": "ASND Label",
     "ano_nascimento": 2003,
     "nacionalidade": "Coreana",
     "posicao": [
@@ -871,7 +831,7 @@
     "nacionalidade": "Coreana-Nova Zelandesa",
     "posicao": [
       "Main Vocal",
-      "Lead Vocal"
+      "Lead Vocalist"
     ],
     "altura_cm": 168
   },
@@ -1372,7 +1332,7 @@
     "ano_nascimento": 1995,
     "nacionalidade": "Coreana",
     "posicao": [
-      "Lead Vocal",
+      "Lead Vocalist",
       "Lead Dancer",
       "Rapper"
     ],
@@ -1474,7 +1434,7 @@
     "nacionalidade": "Coreana",
     "posicao": [
       "Leader",
-      "Lead Vocal"
+      "Lead Vocalist"
     ],
     "altura_cm": 162
   },
@@ -1571,7 +1531,7 @@
     "ano_nascimento": 1992,
     "nacionalidade": "Coreana",
     "posicao": [
-      "Face of The Group",
+      "Face of the Group",
       "Main Dancer",
       "Visual"
     ],
@@ -1636,7 +1596,7 @@
     "ano_nascimento": 1997,
     "nacionalidade": "Coreana",
     "posicao": [
-      "Lead Vocal"
+      "Lead Vocalist"
     ],
     "altura_cm": 162
   },
@@ -1782,7 +1742,7 @@
       "Main Dancer",
       "Main Rapper"
     ],
-    "altura_cm": 165
+    "altura_cm": 64
   },
   {
     "nome": "Pharita",
@@ -1793,7 +1753,7 @@
     "posicao": [
       "Vocal"
     ],
-    "altura_cm": 170
+    "altura_cm": 171
   },
   {
     "nome": "Asa",
@@ -1805,7 +1765,7 @@
       "Main Rapper",
       "Dancer"
     ],
-    "altura_cm": 167
+    "altura_cm": 164
   },
   {
     "nome": "Ahyeon",
@@ -1818,7 +1778,7 @@
       "Rapper",
       "Center"
     ],
-    "altura_cm": 168
+    "altura_cm": 163
   },
   {
     "nome": "Rami",
@@ -1997,7 +1957,7 @@
     "ano_nascimento": 1994,
     "nacionalidade": "Coreana",
     "posicao": [
-      "Face of The Group",
+      "Face of the Group",
       "Visual",
       "Maknae"
     ],
@@ -2093,7 +2053,7 @@
     "ano_nascimento": 2004,
     "nacionalidade": "Coreana",
     "posicao": [
-      "Main Vocal",
+      "Main Vocalist",
       "Dancer"
     ],
     "altura_cm": 158
@@ -2965,24 +2925,14 @@
     "altura_cm": 158
   },
   {
-    "nome": "JinE",
-    "grupo": "OH MY GIRL",
-    "empresa": "WM Entertainment",
-    "ano_nascimento": 1995,
-    "nacionalidade": "Coreana",
-    "posicao": [
-      "Vocal"
-    ],
-    "altura_cm": 160
-  },
-  {
     "nome": "Mimi",
     "grupo": "OH MY GIRL",
     "empresa": "WM Entertainment",
     "ano_nascimento": 1995,
     "nacionalidade": "Coreana",
     "posicao": [
-      "Main Rapper"
+      "Main Rapper",
+      "Main Dancer"
     ],
     "altura_cm": 159
   },
@@ -2993,8 +2943,9 @@
     "ano_nascimento": 1995,
     "nacionalidade": "Coreana",
     "posicao": [
-      "Vocal",
-      "Main Dancer"
+      "Lead Vocal",
+      "Main Dancer",
+      "Face of the group"
     ],
     "altura_cm": 160
   },
@@ -3010,19 +2961,7 @@
     "altura_cm": 160
   },
   {
-    "nome": "Jiho",
-    "grupo": "OH MY GIRL",
-    "empresa": "WM Entertainment",
-    "ano_nascimento": 1997,
-    "nacionalidade": "Coreana",
-    "posicao": [
-      "Vocal",
-      "Visual"
-    ],
-    "altura_cm": 165
-  },
-  {
-    "nome": "Binnie",
+    "nome": "Yubin",
     "grupo": "OH MY GIRL",
     "empresa": "WM Entertainment",
     "ano_nascimento": 1997,
@@ -3040,6 +2979,7 @@
     "nacionalidade": "Coreana",
     "posicao": [
       "Vocal",
+      "Dancer",
       "Maknae"
     ],
     "altura_cm": 165
