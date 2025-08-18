@@ -88,8 +88,6 @@ export default function DailyMode() {
                 salvarLocalStorage={salvarLocalStorage}
             />
 
-            {mensagemFinal && <h1>{mensagemFinal} do dia</h1>}
-
         </div>
     );
 }
