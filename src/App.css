@@ -233,7 +233,7 @@ tr .single-item {
 }
 
 /* Responsividade */
-@media (max-width: 768px) {
+@media (max-width: 1000px) {
     body {
         padding-top: 1vh;
     }
@@ -267,7 +267,7 @@ tr .single-item {
     .chances {
         width: 10vw;
         min-width: 10vw;
-        font-size: 3vw;
+        font-size: 2vw;
         font-weight: bold;
         color: black;
         background: white;
