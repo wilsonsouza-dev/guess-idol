@@ -51,8 +51,8 @@ export default function InfiniteMode() {
     return (
 
         <div className="container">
-            <h1>🎤 Guess the Idol: Infinito </h1>
-            <ModeSwitcher/>
+
+            <h1>🎤 GUESS THE IDOL<ModeSwitcher/></h1>
             <div className="scoreboard">
                 <p>🏆 Recorde: {recorde}</p>
                 <p>🔥 Atual: {atual}</p>

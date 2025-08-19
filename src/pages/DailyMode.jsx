@@ -68,10 +68,8 @@ export default function DailyMode() {
 
     return (
         <div className="container">
-            <h1>🎤 Guess the Idol: Diário</h1>
-            <div className="header-daily">
-                <ModeSwitcher/>
-            </div>
+            <h1>🎤 GUESS THE IDOL<ModeSwitcher/></h1>
+
             <GuessTable
                 tentativas={tentativas}
                 palpite={palpite}

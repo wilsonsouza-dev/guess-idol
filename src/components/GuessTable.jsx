@@ -122,7 +122,7 @@ export default function GuessTable({
     }));
 
     return (
-        <div className="guess-table-container">
+        <div>
             {mensagemFinal.includes("Parabéns") && (
                 <Confetti
                     width={window.innerWidth}
@@ -140,12 +140,11 @@ export default function GuessTable({
                     inputValue={palpite}
                     placeholder="Digite o nome da idol..."
                     isClearable
-                    className="react-select-container"
                     classNamePrefix="react-select"
                     value={null}
                     isDisabled={mensagemFinal !== ""} // Desabilita o input quando o jogo termina
                 />
-                <span className="chances">{chances} / 10</span>
+                <div className="chances">{chances} / 10</div>
             </div>
 
             <table>

@@ -7,8 +7,13 @@ body {
 }
 
 h1 {
-    font-size: 3vw;
-    margin: 2vh;
+    font-size: 5vw;
+    margin-top: 2vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-family: fantasy, serif;
+    text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.5);
 }
 
 .container {
@@ -21,18 +26,22 @@ h1 {
 }
 
 .modo {
-    padding: 2vh;
-    font-size: 1.2vw;
+    padding: 1vh;
+    font-size: 2vw;
     border-radius: 1vw;
-    margin: 2vh;
+    margin: 1vh;
+    cursor: pointer;
 }
 
 .scoreboard {
-    gap: 1rem;
+    gap: 1vw;
     font-weight: bold;
     font-size: 1.2vw;
-    position: absolute;
     display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-bottom: 3vh;
+    position: absolute;
 }
 
 .scoreboard p {
@@ -46,34 +55,17 @@ h1 {
 .input-wrapper {
     display: flex;
     justify-content: center;
-    align-items: center;
     margin: auto;
     width: 100%;
-    max-width: 30vw;
-    gap: 1rem;
+    gap: 5vw;
 }
 
 .react-select__control {
     margin: 0;
-    padding: 0.7vh;
     font-size: 1.5vw;
     width: 25vw;
-    border: none;
-    background: #0c0c0c;
-    min-width: 25vw; /* Garante que não encolha */
-}
-
-.react-select__control--is-focused {
-    outline: none;
-    box-shadow: 0 0 1vw rgba(255, 255, 255, 0.7);
-}
-
-.react-select__value-container {
-    padding: 0; /* Remove padding extra para alinhar com o input original */
-}
-
-.react-select__input-container {
-    margin: 0; /* Remove margem extra */
+    min-width: 25vw;
+    height: 100%;
 }
 
 .react-select__menu {
@@ -107,7 +99,7 @@ h1 {
 .chances {
     width: 5vw;
     min-width: 5vw;
-    font-size: 1.5vw;
+    font-size: 1.8vw;
     font-weight: bold;
     color: black;
     background: white;
@@ -200,6 +192,7 @@ tr .single-item {
     animation-delay: 2.4s;
 }
 
+
 /* Animações */
 @keyframes revealCell {
     to {
@@ -229,58 +222,14 @@ tr .single-item {
         padding-top: 1vh;
     }
 
-    h1 {
-        font-size: 5vw;
-        padding: 0;
-        margin: 1vh;
-    }
-
-    .modo {
-        font-size: 2vw;
-        padding: 1vh;
-        margin: 1vh;
-    }
-
-    .input-wrapper {
-        max-width: 20vw; /* Ajusta para telas menores */
-    }
-
-    .react-select__control {
-        margin: auto;
-        padding: 0;
-        font-size: 2.5vw;
-        width: 35vw;
-        border: none;
-        background: #0c0c0c;
-        min-width: 25vw;
-    }
-
-    .chances {
-        width: 10vw;
-        min-width: 10vw;
-        font-size: 2vw;
-        font-weight: bold;
-        color: black;
-        background: white;
-        border-radius: 1vw;
-        height: 1.5vh;
-    }
-
-    table {
-        font-size: 1.5vw;
-    }
-
-    th, td {
-        height: 2vh;
-    }
-
-    .react-select__menu {
-        width: 35vw; /* Alinha com a largura do input */
-        font-size: 2vw;
-    }
-
     .container {
         width: 99%;
+    }
+
+    h1 {
+        font-size: 6vw;
+        padding: 0;
+        margin: 2vh;
     }
 
     .scoreboard {
@@ -289,15 +238,47 @@ tr .single-item {
         position: relative;
         display: flex;
         justify-content: center;
-        margin: 1vh;
+        margin-bottom: 3.5vh;
     }
 
     .scoreboard p {
         padding: 1vh;
-        margin: 0;
+        width: 15vw;
+        display: flex;
+        justify-content: center;
         align-items: center;
+    }
+
+    .react-select__control {
+        font-size: 2.5vw;
+        width: 35vw;
+    }
+
+    .react-select__menu {
+        width: 35vw; /* Alinha com a largura do input */
+        font-size: 2vw;
+    }
+
+    .chances {
+        width: 10vw;
+        min-width: 7vw;
+        font-size: 3vw;
+        align-items: center;
+        padding: 1vh;
+        justify-content: center;
+        display: flex;
+        font-weight: bold;
+        color: black;
+        background: white;
         border-radius: 1vw;
-        background-color: #1a1a1a;
+    }
+
+    table {
+        font-size: 1.5vw;
+    }
+
+    th, td {
+        height: 3vh;
     }
 
     .next-idol {

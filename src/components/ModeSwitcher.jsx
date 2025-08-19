@@ -12,7 +12,7 @@ export default function ModeSwitcher() {
 
     return (
         <button className={"modo"} onClick={toggleMode}>
-            {isDaily ? "🌐 Modo Infinito" : "📅 Modo Diário"}
+            {isDaily ? "📅 Modo Diário" : "🌐 Modo Infinito"}
         </button>
     );
 }
