@@ -97,8 +97,7 @@ h1 {
 }
 
 .chances {
-    width: 5vw;
-    min-width: 5vw;
+    min-width: 6vw;
     font-size: 1.8vw;
     font-weight: bold;
     color: black;
@@ -141,7 +140,6 @@ tr .single-item {
 }
 
 .next-idol {
-    width: 100%;
     animation: highlight 1s ease;
     font-size: 1.5vw;
     margin-bottom: 5vh;
