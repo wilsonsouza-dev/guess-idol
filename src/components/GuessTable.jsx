@@ -20,14 +20,19 @@ export default function GuessTable({
                                    }) {
     // Lógica de input e sugestões
     const handleInput = (inputValue) => {
-        const valor = inputValue;
+        const valor = inputValue.trim();
         setPalpite(valor);
 
         if (valor.length > 0) {
+            const valorLower = valor.toLowerCase();
             const filtrados = idols
-                .filter((idolo) => idolo.nome.toLowerCase().startsWith(valor.toLowerCase()))
+                .filter(
+                    (idolo) =>
+                        idolo.grupo.toLowerCase().startsWith(valorLower) ||
+                        idolo.nome.toLowerCase().startsWith(valorLower)
+                )
                 .sort((a, b) => a.nome.localeCompare(b.nome, "pt", {sensitivity: "base"}))
-                .slice(0, 10);
+                .slice(0, 25); // Limita a ~10 opções
 
             setSugestoes(filtrados);
         } else {
@@ -84,8 +89,11 @@ export default function GuessTable({
         // Nacionalidade
         if (idolo.nacionalidade === idoloSecreto.nacionalidade) {
             resultado.feedback.nacionalidade = "correto";
-        } else if (idolo.nacionalidade.includes(idoloSecreto.nacionalidade) || idoloSecreto.nacionalidade.includes(idolo.nacionalidade)) {
-            resultado.feedback.nacionalidade = "proximo";
+        } else {
+            const partesIdolo = idolo.nacionalidade.toLowerCase().split('-');
+            const partesSecreto = idoloSecreto.nacionalidade.toLowerCase().split('-');
+            const temParteComum = partesIdolo.some((parte) => partesSecreto.includes(parte));
+            resultado.feedback.nacionalidade = temParteComum ? "proximo" : "";
         }
 
         // Posição (avaliação individual por mini-bloco)
@@ -114,15 +122,14 @@ export default function GuessTable({
         setTimeout(finalMessage, 2500);
     };
 
-    // Opções para o react-select, baseadas no estado sugestoes
     const options = sugestoes.map((idolo) => ({
         value: idolo.nome,
-        label: `${idolo.nome} - ${idolo.grupo}`,
+        label: `${idolo.nome} (${idolo.grupo})`,
         idolo,
     }));
 
     return (
-        <div>
+        <div className="guess-table-container">
             {mensagemFinal.includes("Parabéns") && (
                 <Confetti
                     width={window.innerWidth}
@@ -138,15 +145,15 @@ export default function GuessTable({
                     onChange={(selectedOption) => escolherSugestao(selectedOption ? selectedOption.idolo : null)}
                     onInputChange={handleInput}
                     inputValue={palpite}
-                    placeholder="Digite o nome da idol..."
+                    placeholder="Digite o nome da idol ou grupo"
                     isClearable
+                    className="react-select-container"
                     classNamePrefix="react-select"
                     value={null}
-                    isDisabled={mensagemFinal !== ""} // Desabilita o input quando o jogo termina
+                    isDisabled={mensagemFinal !== ""}
                 />
                 <div className="chances">{chances} / 10</div>
             </div>
-
             <table>
                 <thead>
                 <tr>
@@ -184,7 +191,9 @@ export default function GuessTable({
                             {t.posicao.map((p, index) => (
                                 <div
                                     key={index}
-                                    className={`mini-bloco ${t.feedback.posicao[index]} ${t.posicao.length === 1 ? 'single-item' : ''}`}
+                                    className={`mini-bloco ${t.feedback.posicao[index]} ${
+                                        t.posicao.length === 1 ? 'single-item' : t.posicao.length === 2 ? 'double-item' : 'triple-item'
+                                    }`}
                                 >
                                     {p}
                                 </div>
@@ -194,8 +203,7 @@ export default function GuessTable({
                 ))}
                 </tbody>
             </table>
-            <br/>
-            {mensagemFinal && <h2>{mensagemFinal}</h2>}
+            {mensagemFinal && <h2 className="mensagem-acerto">{mensagemFinal}</h2>}
         </div>
     );
 }

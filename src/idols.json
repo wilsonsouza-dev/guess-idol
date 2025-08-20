@@ -1470,8 +1470,7 @@
     "nacionalidade": "Coreana",
     "posicao": [
       "Vocal",
-      "Visual",
-      "Maknae"
+      "Visual"
     ],
     "altura_cm": 167
   },
@@ -1911,7 +1910,7 @@
       "Lead Vocal",
       "Maknae"
     ],
-    "altura_cm": 180
+    "altura_cm": 168
   },
   {
     "nome": "Fei",
@@ -3179,7 +3178,7 @@
     "grupo": "TripleS",
     "empresa": "Modhaus",
     "ano_nascimento": 2003,
-    "nacionalidade": "Taiwan",
+    "nacionalidade": "Taiwanesa",
     "posicao": [
       "Lead Dancer"
     ],
@@ -3311,5 +3310,158 @@
       "Lead Dancer"
     ],
     "altura_cm": 167
+  },
+  {
+    "nome": "Sophia",
+    "grupo": "KATSEYE",
+    "empresa": "Geffen Records / HYBE America",
+    "ano_nascimento": 2002,
+    "nacionalidade": "Filipina",
+    "posicao": [
+      "Leader"
+    ],
+    "altura_cm": 167
+  },
+  {
+    "nome": "Manon",
+    "grupo": "KATSEYE",
+    "empresa": "Geffen Records / HYBE America",
+    "ano_nascimento": 2002,
+    "nacionalidade": "Suíça",
+    "posicao": [
+      "Visual"
+    ],
+    "altura_cm": 166
+  },
+  {
+    "nome": "Daniela",
+    "grupo": "KATSEYE",
+    "empresa": "Geffen Records / HYBE America",
+    "ano_nascimento": 2004,
+    "nacionalidade": "Americana",
+    "posicao": [
+      "Main Dancer"
+    ],
+    "altura_cm": 165
+  },
+  {
+    "nome": "Lara",
+    "grupo": "KATSEYE",
+    "empresa": "Geffen Records / HYBE America",
+    "ano_nascimento": 2005,
+    "nacionalidade": "Americana",
+    "posicao": [
+      "Main Vocalist"
+    ],
+    "altura_cm": 167
+  },
+  {
+    "nome": "Megan",
+    "grupo": "KATSEYE",
+    "empresa": "Geffen Records / HYBE America",
+    "ano_nascimento": 2006,
+    "nacionalidade": "Americana",
+    "posicao": [
+      "Lead Vocal",
+      "Lead Dancer",
+      "Lead Rapper"
+    ],
+    "altura_cm": 169
+  },
+  {
+    "nome": "Yoonchae",
+    "grupo": "KATSEYE",
+    "empresa": "Geffen Records / HYBE America",
+    "ano_nascimento": 2007,
+    "nacionalidade": "Coreana",
+    "posicao": [
+      "Maknae"
+    ],
+    "altura_cm": 170
+  },
+  {
+    "nome": "Jurin",
+    "grupo": "XG",
+    "empresa": "XGALX",
+    "ano_nascimento": 2002,
+    "nacionalidade": "Japonesa",
+    "posicao": [
+      "Leader",
+      "Lead Rapper",
+      "Main Dancer",
+      "Vocalist"
+    ],
+    "altura_cm": 158
+  },
+  {
+    "nome": "Chisa",
+    "grupo": "XG",
+    "empresa": "XGALX",
+    "ano_nascimento": 2002,
+    "nacionalidade": "Japonesa",
+    "posicao": [
+      "Sub-Leader",
+      "Main Vocalist"
+    ],
+    "altura_cm": 157
+  },
+  {
+    "nome": "Hinata",
+    "grupo": "XG",
+    "empresa": "XGALX",
+    "ano_nascimento": 2002,
+    "nacionalidade": "Japonesa-Coreana",
+    "posicao": [
+      "Main Dancer",
+      "Sub Vocalist"
+    ],
+    "altura_cm": 157
+  },
+  {
+    "nome": "Harvey",
+    "grupo": "XG",
+    "empresa": "XGALX",
+    "ano_nascimento": 2002,
+    "nacionalidade": "Japonesa-Australiana",
+    "posicao": [
+      "Main Rapper",
+      "Sub-Vocalist"
+    ],
+    "altura_cm": 160
+  },
+  {
+    "nome": "Juria",
+    "grupo": "XG",
+    "empresa": "XGALX",
+    "ano_nascimento": 2004,
+    "nacionalidade": "Japonesa",
+    "posicao": [
+      "Main Vocalist"
+    ],
+    "altura_cm": 152
+  },
+  {
+    "nome": "Maya",
+    "grupo": "XG",
+    "empresa": "XGALX",
+    "ano_nascimento": 2005,
+    "nacionalidade": "Japonesa",
+    "posicao": [
+      "Lead Vocalist",
+      "Rapper"
+    ],
+    "altura_cm": 156
+  },
+  {
+    "nome": "Cocona",
+    "grupo": "XG",
+    "empresa": "XGALX",
+    "ano_nascimento": 2005,
+    "nacionalidade": "Japonesa",
+    "posicao": [
+      "Main Rapper",
+      "Maknae"
+    ],
+    "altura_cm": 150
   }
 ]

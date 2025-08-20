@@ -14,6 +14,7 @@ h1 {
     justify-content: center;
     font-family: fantasy, serif;
     text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.5);
+    height: 100%;
 }
 
 .container {
@@ -27,10 +28,11 @@ h1 {
 
 .modo {
     padding: 1vh;
-    font-size: 2vw;
+    font-size: 2.5vw;
     border-radius: 1vw;
     margin: 1vh;
     cursor: pointer;
+    height: 100%;
 }
 
 .scoreboard {
@@ -50,6 +52,7 @@ h1 {
     align-items: center;
     border-radius: 1vw;
     background-color: #1a1a1a;
+    width: 9vw;
 }
 
 .input-wrapper {
@@ -57,12 +60,12 @@ h1 {
     justify-content: center;
     margin: auto;
     width: 100%;
-    gap: 5vw;
+    gap: 2vw;
 }
 
 .react-select__control {
     margin: 0;
-    font-size: 1.5vw;
+    font-size: 1.2vw;
     width: 25vw;
     min-width: 25vw;
     height: 100%;
@@ -114,10 +117,11 @@ table {
     background-color: #1a1a1a;
     overflow: hidden;
     animation: fadeInUp 1s ease;
+    border-radius: 1vw;
 }
 
 th, td {
-    border: #b6b2b2 solid 1px;
+    border: #7c7a7a solid 0.1vw;
     text-align: center;
     height: 5vh;
     transition: background 0.3s ease;
@@ -125,7 +129,7 @@ th, td {
 
 th {
     background: rgba(255, 255, 255, 0.2);
-    border: #1a1a1a solid 1px;
+    border: #1a1a1a hidden 0.1vw;
     font-size: 1.2vw;
 }
 
@@ -136,7 +140,15 @@ th {
 }
 
 tr .single-item {
-    height: 100% /* Padding maior para um único item */
+    height: 100%
+}
+
+tr .double-item {
+    height: 50%
+}
+
+tr .triple-item {
+    height: 33%
 }
 
 .next-idol {
@@ -215,13 +227,20 @@ tr .single-item {
 }
 
 /* Responsividade */
-@media (max-width: 1000px) {
+@media (max-width: 1080px) {
     body {
         padding-top: 1vh;
     }
 
     .container {
         width: 99%;
+    }
+
+    .modo {
+        font-size: 3vw;
+        padding: 1vh;
+        margin: 1vh;
+        height: 100%;
     }
 
     h1 {
@@ -248,7 +267,7 @@ tr .single-item {
     }
 
     .react-select__control {
-        font-size: 2.5vw;
+        font-size: 2vw;
         width: 35vw;
     }
 
@@ -277,6 +296,7 @@ tr .single-item {
 
     th, td {
         height: 3vh;
+
     }
 
     .next-idol {
