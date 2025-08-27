@@ -17,6 +17,7 @@ export default function InfiniteMode() {
 
     const RECORDE_KEY = "infinite-recorde";
     const LOCAL_KEY = "infinite-idol";
+    const HISTORY_KEY = "infinite-history"; // 🔑 histórico do Infinite
 
     // 🔹 Carregar dados do localStorage
     useEffect(() => {
@@ -39,6 +40,7 @@ export default function InfiniteMode() {
 
     // 🔹 Atualizar recorde/streak
     const atualizarPontuacao = (ganhou) => {
+        salvarHistorico(chances + 1) // salvar número de tentativas no histórico
         if (ganhou) {
             const novoAtual = atual + 1;
             setAtual(novoAtual);
@@ -50,6 +52,12 @@ export default function InfiniteMode() {
         } else {
             setAtual(0);
         }
+    };
+
+    const salvarHistorico = (resultado) => {
+        const history = JSON.parse(localStorage.getItem(HISTORY_KEY)) || []
+        history.push(resultado);
+        localStorage.setItem(HISTORY_KEY, JSON.stringify(history));
     };
 
     const salvarLocalStorage = (novasTentativas, novasChances, novaMensagemFinal) => {
