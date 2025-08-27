@@ -1,5 +1,6 @@
 [
   {
+    "id": 1,
     "nome": "Yeji",
     "grupo": "ITZY",
     "empresa": "JYP Entertainment",
@@ -13,6 +14,7 @@
     "altura_cm": 167
   },
   {
+    "id": 2,
     "nome": "Lia",
     "grupo": "ITZY",
     "empresa": "JYP Entertainment",
@@ -24,6 +26,7 @@
     "altura_cm": 162
   },
   {
+    "id": 3,
     "nome": "Ryujin",
     "grupo": "ITZY",
     "empresa": "JYP Entertainment",
@@ -36,6 +39,7 @@
     "altura_cm": 164
   },
   {
+    "id": 4,
     "nome": "Chaeryeong",
     "grupo": "ITZY",
     "empresa": "JYP Entertainment",
@@ -48,6 +52,7 @@
     "altura_cm": 166
   },
   {
+    "id": 5,
     "nome": "Yuna",
     "grupo": "ITZY",
     "empresa": "JYP Entertainment",
@@ -61,6 +66,7 @@
     "altura_cm": 170
   },
   {
+    "id": 6,
     "nome": "Haseul",
     "grupo": "Artms",
     "empresa": "Modhaus",
@@ -74,6 +80,7 @@
     "altura_cm": 159
   },
   {
+    "id": 7,
     "nome": "Kim Lip",
     "grupo": "Artms",
     "empresa": "Modhaus",
@@ -86,6 +93,7 @@
     "altura_cm": 163
   },
   {
+    "id": 8,
     "nome": "Jinsoul",
     "grupo": "Artms",
     "empresa": "Modhaus",
@@ -98,6 +106,7 @@
     "altura_cm": 165
   },
   {
+    "id": 9,
     "nome": "Choerry",
     "grupo": "Artms",
     "empresa": "Modhaus",
@@ -111,6 +120,7 @@
     "altura_cm": 163
   },
   {
+    "id": 10,
     "nome": "Heejin",
     "grupo": "Artms",
     "empresa": "Modhaus",
@@ -124,6 +134,7 @@
     "altura_cm": 161
   },
   {
+    "id": 11,
     "nome": "Hyunjin",
     "grupo": "Loossemble",
     "empresa": "CTDENM",
@@ -137,6 +148,7 @@
     "altura_cm": 163
   },
   {
+    "id": 12,
     "nome": "Yeojin",
     "grupo": "Loossemble",
     "empresa": "CTDENM",
@@ -150,6 +162,7 @@
     "altura_cm": 149
   },
   {
+    "id": 13,
     "nome": "Vivi",
     "grupo": "Loossemble",
     "empresa": "CTDENM",
@@ -162,6 +175,7 @@
     "altura_cm": 160
   },
   {
+    "id": 14,
     "nome": "Gowon",
     "grupo": "Loossemble",
     "empresa": "CTDENM",
@@ -175,6 +189,7 @@
     "altura_cm": 160
   },
   {
+    "id": 15,
     "nome": "Hyeju",
     "grupo": "Loosemble",
     "empresa": "CTDENM",
@@ -188,6 +203,7 @@
     "altura_cm": 165
   },
   {
+    "id": 16,
     "nome": "Yves",
     "grupo": "Solista",
     "empresa": "PAIX PER MIL",
@@ -200,6 +216,7 @@
     "altura_cm": 166
   },
   {
+    "id": 17,
     "nome": "Chuu",
     "grupo": "Solista",
     "empresa": "ATRP",
@@ -211,6 +228,7 @@
     "altura_cm": 161
   },
   {
+    "id": 18,
     "nome": "Lily",
     "grupo": "NMIXX",
     "empresa": "JYP Entertainment",
@@ -222,6 +240,7 @@
     "altura_cm": 163
   },
   {
+    "id": 19,
     "nome": "Haewon",
     "grupo": "NMIXX",
     "empresa": "JYP Entertainment",
@@ -235,6 +254,7 @@
     "altura_cm": 162
   },
   {
+    "id": 20,
     "nome": "Sullyoon",
     "grupo": "NMIXX",
     "empresa": "JYP Entertainment",
@@ -248,6 +268,7 @@
     "altura_cm": 167
   },
   {
+    "id": 21,
     "nome": "Bae",
     "grupo": "NMIXX",
     "empresa": "JYP Entertainment",
@@ -260,6 +281,7 @@
     "altura_cm": 170
   },
   {
+    "id": 22,
     "nome": "Jiwoo",
     "grupo": "NMIXX",
     "empresa": "JYP Entertainment",
@@ -273,6 +295,7 @@
     "altura_cm": 161
   },
   {
+    "id": 23,
     "nome": "Kyujin",
     "grupo": "NMIXX",
     "empresa": "JYP Entertainment",
@@ -286,6 +309,7 @@
     "altura_cm": 164
   },
   {
+    "id": 24,
     "nome": "Hayoung",
     "grupo": "fromis_9",
     "empresa": "ASND Label",
@@ -299,6 +323,7 @@
     "altura_cm": 163
   },
   {
+    "id": 25,
     "nome": "Jiwon",
     "grupo": "fromis_9",
     "empresa": "ASND Label",
@@ -310,6 +335,7 @@
     "altura_cm": 157
   },
   {
+    "id": 26,
     "nome": "Chaeyoung",
     "grupo": "fromis_9",
     "empresa": "ASND Label",
@@ -323,6 +349,7 @@
     "altura_cm": 168
   },
   {
+    "id": 27,
     "nome": "Nagyung",
     "grupo": "fromis_9",
     "empresa": "ASND Label",
@@ -336,6 +363,7 @@
     "altura_cm": 160
   },
   {
+    "id": 28,
     "nome": "Jiheon",
     "grupo": "fromis_9",
     "empresa": "ASND Label",
@@ -348,6 +376,7 @@
     "altura_cm": 166
   },
   {
+    "id": 29,
     "nome": "Sakura",
     "grupo": "LE SSERAFIM",
     "empresa": "Source Music (HYBE)",
@@ -361,6 +390,7 @@
     "altura_cm": 163
   },
   {
+    "id": 30,
     "nome": "Chaewon",
     "grupo": "LE SSERAFIM",
     "empresa": "Source Music (HYBE)",
@@ -374,6 +404,7 @@
     "altura_cm": 164
   },
   {
+    "id": 31,
     "nome": "Yunjin",
     "grupo": "LE SSERAFIM",
     "empresa": "Source Music (HYBE)",
@@ -386,6 +417,7 @@
     "altura_cm": 172
   },
   {
+    "id": 32,
     "nome": "Kazuha",
     "grupo": "LE SSERAFIM",
     "empresa": "Source Music (HYBE)",
@@ -398,6 +430,7 @@
     "altura_cm": 170
   },
   {
+    "id": 33,
     "nome": "Eunchae",
     "grupo": "LE SSERAFIM",
     "empresa": "Source Music (HYBE)",
@@ -411,6 +444,7 @@
     "altura_cm": 169
   },
   {
+    "id": 34,
     "nome": "Karina",
     "grupo": "aespa",
     "empresa": "SM Entertainment",
@@ -424,6 +458,7 @@
     "altura_cm": 168
   },
   {
+    "id": 35,
     "nome": "Giselle",
     "grupo": "aespa",
     "empresa": "SM Entertainment",
@@ -435,6 +470,7 @@
     "altura_cm": 163
   },
   {
+    "id": 36,
     "nome": "Winter",
     "grupo": "aespa",
     "empresa": "SM Entertainment",
@@ -448,6 +484,7 @@
     "altura_cm": 163
   },
   {
+    "id": 37,
     "nome": "Ningning",
     "grupo": "aespa",
     "empresa": "SM Entertainment",
@@ -460,6 +497,7 @@
     "altura_cm": 161
   },
   {
+    "id": 38,
     "nome": "Rei",
     "grupo": "IVE",
     "empresa": "Starship Entertainment",
@@ -471,6 +509,7 @@
     "altura_cm": 170
   },
   {
+    "id": 39,
     "nome": "Yujin",
     "grupo": "IVE",
     "empresa": "Starship Entertainment",
@@ -484,6 +523,7 @@
     "altura_cm": 173
   },
   {
+    "id": 40,
     "nome": "Gaeul",
     "grupo": "IVE",
     "empresa": "Starship Entertainment",
@@ -496,6 +536,7 @@
     "altura_cm": 164
   },
   {
+    "id": 41,
     "nome": "Wonyoung",
     "grupo": "IVE",
     "empresa": "Starship Entertainment",
@@ -508,6 +549,7 @@
     "altura_cm": 173
   },
   {
+    "id": 42,
     "nome": "Liz",
     "grupo": "IVE",
     "empresa": "Starship Entertainment",
@@ -519,6 +561,7 @@
     "altura_cm": 171
   },
   {
+    "id": 43,
     "nome": "Leeseo",
     "grupo": "IVE",
     "empresa": "Starship Entertainment",
@@ -531,6 +574,7 @@
     "altura_cm": 165
   },
   {
+    "id": 44,
     "nome": "Na Goeun",
     "grupo": "Purple Kiss",
     "empresa": "RBW Entertainment",
@@ -543,6 +587,7 @@
     "altura_cm": 161
   },
   {
+    "id": 45,
     "nome": "Dosie",
     "grupo": "Purple Kiss",
     "empresa": "RBW Entertainment",
@@ -555,6 +600,7 @@
     "altura_cm": 163
   },
   {
+    "id": 46,
     "nome": "Ireh",
     "grupo": "Purple Kiss",
     "empresa": "RBW Entertainment",
@@ -567,6 +613,7 @@
     "altura_cm": 164
   },
   {
+    "id": 47,
     "nome": "Yuki",
     "grupo": "Purple Kiss",
     "empresa": "RBW Entertainment",
@@ -579,6 +626,7 @@
     "altura_cm": 164
   },
   {
+    "id": 48,
     "nome": "Chaein",
     "grupo": "Purple Kiss",
     "empresa": "RBW Entertainment",
@@ -592,6 +640,7 @@
     "altura_cm": 160
   },
   {
+    "id": 49,
     "nome": "Swan",
     "grupo": "Purple Kiss",
     "empresa": "RBW Entertainment",
@@ -604,6 +653,7 @@
     "altura_cm": 165
   },
   {
+    "id": 50,
     "nome": "Sumin",
     "grupo": "STAYC",
     "empresa": "High Up Entertainment",
@@ -617,6 +667,7 @@
     "altura_cm": 159
   },
   {
+    "id": 51,
     "nome": "Sieun",
     "grupo": "STAYC",
     "empresa": "High Up Entertainment",
@@ -630,6 +681,7 @@
     "altura_cm": 159
   },
   {
+    "id": 52,
     "nome": "Isa",
     "grupo": "STAYC",
     "empresa": "High Up Entertainment",
@@ -642,6 +694,7 @@
     "altura_cm": 165
   },
   {
+    "id": 53,
     "nome": "Seeun",
     "grupo": "STAYC",
     "empresa": "High Up Entertainment",
@@ -653,6 +706,7 @@
     "altura_cm": 167
   },
   {
+    "id": 54,
     "nome": "Yoon",
     "grupo": "STAYC",
     "empresa": "High Up Entertainment",
@@ -664,6 +718,7 @@
     "altura_cm": 172
   },
   {
+    "id": 55,
     "nome": "J",
     "grupo": "STAYC",
     "empresa": "High Up Entertainment",
@@ -677,6 +732,7 @@
     "altura_cm": 169
   },
   {
+    "id": 56,
     "nome": "Minji",
     "grupo": "NewJeans",
     "empresa": "ADOR (HYBE)",
@@ -690,6 +746,7 @@
     "altura_cm": 169
   },
   {
+    "id": 57,
     "nome": "Hanni",
     "grupo": "NewJeans",
     "empresa": "ADOR (HYBE)",
@@ -702,6 +759,7 @@
     "altura_cm": 162
   },
   {
+    "id": 58,
     "nome": "Danielle",
     "grupo": "NewJeans",
     "empresa": "ADOR (HYBE)",
@@ -713,6 +771,7 @@
     "altura_cm": 165
   },
   {
+    "id": 59,
     "nome": "Haerin",
     "grupo": "NewJeans",
     "empresa": "ADOR (HYBE)",
@@ -725,6 +784,7 @@
     "altura_cm": 164
   },
   {
+    "id": 60,
     "nome": "Hyein",
     "grupo": "NewJeans",
     "empresa": "ADOR (HYBE)",
@@ -737,6 +797,7 @@
     "altura_cm": 170
   },
   {
+    "id": 61,
     "nome": "Irene",
     "grupo": "Red Velvet",
     "empresa": "SM Entertainment",
@@ -750,6 +811,7 @@
     "altura_cm": 158
   },
   {
+    "id": 62,
     "nome": "Seulgi",
     "grupo": "Red Velvet",
     "empresa": "SM Entertainment",
@@ -762,6 +824,7 @@
     "altura_cm": 161
   },
   {
+    "id": 63,
     "nome": "Wendy",
     "grupo": "Red Velvet",
     "empresa": "SM Entertainment",
@@ -775,6 +838,7 @@
     "altura_cm": 159
   },
   {
+    "id": 64,
     "nome": "Joy",
     "grupo": "Red Velvet",
     "empresa": "SM Entertainment",
@@ -787,6 +851,7 @@
     "altura_cm": 167
   },
   {
+    "id": 65,
     "nome": "Yeri",
     "grupo": "Red Velvet",
     "empresa": "SM Entertainment",
@@ -800,6 +865,7 @@
     "altura_cm": 158
   },
   {
+    "id": 66,
     "nome": "Jennie",
     "grupo": "BLACKPINK",
     "empresa": "YG Entertainment",
@@ -812,6 +878,7 @@
     "altura_cm": 163
   },
   {
+    "id": 67,
     "nome": "Jisoo",
     "grupo": "BLACKPINK",
     "empresa": "YG Entertainment",
@@ -824,6 +891,7 @@
     "altura_cm": 162
   },
   {
+    "id": 68,
     "nome": "Rosé",
     "grupo": "BLACKPINK",
     "empresa": "YG Entertainment",
@@ -836,6 +904,7 @@
     "altura_cm": 168
   },
   {
+    "id": 69,
     "nome": "Lisa",
     "grupo": "BLACKPINK",
     "empresa": "YG Entertainment",
@@ -849,6 +918,7 @@
     "altura_cm": 166
   },
   {
+    "id": 70,
     "nome": "JiU",
     "grupo": "Dreamcatcher",
     "empresa": "Dreamcatcher Company",
@@ -862,6 +932,7 @@
     "altura_cm": 167
   },
   {
+    "id": 71,
     "nome": "SuA",
     "grupo": "Dreamcatcher",
     "empresa": "Dreamcatcher Company",
@@ -875,6 +946,7 @@
     "altura_cm": 162
   },
   {
+    "id": 72,
     "nome": "Siyeon",
     "grupo": "Dreamcatcher",
     "empresa": "Dreamcatcher Company",
@@ -886,6 +958,7 @@
     "altura_cm": 166
   },
   {
+    "id": 73,
     "nome": "Handong",
     "grupo": "Dreamcatcher",
     "empresa": "Dreamcatcher Company",
@@ -897,6 +970,7 @@
     "altura_cm": 165
   },
   {
+    "id": 74,
     "nome": "Yoohyeon",
     "grupo": "Dreamcatcher",
     "empresa": "Dreamcatcher Company",
@@ -909,6 +983,7 @@
     "altura_cm": 168
   },
   {
+    "id": 75,
     "nome": "Dami",
     "grupo": "Dreamcatcher",
     "empresa": "Dreamcatcher Company",
@@ -921,6 +996,7 @@
     "altura_cm": 163
   },
   {
+    "id": 76,
     "nome": "Gahyeon",
     "grupo": "Dreamcatcher",
     "empresa": "Dreamcatcher Company",
@@ -934,6 +1010,7 @@
     "altura_cm": 160
   },
   {
+    "id": 77,
     "nome": "Seola",
     "grupo": "WJSN",
     "empresa": "Starship Entertainment",
@@ -945,6 +1022,7 @@
     "altura_cm": 164
   },
   {
+    "id": 78,
     "nome": "Xuanyi",
     "grupo": "WJSN",
     "empresa": "Starship Entertainment",
@@ -957,6 +1035,7 @@
     "altura_cm": 166
   },
   {
+    "id": 79,
     "nome": "Bona",
     "grupo": "WJSN",
     "empresa": "Starship Entertainment",
@@ -970,6 +1049,7 @@
     "altura_cm": 163
   },
   {
+    "id": 80,
     "nome": "Soobin",
     "grupo": "WJSN",
     "empresa": "Starship Entertainment",
@@ -981,6 +1061,7 @@
     "altura_cm": 157
   },
   {
+    "id": 81,
     "nome": "Luda",
     "grupo": "WJSN",
     "empresa": "Starship Entertainment",
@@ -993,6 +1074,7 @@
     "altura_cm": 156
   },
   {
+    "id": 82,
     "nome": "Dawon",
     "grupo": "WJSN",
     "empresa": "Starship Entertainment",
@@ -1004,6 +1086,7 @@
     "altura_cm": 167
   },
   {
+    "id": 83,
     "nome": "Eunseo",
     "grupo": "WJSN",
     "empresa": "Starship Entertainment",
@@ -1016,6 +1099,7 @@
     "altura_cm": 170
   },
   {
+    "id": 84,
     "nome": "Cheng Xiao",
     "grupo": "WJSN",
     "empresa": "Starship Entertainment",
@@ -1029,6 +1113,7 @@
     "altura_cm": 166
   },
   {
+    "id": 85,
     "nome": "Meiqi",
     "grupo": "WJSN",
     "empresa": "Starship Entertainment",
@@ -1041,6 +1126,7 @@
     "altura_cm": 165
   },
   {
+    "id": 86,
     "nome": "Yeoreum",
     "grupo": "WJSN",
     "empresa": "Starship Entertainment",
@@ -1053,6 +1139,7 @@
     "altura_cm": 162
   },
   {
+    "id": 87,
     "nome": "Dayoung",
     "grupo": "WJSN",
     "empresa": "Starship Entertainment",
@@ -1064,6 +1151,7 @@
     "altura_cm": 161
   },
   {
+    "id": 88,
     "nome": "Yeonjung",
     "grupo": "WJSN",
     "empresa": "Starship Entertainment",
@@ -1076,6 +1164,7 @@
     "altura_cm": 165
   },
   {
+    "id": 89,
     "nome": "Exy",
     "grupo": "WJSN",
     "empresa": "Starship Entertainment",
@@ -1088,6 +1177,7 @@
     "altura_cm": 166
   },
   {
+    "id": 90,
     "nome": "Nayeon",
     "grupo": "TWICE",
     "empresa": "JYP Entertainment",
@@ -1101,6 +1191,7 @@
     "altura_cm": 163
   },
   {
+    "id": 91,
     "nome": "Jeongyeon",
     "grupo": "TWICE",
     "empresa": "JYP Entertainment",
@@ -1112,6 +1203,7 @@
     "altura_cm": 167
   },
   {
+    "id": 92,
     "nome": "Momo",
     "grupo": "TWICE",
     "empresa": "JYP Entertainment",
@@ -1124,6 +1216,7 @@
     "altura_cm": 163
   },
   {
+    "id": 93,
     "nome": "Sana",
     "grupo": "TWICE",
     "empresa": "JYP Entertainment",
@@ -1137,6 +1230,7 @@
     "altura_cm": 163
   },
   {
+    "id": 94,
     "nome": "Jihyo",
     "grupo": "TWICE",
     "empresa": "JYP Entertainment",
@@ -1150,6 +1244,7 @@
     "altura_cm": 160
   },
   {
+    "id": 95,
     "nome": "Mina",
     "grupo": "TWICE",
     "empresa": "JYP Entertainment",
@@ -1163,6 +1258,7 @@
     "altura_cm": 163
   },
   {
+    "id": 96,
     "nome": "Dahyun",
     "grupo": "TWICE",
     "empresa": "JYP Entertainment",
@@ -1175,6 +1271,7 @@
     "altura_cm": 161
   },
   {
+    "id": 97,
     "nome": "Chaeyoung",
     "grupo": "TWICE",
     "empresa": "JYP Entertainment",
@@ -1187,6 +1284,7 @@
     "altura_cm": 158
   },
   {
+    "id": 98,
     "nome": "Tzuyu",
     "grupo": "TWICE",
     "empresa": "JYP Entertainment",
@@ -1200,6 +1298,7 @@
     "altura_cm": 170
   },
   {
+    "id": 99,
     "nome": "Soojin",
     "grupo": "Weeekly",
     "empresa": "IST Entertainment",
@@ -1213,6 +1312,7 @@
     "altura_cm": 165
   },
   {
+    "id": 100,
     "nome": "Jiyoon",
     "grupo": "Weeekly",
     "empresa": "IST Entertainment",
@@ -1225,6 +1325,7 @@
     "altura_cm": 165
   },
   {
+    "id": 101,
     "nome": "Monday",
     "grupo": "Weeekly",
     "empresa": "IST Entertainment",
@@ -1238,6 +1339,7 @@
     "altura_cm": 173
   },
   {
+    "id": 102,
     "nome": "Soeun",
     "grupo": "Weeekly",
     "empresa": "IST Entertainment",
@@ -1250,6 +1352,7 @@
     "altura_cm": 171
   },
   {
+    "id": 103,
     "nome": "Jaehee",
     "grupo": "Weeekly",
     "empresa": "IST Entertainment",
@@ -1262,6 +1365,7 @@
     "altura_cm": 166
   },
   {
+    "id": 104,
     "nome": "Jihan",
     "grupo": "Weeekly",
     "empresa": "IST Entertainment",
@@ -1275,6 +1379,7 @@
     "altura_cm": 167
   },
   {
+    "id": 105,
     "nome": "Zoa",
     "grupo": "Weeekly",
     "empresa": "IST Entertainment",
@@ -1288,6 +1393,7 @@
     "altura_cm": 171
   },
   {
+    "id": 106,
     "nome": "Chorong",
     "grupo": "Apink",
     "empresa": "IST Entertainment",
@@ -1301,6 +1407,7 @@
     "altura_cm": 162
   },
   {
+    "id": 107,
     "nome": "Bomi",
     "grupo": "Apink",
     "empresa": "IST Entertainment",
@@ -1314,6 +1421,7 @@
     "altura_cm": 163
   },
   {
+    "id": 108,
     "nome": "Eunji",
     "grupo": "Apink",
     "empresa": "IST Entertainment",
@@ -1326,6 +1434,7 @@
     "altura_cm": 162
   },
   {
+    "id": 109,
     "nome": "Namjoo",
     "grupo": "Apink",
     "empresa": "IST Entertainment",
@@ -1339,6 +1448,7 @@
     "altura_cm": 165
   },
   {
+    "id": 110,
     "nome": "Hayoung",
     "grupo": "Apink",
     "empresa": "IST Entertainment",
@@ -1352,6 +1462,7 @@
     "altura_cm": 169
   },
   {
+    "id": 111,
     "nome": "Sihyeon",
     "grupo": "EVERGLOW",
     "empresa": "Yuehua Entertainment",
@@ -1365,6 +1476,7 @@
     "altura_cm": 170
   },
   {
+    "id": 112,
     "nome": "E:U",
     "grupo": "EVERGLOW",
     "empresa": "Yuehua Entertainment",
@@ -1377,6 +1489,7 @@
     "altura_cm": 161
   },
   {
+    "id": 113,
     "nome": "Mia",
     "grupo": "EVERGLOW",
     "empresa": "Yuehua Entertainment",
@@ -1390,6 +1503,7 @@
     "altura_cm": 163
   },
   {
+    "id": 114,
     "nome": "Onda",
     "grupo": "EVERGLOW",
     "empresa": "Yuehua Entertainment",
@@ -1401,6 +1515,7 @@
     "altura_cm": 166
   },
   {
+    "id": 115,
     "nome": "Aisha",
     "grupo": "EVERGLOW",
     "empresa": "Yuehua Entertainment",
@@ -1414,6 +1529,7 @@
     "altura_cm": 174
   },
   {
+    "id": 116,
     "nome": "Yiren",
     "grupo": "EVERGLOW",
     "empresa": "Yuehua Entertainment",
@@ -1427,6 +1543,7 @@
     "altura_cm": 163
   },
   {
+    "id": 117,
     "nome": "Gyuri",
     "grupo": "KARA",
     "empresa": "DSP Media",
@@ -1439,6 +1556,7 @@
     "altura_cm": 162
   },
   {
+    "id": 118,
     "nome": "Seungyeon",
     "grupo": "KARA",
     "empresa": "DSP Media",
@@ -1450,6 +1568,7 @@
     "altura_cm": 160
   },
   {
+    "id": 119,
     "nome": "Nicole",
     "grupo": "KARA",
     "empresa": "DSP Media",
@@ -1463,6 +1582,7 @@
     "altura_cm": 165
   },
   {
+    "id": 120,
     "nome": "Jiyoung",
     "grupo": "KARA",
     "empresa": "DSP Media",
@@ -1475,6 +1595,7 @@
     "altura_cm": 167
   },
   {
+    "id": 121,
     "nome": "Youngji",
     "grupo": "KARA",
     "empresa": "DSP Media",
@@ -1488,6 +1609,7 @@
     "altura_cm": 165
   },
   {
+    "id": 122,
     "nome": "Yeeun",
     "grupo": "Wonder Girls",
     "empresa": "JYP Entertainment",
@@ -1500,6 +1622,7 @@
     "altura_cm": 165
   },
   {
+    "id": 123,
     "nome": "Sunye",
     "grupo": "Wonder Girls",
     "empresa": "JYP Entertainment",
@@ -1511,6 +1634,7 @@
     "altura_cm": 160
   },
   {
+    "id": 124,
     "nome": "Sunmi",
     "grupo": "Wonder Girls",
     "empresa": "JYP Entertainment",
@@ -1524,6 +1648,7 @@
     "altura_cm": 166
   },
   {
+    "id": 125,
     "nome": "Sohee",
     "grupo": "Wonder Girls",
     "empresa": "JYP Entertainment",
@@ -1537,6 +1662,7 @@
     "altura_cm": 163
   },
   {
+    "id": 126,
     "nome": "Yubin",
     "grupo": "Wonder Girls",
     "empresa": "JYP Entertainment",
@@ -1550,6 +1676,7 @@
     "altura_cm": 161
   },
   {
+    "id": 127,
     "nome": "Hyelim",
     "grupo": "Wonder Girls",
     "empresa": "JYP Entertainment",
@@ -1563,6 +1690,7 @@
     "altura_cm": 165
   },
   {
+    "id": 128,
     "nome": "Sowon",
     "grupo": "Gfriend",
     "empresa": "Source Music",
@@ -1576,6 +1704,7 @@
     "altura_cm": 173
   },
   {
+    "id": 129,
     "nome": "Yerin",
     "grupo": "Gfriend",
     "empresa": "Source Music",
@@ -1589,6 +1718,7 @@
     "altura_cm": 167
   },
   {
+    "id": 130,
     "nome": "Eunha",
     "grupo": "Gfriend",
     "empresa": "Source Music",
@@ -1600,6 +1730,7 @@
     "altura_cm": 162
   },
   {
+    "id": 131,
     "nome": "Yuju",
     "grupo": "Gfriend",
     "empresa": "Source Music",
@@ -1611,6 +1742,7 @@
     "altura_cm": 169
   },
   {
+    "id": 132,
     "nome": "SinB",
     "grupo": "Gfriend",
     "empresa": "Source Music",
@@ -1623,6 +1755,7 @@
     "altura_cm": 166
   },
   {
+    "id": 133,
     "nome": "Umji",
     "grupo": "Gfriend",
     "empresa": "Source Music",
@@ -1635,6 +1768,7 @@
     "altura_cm": 164
   },
   {
+    "id": 134,
     "nome": "Solar",
     "grupo": "MAMAMOO",
     "empresa": "RBW Entertainment",
@@ -1647,6 +1781,7 @@
     "altura_cm": 160
   },
   {
+    "id": 135,
     "nome": "Moonbyul",
     "grupo": "MAMAMOO",
     "empresa": "RBW Entertainment",
@@ -1659,6 +1794,7 @@
     "altura_cm": 163
   },
   {
+    "id": 136,
     "nome": "Wheein",
     "grupo": "MAMAMOO",
     "empresa": "RBW Entertainment",
@@ -1670,6 +1806,7 @@
     "altura_cm": 158
   },
   {
+    "id": 137,
     "nome": "Hwasa",
     "grupo": "MAMAMOO",
     "empresa": "RBW Entertainment",
@@ -1683,6 +1820,7 @@
     "altura_cm": 160
   },
   {
+    "id": 138,
     "nome": "Natty",
     "grupo": "KISS OF LIFE",
     "empresa": "S2 Entertainment",
@@ -1696,6 +1834,7 @@
     "altura_cm": 167
   },
   {
+    "id": 139,
     "nome": "Julie",
     "grupo": "KISS OF LIFE",
     "empresa": "S2 Entertainment",
@@ -1709,6 +1848,7 @@
     "altura_cm": 163
   },
   {
+    "id": 140,
     "nome": "Belle",
     "grupo": "KISS OF LIFE",
     "empresa": "S2 Entertainment",
@@ -1720,6 +1860,7 @@
     "altura_cm": 168
   },
   {
+    "id": 141,
     "nome": "Haneul",
     "grupo": "KISS OF LIFE",
     "empresa": "S2 Entertainment",
@@ -1732,6 +1873,7 @@
     "altura_cm": 169
   },
   {
+    "id": 142,
     "nome": "Ruka",
     "grupo": "BABYMONSTER",
     "empresa": "YG Entertainment",
@@ -1741,9 +1883,10 @@
       "Main Dancer",
       "Main Rapper"
     ],
-    "altura_cm": 64
+    "altura_cm": 164
   },
   {
+    "id": 143,
     "nome": "Pharita",
     "grupo": "BABYMONSTER",
     "empresa": "YG Entertainment",
@@ -1755,6 +1898,7 @@
     "altura_cm": 171
   },
   {
+    "id": 144,
     "nome": "Asa",
     "grupo": "BABYMONSTER",
     "empresa": "YG Entertainment",
@@ -1767,6 +1911,7 @@
     "altura_cm": 164
   },
   {
+    "id": 145,
     "nome": "Ahyeon",
     "grupo": "BABYMONSTER",
     "empresa": "YG Entertainment",
@@ -1780,6 +1925,7 @@
     "altura_cm": 163
   },
   {
+    "id": 146,
     "nome": "Rami",
     "grupo": "BABYMONSTER",
     "empresa": "YG Entertainment",
@@ -1791,6 +1937,7 @@
     "altura_cm": 172
   },
   {
+    "id": 147,
     "nome": "Rora",
     "grupo": "BABYMONSTER",
     "empresa": "YG Entertainment",
@@ -1803,6 +1950,7 @@
     "altura_cm": 171
   },
   {
+    "id": 148,
     "nome": "Chiquita",
     "grupo": "BABYMONSTER",
     "empresa": "YG Entertainment",
@@ -1816,6 +1964,7 @@
     "altura_cm": 169
   },
   {
+    "id": 149,
     "nome": "Taeyeon",
     "grupo": "Girls' Generation",
     "empresa": "SM Entertainment",
@@ -1828,6 +1977,7 @@
     "altura_cm": 160
   },
   {
+    "id": 150,
     "nome": "Sunny",
     "grupo": "Girls' Generation",
     "empresa": "SM Entertainment",
@@ -1839,6 +1989,7 @@
     "altura_cm": 158
   },
   {
+    "id": 151,
     "nome": "Tiffany",
     "grupo": "Girls' Generation",
     "empresa": "SM Entertainment",
@@ -1850,6 +2001,7 @@
     "altura_cm": 162
   },
   {
+    "id": 152,
     "nome": "Hyoyeon",
     "grupo": "Girls' Generation",
     "empresa": "SM Entertainment",
@@ -1862,6 +2014,7 @@
     "altura_cm": 161
   },
   {
+    "id": 153,
     "nome": "Yuri",
     "grupo": "Girls' Generation",
     "empresa": "SM Entertainment",
@@ -1875,6 +2028,7 @@
     "altura_cm": 167
   },
   {
+    "id": 154,
     "nome": "Sooyoung",
     "grupo": "Girls' Generation",
     "empresa": "SM Entertainment",
@@ -1888,6 +2042,7 @@
     "altura_cm": 172
   },
   {
+    "id": 155,
     "nome": "Yoona",
     "grupo": "Girls' Generation",
     "empresa": "SM Entertainment",
@@ -1901,6 +2056,7 @@
     "altura_cm": 168
   },
   {
+    "id": 156,
     "nome": "Seohyun",
     "grupo": "Girls' Generation",
     "empresa": "SM Entertainment",
@@ -1913,6 +2069,7 @@
     "altura_cm": 168
   },
   {
+    "id": 157,
     "nome": "Fei",
     "grupo": "miss A",
     "empresa": "JYP Entertainment",
@@ -1924,6 +2081,7 @@
     "altura_cm": 164
   },
   {
+    "id": 158,
     "nome": "Jia",
     "grupo": "miss A",
     "empresa": "JYP Entertainment",
@@ -1937,6 +2095,7 @@
     "altura_cm": 164
   },
   {
+    "id": 159,
     "nome": "Min",
     "grupo": "miss A",
     "empresa": "JYP Entertainment",
@@ -1950,6 +2109,7 @@
     "altura_cm": 161
   },
   {
+    "id": 160,
     "nome": "Suzy",
     "grupo": "miss A",
     "empresa": "JYP Entertainment",
@@ -1963,6 +2123,7 @@
     "altura_cm": 168
   },
   {
+    "id": 161,
     "nome": "Yujin",
     "grupo": "Kep1er",
     "empresa": "WakeOne Entertainment",
@@ -1975,6 +2136,7 @@
     "altura_cm": 163
   },
   {
+    "id": 162,
     "nome": "Xiaoting",
     "grupo": "Kep1er",
     "empresa": "WakeOne Entertainment",
@@ -1987,6 +2149,7 @@
     "altura_cm": 168
   },
   {
+    "id": 163,
     "nome": "Mashiro",
     "grupo": "Kep1er",
     "empresa": "WakeOne Entertainment",
@@ -1998,6 +2161,7 @@
     "altura_cm": 158
   },
   {
+    "id": 164,
     "nome": "Chaehyun",
     "grupo": "Kep1er",
     "empresa": "WakeOne Entertainment",
@@ -2010,6 +2174,7 @@
     "altura_cm": 161
   },
   {
+    "id": 165,
     "nome": "Dayeon",
     "grupo": "Kep1er",
     "empresa": "WakeOne Entertainment",
@@ -2023,6 +2188,7 @@
     "altura_cm": 158
   },
   {
+    "id": 166,
     "nome": "Hikaru",
     "grupo": "Kep1er",
     "empresa": "WakeOne Entertainment",
@@ -2035,6 +2201,7 @@
     "altura_cm": 155
   },
   {
+    "id": 167,
     "nome": "Bahiyyih",
     "grupo": "Kep1er",
     "empresa": "WakeOne Entertainment",
@@ -2046,6 +2213,7 @@
     "altura_cm": 166
   },
   {
+    "id": 168,
     "nome": "Youngeun",
     "grupo": "Kep1er",
     "empresa": "WakeOne Entertainment",
@@ -2058,6 +2226,7 @@
     "altura_cm": 158
   },
   {
+    "id": 169,
     "nome": "Yeseo",
     "grupo": "Kep1er",
     "empresa": "WakeOne Entertainment",
@@ -2070,6 +2239,7 @@
     "altura_cm": 157
   },
   {
+    "id": 170,
     "nome": "Minju",
     "grupo": "ILLIT",
     "empresa": "Belift Lab (HYBE)",
@@ -2081,6 +2251,7 @@
     "altura_cm": 163
   },
   {
+    "id": 171,
     "nome": "Moka",
     "grupo": "ILLIT",
     "empresa": "Belift Lab (HYBE)",
@@ -2092,6 +2263,7 @@
     "altura_cm": 162
   },
   {
+    "id": 172,
     "nome": "Wonhee",
     "grupo": "ILLIT",
     "empresa": "Belift Lab (HYBE)",
@@ -2103,6 +2275,7 @@
     "altura_cm": 162
   },
   {
+    "id": 173,
     "nome": "Iroha",
     "grupo": "ILLIT",
     "empresa": "Belift Lab (HYBE)",
@@ -2115,6 +2288,7 @@
     "altura_cm": 158
   },
   {
+    "id": 174,
     "nome": "Yunah",
     "grupo": "ILLIT",
     "empresa": "Belift Lab (HYBE)",
@@ -2127,6 +2301,7 @@
     "altura_cm": 168
   },
   {
+    "id": 175,
     "nome": "Sunhye",
     "grupo": "Young Posse",
     "empresa": "DSP Media",
@@ -2140,6 +2315,7 @@
     "altura_cm": 159
   },
   {
+    "id": 176,
     "nome": "Yeonjung",
     "grupo": "Young Posse",
     "empresa": "DSP Media",
@@ -2152,6 +2328,7 @@
     "altura_cm": 162
   },
   {
+    "id": 177,
     "nome": "Jiana",
     "grupo": "Young Posse",
     "empresa": "DSP Media",
@@ -2163,6 +2340,7 @@
     "altura_cm": 163
   },
   {
+    "id": 178,
     "nome": "Doeun",
     "grupo": "Young Posse",
     "empresa": "DSP Media",
@@ -2175,6 +2353,7 @@
     "altura_cm": 168
   },
   {
+    "id": 179,
     "nome": "Jieun",
     "grupo": "Young Posse",
     "empresa": "DSP Media",
@@ -2188,6 +2367,7 @@
     "altura_cm": 157
   },
   {
+    "id": 180,
     "nome": "Woni",
     "grupo": "Rescene",
     "empresa": "THE MUZE Entertainment",
@@ -2201,6 +2381,7 @@
     "altura_cm": 165
   },
   {
+    "id": 181,
     "nome": "Liv",
     "grupo": "Rescene",
     "empresa": "THE MUZE Entertainment",
@@ -2213,6 +2394,7 @@
     "altura_cm": 164
   },
   {
+    "id": 182,
     "nome": "Minami",
     "grupo": "Rescene",
     "empresa": "THE MUZE Entertainment",
@@ -2226,6 +2408,7 @@
     "altura_cm": 163
   },
   {
+    "id": 183,
     "nome": "May",
     "grupo": "Rescene",
     "empresa": "THE MUZE Entertainment",
@@ -2238,6 +2421,7 @@
     "altura_cm": 165
   },
   {
+    "id": 184,
     "nome": "Zena",
     "grupo": "Rescene",
     "empresa": "THE MUZE Entertainment",
@@ -2251,6 +2435,7 @@
     "altura_cm": 164
   },
   {
+    "id": 185,
     "nome": "Jiyu",
     "grupo": "KiiiKiii",
     "empresa": "Starship Entertainment",
@@ -2264,6 +2449,7 @@
     "altura_cm": 159
   },
   {
+    "id": 186,
     "nome": "Leesol",
     "grupo": "KiiiKiii",
     "empresa": "Starship Entertainment",
@@ -2276,6 +2462,7 @@
     "altura_cm": 166
   },
   {
+    "id": 187,
     "nome": "Sui",
     "grupo": "KiiiKiii",
     "empresa": "Starship Entertainment",
@@ -2287,6 +2474,7 @@
     "altura_cm": 170
   },
   {
+    "id": 188,
     "nome": "Haum",
     "grupo": "KiiiKiii",
     "empresa": "Starship Entertainment",
@@ -2300,6 +2488,7 @@
     "altura_cm": 163
   },
   {
+    "id": 189,
     "nome": "Kya",
     "grupo": "KiiiKiii",
     "empresa": "Starship Entertainment",
@@ -2312,6 +2501,7 @@
     "altura_cm": 168
   },
   {
+    "id": 190,
     "nome": "Carmen",
     "grupo": "Hearts2Hearts",
     "empresa": "SM Entertainment",
@@ -2323,6 +2513,7 @@
     "altura_cm": 168
   },
   {
+    "id": 191,
     "nome": "Jiwoo",
     "grupo": "Hearts2Hearts",
     "empresa": "SM Entertainment",
@@ -2336,6 +2527,7 @@
     "altura_cm": 170
   },
   {
+    "id": 192,
     "nome": "Yuha",
     "grupo": "Hearts2Hearts",
     "empresa": "SM Entertainment",
@@ -2348,6 +2540,7 @@
     "altura_cm": 164
   },
   {
+    "id": 193,
     "nome": "Stella",
     "grupo": "Hearts2Hearts",
     "empresa": "SM Entertainment",
@@ -2359,6 +2552,7 @@
     "altura_cm": 167
   },
   {
+    "id": 194,
     "nome": "Juun",
     "grupo": "Hearts2Hearts",
     "empresa": "SM Entertainment",
@@ -2371,6 +2565,7 @@
     "altura_cm": 165
   },
   {
+    "id": 195,
     "nome": "Ana",
     "grupo": "Hearts2Hearts",
     "empresa": "SM Entertainment",
@@ -2383,6 +2578,7 @@
     "altura_cm": 169
   },
   {
+    "id": 196,
     "nome": "Ian",
     "grupo": "Hearts2Hearts",
     "empresa": "SM Entertainment",
@@ -2395,6 +2591,7 @@
     "altura_cm": 165
   },
   {
+    "id": 197,
     "nome": "Yeon",
     "grupo": "Hearts2Hearts",
     "empresa": "SM Entertainment",
@@ -2407,6 +2604,7 @@
     "altura_cm": 166
   },
   {
+    "id": 198,
     "nome": "Soohee",
     "grupo": "Billlie",
     "empresa": "Mystic Story",
@@ -2418,6 +2616,7 @@
     "altura_cm": 161
   },
   {
+    "id": 199,
     "nome": "Siyoon",
     "grupo": "Billlie",
     "empresa": "Mystic Story",
@@ -2430,6 +2629,7 @@
     "altura_cm": 163
   },
   {
+    "id": 200,
     "nome": "Tsuki",
     "grupo": "Billlie",
     "empresa": "Mystic Story",
@@ -2442,6 +2642,7 @@
     "altura_cm": 164
   },
   {
+    "id": 201,
     "nome": "Moon Sua",
     "grupo": "Billlie",
     "empresa": "Mystic Story",
@@ -2454,6 +2655,7 @@
     "altura_cm": 164
   },
   {
+    "id": 202,
     "nome": "Haram",
     "grupo": "Billlie",
     "empresa": "Mystic Story",
@@ -2465,6 +2667,7 @@
     "altura_cm": 162
   },
   {
+    "id": 203,
     "nome": "Sheon",
     "grupo": "Billlie",
     "empresa": "Mystic Story",
@@ -2477,6 +2680,7 @@
     "altura_cm": 165
   },
   {
+    "id": 204,
     "nome": "Haruna",
     "grupo": "Billlie",
     "empresa": "Mystic Story",
@@ -2489,6 +2693,7 @@
     "altura_cm": 160
   },
   {
+    "id": 205,
     "nome": "Seolhee",
     "grupo": "H1-KEY",
     "empresa": "GLG",
@@ -2501,6 +2706,7 @@
     "altura_cm": 165
   },
   {
+    "id": 206,
     "nome": "Riina",
     "grupo": "H1-KEY",
     "empresa": "GLG",
@@ -2512,6 +2718,7 @@
     "altura_cm": 164
   },
   {
+    "id": 207,
     "nome": "Hwiseo",
     "grupo": "H1-KEY",
     "empresa": "GLG",
@@ -2523,6 +2730,7 @@
     "altura_cm": 162
   },
   {
+    "id": 208,
     "nome": "Yel",
     "grupo": "H1-KEY",
     "empresa": "GLG",
@@ -2536,65 +2744,7 @@
     "altura_cm": 170
   },
   {
-    "nome": "Solji",
-    "grupo": "EXID",
-    "empresa": "Banana Culture",
-    "ano_nascimento": 1989,
-    "nacionalidade": "Coreana",
-    "posicao": [
-      "Leader",
-      "Main Vocal"
-    ],
-    "altura_cm": 170
-  },
-  {
-    "nome": "LE",
-    "grupo": "EXID",
-    "empresa": "Banana Culture",
-    "ano_nascimento": 1991,
-    "nacionalidade": "Coreana",
-    "posicao": [
-      "Main Rapper"
-    ],
-    "altura_cm": 168
-  },
-  {
-    "nome": "Hani",
-    "grupo": "EXID",
-    "empresa": "Banana Culture",
-    "ano_nascimento": 1992,
-    "nacionalidade": "Coreana",
-    "posicao": [
-      "Vocal",
-      "Visual"
-    ],
-    "altura_cm": 168
-  },
-  {
-    "nome": "Hyerin",
-    "grupo": "EXID",
-    "empresa": "Banana Culture",
-    "ano_nascimento": 1993,
-    "nacionalidade": "Coreana",
-    "posicao": [
-      "Vocal"
-    ],
-    "altura_cm": 165
-  },
-  {
-    "nome": "Jeonghwa",
-    "grupo": "EXID",
-    "empresa": "Banana Culture",
-    "ano_nascimento": 1995,
-    "nacionalidade": "Coreana",
-    "posicao": [
-      "Main Dancer",
-      "Rapper",
-      "Maknae"
-    ],
-    "altura_cm": 169
-  },
-  {
+    "id": 209,
     "nome": "Keena",
     "grupo": "FIFTY FIFTY",
     "empresa": "ATTRAKT",
@@ -2607,6 +2757,7 @@
     "altura_cm": 164
   },
   {
+    "id": 210,
     "nome": "Chanelle",
     "grupo": "FIFTY FIFTY",
     "empresa": "ATTRAKT",
@@ -2618,6 +2769,7 @@
     "altura_cm": 165
   },
   {
+    "id": 211,
     "nome": "Yewon",
     "grupo": "FIFTY FIFTY",
     "empresa": "ATTRAKT",
@@ -2629,6 +2781,7 @@
     "altura_cm": 160
   },
   {
+    "id": 212,
     "nome": "Hana",
     "grupo": "FIFTY FIFTY",
     "empresa": "ATTRAKT",
@@ -2641,6 +2794,7 @@
     "altura_cm": 166
   },
   {
+    "id": 213,
     "nome": "Athena",
     "grupo": "FIFTY FIFTY",
     "empresa": "ATTRAKT",
@@ -2653,6 +2807,7 @@
     "altura_cm": 166
   },
   {
+    "id": 214,
     "nome": "Miyeon",
     "grupo": "I-DLE",
     "empresa": "Cube Entertainment",
@@ -2665,6 +2820,7 @@
     "altura_cm": 161
   },
   {
+    "id": 215,
     "nome": "Minnie",
     "grupo": "I-DLE",
     "empresa": "Cube Entertainment",
@@ -2676,6 +2832,7 @@
     "altura_cm": 167
   },
   {
+    "id": 216,
     "nome": "Soyeon",
     "grupo": "I-DLE",
     "empresa": "Cube Entertainment",
@@ -2689,6 +2846,7 @@
     "altura_cm": 157
   },
   {
+    "id": 217,
     "nome": "Yuqi",
     "grupo": "I-DLE",
     "empresa": "Cube Entertainment",
@@ -2702,6 +2860,7 @@
     "altura_cm": 163
   },
   {
+    "id": 218,
     "nome": "Shuhua",
     "grupo": "I-DLE",
     "empresa": "Cube Entertainment",
@@ -2715,6 +2874,7 @@
     "altura_cm": 161
   },
   {
+    "id": 219,
     "nome": "Mai",
     "grupo": "izna",
     "empresa": "WakeOne Entertainment",
@@ -2726,6 +2886,7 @@
     "altura_cm": 167
   },
   {
+    "id": 220,
     "nome": "Jeemin",
     "grupo": "izna",
     "empresa": "WakeOne Entertainment",
@@ -2737,6 +2898,7 @@
     "altura_cm": 172
   },
   {
+    "id": 221,
     "nome": "Koko",
     "grupo": "izna",
     "empresa": "WakeOne Entertainment",
@@ -2748,6 +2910,7 @@
     "altura_cm": 174
   },
   {
+    "id": 222,
     "nome": "Ryu Sarang",
     "grupo": "izna",
     "empresa": "WakeOne Entertainment",
@@ -2759,6 +2922,7 @@
     "altura_cm": 162
   },
   {
+    "id": 223,
     "nome": "Jungeun",
     "grupo": "izna",
     "empresa": "WakeOne Entertainment",
@@ -2770,6 +2934,7 @@
     "altura_cm": 170
   },
   {
+    "id": 224,
     "nome": "Saebi",
     "grupo": "izna",
     "empresa": "WakeOne Entertainment",
@@ -2781,6 +2946,7 @@
     "altura_cm": 172
   },
   {
+    "id": 225,
     "nome": "Jiyoon",
     "grupo": "izna",
     "empresa": "WakeOne Entertainment",
@@ -2792,6 +2958,7 @@
     "altura_cm": 166
   },
   {
+    "id": 226,
     "nome": "Sooin",
     "grupo": "MEOVV",
     "empresa": "The Black Label",
@@ -2804,6 +2971,7 @@
     "altura_cm": 172
   },
   {
+    "id": 227,
     "nome": "Gawon",
     "grupo": "MEOVV",
     "empresa": "The Black Label",
@@ -2816,6 +2984,7 @@
     "altura_cm": 173
   },
   {
+    "id": 228,
     "nome": "Anna",
     "grupo": "MEOVV",
     "empresa": "The Black Label",
@@ -2828,6 +2997,7 @@
     "altura_cm": 164
   },
   {
+    "id": 229,
     "nome": "Narin",
     "grupo": "MEOVV",
     "empresa": "The Black Label",
@@ -2840,6 +3010,7 @@
     "altura_cm": 166
   },
   {
+    "id": 230,
     "nome": "Ella",
     "grupo": "MEOVV",
     "empresa": "The Black Label",
@@ -2853,6 +3024,7 @@
     "altura_cm": 168
   },
   {
+    "id": 231,
     "nome": "Hyein",
     "grupo": "MOMOLAND",
     "empresa": "MLD Entertainment",
@@ -2864,6 +3036,7 @@
     "altura_cm": 164
   },
   {
+    "id": 232,
     "nome": "Daisy",
     "grupo": "MOMOLAND",
     "empresa": "MLD Entertainment",
@@ -2875,6 +3048,7 @@
     "altura_cm": 162
   },
   {
+    "id": 233,
     "nome": "JooE",
     "grupo": "MOMOLAND",
     "empresa": "MLD Entertainment",
@@ -2888,6 +3062,7 @@
     "altura_cm": 164
   },
   {
+    "id": 234,
     "nome": "Ahin",
     "grupo": "MOMOLAND",
     "empresa": "MLD Entertainment",
@@ -2899,6 +3074,7 @@
     "altura_cm": 160
   },
   {
+    "id": 235,
     "nome": "Nancy",
     "grupo": "MOMOLAND",
     "empresa": "MLD Entertainment",
@@ -2912,6 +3088,7 @@
     "altura_cm": 162
   },
   {
+    "id": 236,
     "nome": "Hyojung",
     "grupo": "OH MY GIRL",
     "empresa": "WM Entertainment",
@@ -2924,6 +3101,7 @@
     "altura_cm": 158
   },
   {
+    "id": 237,
     "nome": "Mimi",
     "grupo": "OH MY GIRL",
     "empresa": "WM Entertainment",
@@ -2936,6 +3114,7 @@
     "altura_cm": 159
   },
   {
+    "id": 238,
     "nome": "YooA",
     "grupo": "OH MY GIRL",
     "empresa": "WM Entertainment",
@@ -2949,6 +3128,7 @@
     "altura_cm": 160
   },
   {
+    "id": 239,
     "nome": "Seunghee",
     "grupo": "OH MY GIRL",
     "empresa": "WM Entertainment",
@@ -2960,6 +3140,7 @@
     "altura_cm": 160
   },
   {
+    "id": 240,
     "nome": "Yubin",
     "grupo": "OH MY GIRL",
     "empresa": "WM Entertainment",
@@ -2971,6 +3152,7 @@
     "altura_cm": 159
   },
   {
+    "id": 241,
     "nome": "Arin",
     "grupo": "OH MY GIRL",
     "empresa": "WM Entertainment",
@@ -2984,6 +3166,7 @@
     "altura_cm": 165
   },
   {
+    "id": 242,
     "nome": "CL",
     "grupo": "2NE1",
     "empresa": "YG Entertainment",
@@ -2997,6 +3180,7 @@
     "altura_cm": 162
   },
   {
+    "id": 243,
     "nome": "Bom",
     "grupo": "2NE1",
     "empresa": "YG Entertainment",
@@ -3008,6 +3192,7 @@
     "altura_cm": 165
   },
   {
+    "id": 244,
     "nome": "Dara",
     "grupo": "2NE1",
     "empresa": "YG Entertainment",
@@ -3020,6 +3205,7 @@
     "altura_cm": 162
   },
   {
+    "id": 245,
     "nome": "Minzy",
     "grupo": "2NE1",
     "empresa": "YG Entertainment",
@@ -3033,6 +3219,7 @@
     "altura_cm": 161
   },
   {
+    "id": 246,
     "nome": "Seoyeon",
     "grupo": "TripleS",
     "empresa": "Modhaus",
@@ -3045,6 +3232,7 @@
     "altura_cm": 160
   },
   {
+    "id": 247,
     "nome": "Hyerin",
     "grupo": "TripleS",
     "empresa": "Modhaus",
@@ -3056,6 +3244,7 @@
     "altura_cm": 162
   },
   {
+    "id": 248,
     "nome": "Jiwoo",
     "grupo": "TripleS",
     "empresa": "Modhaus",
@@ -3067,6 +3256,7 @@
     "altura_cm": 173
   },
   {
+    "id": 249,
     "nome": "Chaeyeon",
     "grupo": "TripleS",
     "empresa": "Modhaus",
@@ -3078,6 +3268,7 @@
     "altura_cm": 171
   },
   {
+    "id": 250,
     "nome": "Yooyeon",
     "grupo": "TripleS",
     "empresa": "Modhaus",
@@ -3090,6 +3281,7 @@
     "altura_cm": 165
   },
   {
+    "id": 251,
     "nome": "Soomin",
     "grupo": "TripleS",
     "empresa": "Modhaus",
@@ -3102,6 +3294,7 @@
     "altura_cm": 161
   },
   {
+    "id": 252,
     "nome": "Nakyoung",
     "grupo": "TripleS",
     "empresa": "Modhaus",
@@ -3115,6 +3308,7 @@
     "altura_cm": 166
   },
   {
+    "id": 253,
     "nome": "Yubin",
     "grupo": "TripleS",
     "empresa": "Modhaus",
@@ -3127,6 +3321,7 @@
     "altura_cm": 164
   },
   {
+    "id": 254,
     "nome": "Kaede",
     "grupo": "TripleS",
     "empresa": "Modhaus",
@@ -3140,6 +3335,7 @@
     "altura_cm": 161
   },
   {
+    "id": 255,
     "nome": "Dahyun",
     "grupo": "TripleS",
     "empresa": "Modhaus",
@@ -3151,6 +3347,7 @@
     "altura_cm": 160
   },
   {
+    "id": 256,
     "nome": "Kotone",
     "grupo": "TripleS",
     "empresa": "Modhaus",
@@ -3163,6 +3360,7 @@
     "altura_cm": 162
   },
   {
+    "id": 257,
     "nome": "Yeonji",
     "grupo": "TripleS",
     "empresa": "Modhaus",
@@ -3174,6 +3372,7 @@
     "altura_cm": 163
   },
   {
+    "id": 258,
     "nome": "Nien",
     "grupo": "TripleS",
     "empresa": "Modhaus",
@@ -3185,6 +3384,7 @@
     "altura_cm": 169
   },
   {
+    "id": 259,
     "nome": "Sohyun",
     "grupo": "TripleS",
     "empresa": "Modhaus",
@@ -3197,6 +3397,7 @@
     "altura_cm": 167
   },
   {
+    "id": 260,
     "nome": "Xinyu",
     "grupo": "TripleS",
     "empresa": "Modhaus",
@@ -3209,6 +3410,7 @@
     "altura_cm": 174
   },
   {
+    "id": 261,
     "nome": "Mayu",
     "grupo": "TripleS",
     "empresa": "Modhaus",
@@ -3220,6 +3422,7 @@
     "altura_cm": 160
   },
   {
+    "id": 262,
     "nome": "Lynn",
     "grupo": "TripleS",
     "empresa": "Modhaus",
@@ -3232,6 +3435,7 @@
     "altura_cm": 171
   },
   {
+    "id": 263,
     "nome": "JooBin",
     "grupo": "TripleS",
     "empresa": "Modhaus",
@@ -3244,6 +3448,7 @@
     "altura_cm": 168
   },
   {
+    "id": 264,
     "nome": "Hayeon",
     "grupo": "TripleS",
     "empresa": "Modhaus",
@@ -3256,6 +3461,7 @@
     "altura_cm": 166
   },
   {
+    "id": 265,
     "nome": "Shion",
     "grupo": "TripleS",
     "empresa": "Modhaus",
@@ -3267,6 +3473,7 @@
     "altura_cm": 166
   },
   {
+    "id": 266,
     "nome": "Chaewon",
     "grupo": "TripleS",
     "empresa": "Modhaus",
@@ -3278,6 +3485,7 @@
     "altura_cm": 163
   },
   {
+    "id": 267,
     "nome": "Sullin",
     "grupo": "TripleS",
     "empresa": "Modhaus",
@@ -3289,6 +3497,7 @@
     "altura_cm": 169
   },
   {
+    "id": 268,
     "nome": "Seoah",
     "grupo": "TripleS",
     "empresa": "Modhaus",
@@ -3301,6 +3510,7 @@
     "altura_cm": 158
   },
   {
+    "id": 269,
     "nome": "Jiyeon",
     "grupo": "TripleS",
     "empresa": "Modhaus",
@@ -3312,6 +3522,7 @@
     "altura_cm": 167
   },
   {
+    "id": 270,
     "nome": "Sophia",
     "grupo": "KATSEYE",
     "empresa": "Geffen Records / HYBE America",
@@ -3323,6 +3534,7 @@
     "altura_cm": 167
   },
   {
+    "id": 271,
     "nome": "Manon",
     "grupo": "KATSEYE",
     "empresa": "Geffen Records / HYBE America",
@@ -3334,6 +3546,7 @@
     "altura_cm": 166
   },
   {
+    "id": 272,
     "nome": "Daniela",
     "grupo": "KATSEYE",
     "empresa": "Geffen Records / HYBE America",
@@ -3345,6 +3558,7 @@
     "altura_cm": 165
   },
   {
+    "id": 273,
     "nome": "Lara",
     "grupo": "KATSEYE",
     "empresa": "Geffen Records / HYBE America",
@@ -3356,6 +3570,7 @@
     "altura_cm": 167
   },
   {
+    "id": 274,
     "nome": "Megan",
     "grupo": "KATSEYE",
     "empresa": "Geffen Records / HYBE America",
@@ -3369,6 +3584,7 @@
     "altura_cm": 169
   },
   {
+    "id": 275,
     "nome": "Yoonchae",
     "grupo": "KATSEYE",
     "empresa": "Geffen Records / HYBE America",
@@ -3380,6 +3596,7 @@
     "altura_cm": 170
   },
   {
+    "id": 276,
     "nome": "Jurin",
     "grupo": "XG",
     "empresa": "XGALX",
@@ -3387,13 +3604,13 @@
     "nacionalidade": "Japonesa",
     "posicao": [
       "Leader",
-      "Lead Rapper",
       "Main Dancer",
       "Vocalist"
     ],
     "altura_cm": 158
   },
   {
+    "id": 277,
     "nome": "Chisa",
     "grupo": "XG",
     "empresa": "XGALX",
@@ -3406,6 +3623,7 @@
     "altura_cm": 157
   },
   {
+    "id": 278,
     "nome": "Hinata",
     "grupo": "XG",
     "empresa": "XGALX",
@@ -3418,6 +3636,7 @@
     "altura_cm": 157
   },
   {
+    "id": 279,
     "nome": "Harvey",
     "grupo": "XG",
     "empresa": "XGALX",
@@ -3430,6 +3649,7 @@
     "altura_cm": 160
   },
   {
+    "id": 280,
     "nome": "Juria",
     "grupo": "XG",
     "empresa": "XGALX",
@@ -3441,6 +3661,7 @@
     "altura_cm": 152
   },
   {
+    "id": 281,
     "nome": "Maya",
     "grupo": "XG",
     "empresa": "XGALX",
@@ -3453,6 +3674,7 @@
     "altura_cm": 156
   },
   {
+    "id": 282,
     "nome": "Cocona",
     "grupo": "XG",
     "empresa": "XGALX",
@@ -3463,5 +3685,210 @@
       "Maknae"
     ],
     "altura_cm": 150
+  },
+  {
+    "id": 283,
+    "nome": "Chungha",
+    "grupo": "Solista",
+    "empresa": "MORE VISION",
+    "ano_nascimento": 1996,
+    "nacionalidade": "Coreana",
+    "posicao": [
+      "Main Dancer",
+      "Main Vocal"
+    ],
+    "altura_cm": 161
+  },
+  {
+    "id": 284,
+    "nome": "BoA",
+    "grupo": "Solista",
+    "empresa": "SM Entertainment",
+    "ano_nascimento": 1986,
+    "nacionalidade": "Coreana",
+    "posicao": [
+      "Main Dancer",
+      "Vocal"
+    ],
+    "altura_cm": 160
+  },
+  {
+    "id": 285,
+    "nome": "Jeon Somi",
+    "grupo": "Solista",
+    "empresa": "THE BLACK LABEL",
+    "ano_nascimento": 2001,
+    "nacionalidade": "Coreana-Canadense",
+    "posicao": [
+      "Dancer",
+      "Vocal"
+    ],
+    "altura_cm": 172
+  },
+  {
+    "id": 286,
+    "nome": "IU",
+    "grupo": "Solista",
+    "empresa": "EDAM Entertainment",
+    "ano_nascimento": 1993,
+    "nacionalidade": "Coreana",
+    "posicao": [
+      "Main Vocal",
+      "Visual"
+    ],
+    "altura_cm": 162
+  },
+  {
+    "id": 287,
+    "nome": "Hyuna",
+    "grupo": "Solista",
+    "empresa": "AT AREA",
+    "ano_nascimento": 1992,
+    "nacionalidade": "Coreana",
+    "posicao": [
+      "Dancer",
+      "Rapper"
+    ],
+    "altura_cm": 164
+  },
+  {
+    "id": 288,
+    "nome": "Ailee",
+    "grupo": "Solista",
+    "empresa": "POP MUSIC",
+    "ano_nascimento": 1989,
+    "nacionalidade": "Coreana",
+    "posicao": [
+      "Main Vocal"
+    ],
+    "altura_cm": 164
+  },
+  {
+    "id": 289,
+    "nome": "Bibi",
+    "grupo": "Solista",
+    "empresa": "Feel GHood Music",
+    "ano_nascimento": 1998,
+    "nacionalidade": "Coreana",
+    "posicao": [
+      "Main Rapper"
+    ],
+    "altura_cm": 168
+  },
+  {
+    "id": 290,
+    "nome": "Heize",
+    "grupo": "Solista",
+    "empresa": "P NATION",
+    "ano_nascimento": 1998,
+    "nacionalidade": "Coreana",
+    "posicao": [
+      "Rapper",
+      "Vocal"
+    ],
+    "altura_cm": 166
+  },
+  {
+    "id": 291,
+    "nome": "Hyolyn",
+    "grupo": "Solista",
+    "empresa": "Brid3",
+    "ano_nascimento": 1990,
+    "nacionalidade": "Coreana",
+    "posicao": [
+      "Main Vocal",
+      "Dancer"
+    ],
+    "altura_cm": 164
+  },
+  {
+    "id": 292,
+    "nome": "Jessi",
+    "grupo": "Solista",
+    "empresa": "UNNI Company",
+    "ano_nascimento": 1988,
+    "nacionalidade": "Coreana-Americana",
+    "posicao": [
+      "Main Rapper"
+    ],
+    "altura_cm": 167
+  },
+  {
+    "id": 293,
+    "nome": "Jo Yuri",
+    "grupo": "Solista",
+    "empresa": "WAKEONE",
+    "ano_nascimento": 2001,
+    "nacionalidade": "Coreana",
+    "posicao": [
+      "Vocal"
+    ],
+    "altura_cm": 163
+  },
+  {
+    "id": 294,
+    "nome": "Sejeong",
+    "grupo": "Solista",
+    "empresa": "Jellyfish Entertainment",
+    "ano_nascimento": 1996,
+    "nacionalidade": "Coreana",
+    "posicao": [
+      "Main Vocal"
+    ],
+    "altura_cm": 164
+  },
+  {
+    "id": 295,
+    "nome": "Kwon Eunbi",
+    "grupo": "Solista",
+    "empresa": "Woollim Entertainment",
+    "ano_nascimento": 1995,
+    "nacionalidade": "Coreana",
+    "posicao": [
+      "Vocal",
+      "Dancer",
+      "Visual"
+    ],
+    "altura_cm": 160
+  },
+  {
+    "id": 296,
+    "nome": "Lee Chaeyeon",
+    "grupo": "Solista",
+    "empresa": "Wm Entertainment",
+    "ano_nascimento": 2000,
+    "nacionalidade": "Coreana",
+    "posicao": [
+      "Main Dancer"
+    ],
+    "altura_cm": 165
+  },
+  {
+    "id": 297,
+    "nome": "Lee Hyori",
+    "grupo": "Solista",
+    "empresa": "B2M Entertainment",
+    "ano_nascimento": 1979,
+    "nacionalidade": "Coreana",
+    "posicao": [
+      "Vocal",
+      "Dancer",
+      "Visual"
+    ],
+    "altura_cm": 167
+  },
+  {
+    "id": 298,
+    "nome": "Yena",
+    "grupo": "Solista",
+    "empresa": "Yuehua Entertainment",
+    "ano_nascimento": 1999,
+    "nacionalidade": "Coreana",
+    "posicao": [
+      "Vocal",
+      "Dancer",
+      "Rapper"
+    ],
+    "altura_cm": 162
   }
 ]

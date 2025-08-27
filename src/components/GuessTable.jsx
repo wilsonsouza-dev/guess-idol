@@ -15,7 +15,7 @@ export default function GuessTable({
                                        setMensagemFinal,
                                        idoloSecreto,
                                        salvarLocalStorage,
-                                       atualizarStreak,
+                                       atualizarPontuacao,
                                        idols,
                                    }) {
     // Lógica de input e sugestões
@@ -28,11 +28,11 @@ export default function GuessTable({
             const filtrados = idols
                 .filter(
                     (idolo) =>
-                        idolo.grupo.toLowerCase().startsWith(valorLower) ||
-                        idolo.nome.toLowerCase().startsWith(valorLower)
+                        idolo.nome.toLowerCase().startsWith(valorLower) ||
+                        idolo.grupo.toLowerCase().startsWith(valorLower)
                 )
                 .sort((a, b) => a.nome.localeCompare(b.nome, "pt", {sensitivity: "base"}))
-                .slice(0, 25); // Limita a ~10 opções
+                .slice(0, 10);
 
             setSugestoes(filtrados);
         } else {
@@ -44,7 +44,6 @@ export default function GuessTable({
         if (idolo) {
             verificarPalpite(idolo);
         }
-        // Limpa o campo e a lista de sugestões após a seleção
         setPalpite("");
         setSugestoes([]);
     };
@@ -102,26 +101,39 @@ export default function GuessTable({
         );
 
         const novasTentativas = [...tentativas, resultado];
-        setTentativas(novasTentativas);
-        setChances(chances + 1);
+        const novasChances = chances + 1;
 
-        // Salvar no localStorage se existir (modo diário)
-        if (salvarLocalStorage) salvarLocalStorage(novasTentativas, chances + 1, mensagemFinal);
+        setTentativas(novasTentativas);
+        setChances(novasChances);
+
+        // 🔑 Salva a cada palpite, mesmo sem fim de jogo
+        if (salvarLocalStorage) {
+            salvarLocalStorage(novasTentativas, novasChances, mensagemFinal || "");
+        }
 
         // Mensagem final com delay
         const finalMessage = () => {
-            if (idolo.nome === idoloSecreto.nome) {
-                if (atualizarStreak) atualizarStreak(true); // modo infinito
-                setMensagemFinal("🎉 Parabéns! Você acertou a idol");
-            } else if (chances + 1 >= 10) {
-                if (atualizarStreak) atualizarStreak(false); // modo infinito
-                setMensagemFinal(`❌ Você perdeu! A idol era ${idoloSecreto.nome} - ${idoloSecreto.grupo}.`);
+            let novaMensagem = "";
+            if (idolo.nome === idoloSecreto.nome && idolo.grupo === idoloSecreto.grupo) {
+                if (atualizarPontuacao) atualizarPontuacao(true);
+                novaMensagem = "🎉 Parabéns! Você acertou a idol";
+            } else if (novasChances >= 10) {
+                if (atualizarPontuacao) atualizarPontuacao(false);
+                novaMensagem = `❌ Você perdeu! A idol era ${idoloSecreto.nome} - ${idoloSecreto.grupo}.`;
+            }
+
+            setMensagemFinal(novaMensagem);
+
+            // 🔑 Aqui salva também o fim do jogo
+            if (salvarLocalStorage) {
+                salvarLocalStorage(novasTentativas, novasChances, novaMensagem);
             }
         };
 
         setTimeout(finalMessage, 2500);
     };
 
+    // Opções para o react-select, baseadas no estado sugestoes
     const options = sugestoes.map((idolo) => ({
         value: idolo.nome,
         label: `${idolo.nome} (${idolo.grupo})`,
@@ -203,7 +215,7 @@ export default function GuessTable({
                 ))}
                 </tbody>
             </table>
-            {mensagemFinal && <h2 className="mensagem-acerto">{mensagemFinal}</h2>}
+            {mensagemFinal && <h3 className="mensagem-acerto">{mensagemFinal}</h3>}
         </div>
     );
 }

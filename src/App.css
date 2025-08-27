@@ -129,8 +129,7 @@ th, td {
 
 th {
     background: rgba(255, 255, 255, 0.2);
-    border: #1a1a1a hidden 0.1vw;
-    font-size: 1.2vw;
+    font-size: 1.5vw;
 }
 
 .mini-bloco {
@@ -155,6 +154,17 @@ tr .triple-item {
     animation: highlight 1s ease;
     font-size: 1.5vw;
     margin-bottom: 5vh;
+}
+
+.btn {
+    background: #4caf50;
+    color: white;
+    border: none;
+    padding: 1vh 2vw;
+    font-size: 2vw;
+    border-radius: 1vw;
+    cursor: pointer;
+    transition: background 0.3s ease, transform 0.2s ease;
 }
 
 .correto {
@@ -295,8 +305,12 @@ tr .triple-item {
     }
 
     th, td {
-        height: 3vh;
+        height: 4vh;
 
+    }
+
+    .mensagem-acerto {
+        font-size: 4vw;
     }
 
     .next-idol {

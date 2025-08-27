@@ -1,5 +1,5 @@
 import React, {useEffect, useState} from "react";
-import idolsData from "../idols.json";
+import idolsData from "../../idols.json";
 import GuessTable from "../components/GuessTable";
 import ModeSwitcher from "../components/ModeSwitcher.jsx";
 
@@ -16,14 +16,28 @@ export default function InfiniteMode() {
     const [recorde, setRecorde] = useState(0); // recorde salvo
 
     const RECORDE_KEY = "infinite-recorde";
+    const LOCAL_KEY = "infinite-idol";
 
+    // 🔹 Carregar dados do localStorage
     useEffect(() => {
         setIdols(idolsData);
+
         const savedRecorde = JSON.parse(localStorage.getItem(RECORDE_KEY));
         if (savedRecorde) setRecorde(savedRecorde);
-        novoJogo();
+
+        const savedData = JSON.parse(localStorage.getItem(LOCAL_KEY));
+        if (savedData && savedData.idoloSecreto) {
+            setTentativas(savedData.tentativas || []);
+            setChances(savedData.chances || 0);
+            setMensagemFinal(savedData.mensagemFinal || "");
+            setIdoloSecreto(savedData.idoloSecreto);
+            setAtual(savedData.atual);
+        } else {
+            novoJogo();
+        }
     }, []);
 
+    // 🔹 Atualizar recorde/streak
     const atualizarPontuacao = (ganhou) => {
         if (ganhou) {
             const novoAtual = atual + 1;
@@ -38,6 +52,23 @@ export default function InfiniteMode() {
         }
     };
 
+    const salvarLocalStorage = (novasTentativas, novasChances, novaMensagemFinal) => {
+        localStorage.setItem(
+            LOCAL_KEY,
+            JSON.stringify({
+                tentativas: novasTentativas,
+                chances: novasChances,
+                mensagemFinal: novaMensagemFinal,
+                idoloSecreto,
+                // 🔹 Salvar streak atualizado ao ganhar
+                atual: novaMensagemFinal.includes("❌")
+                    ? 0
+                    : (novaMensagemFinal.includes("Parabéns") ? atual + 1 : atual),
+            })
+        );
+    };
+
+    // 🔹 Novo jogo
     const novoJogo = () => {
         const secreto = idolsData[Math.floor(Math.random() * idolsData.length)];
         setIdoloSecreto(secreto);
@@ -49,15 +80,13 @@ export default function InfiniteMode() {
     };
 
     return (
-
         <div className="container">
+            <h1>🎤 GUESS THE IDOL <ModeSwitcher/></h1>
 
-            <h1>🎤 GUESS THE IDOL<ModeSwitcher/></h1>
             <div className="scoreboard">
                 <p>🏆 Recorde: {recorde}</p>
                 <p>🔥 Atual: {atual}</p>
             </div>
-
 
             <GuessTable
                 tentativas={tentativas}
@@ -72,7 +101,8 @@ export default function InfiniteMode() {
                 setMensagemFinal={setMensagemFinal}
                 idoloSecreto={idoloSecreto}
                 idols={idols}
-                atualizarStreak={atualizarPontuacao}
+                atualizarPontuacao={atualizarPontuacao}
+                salvarLocalStorage={salvarLocalStorage} // 🔑 novo
             />
 
             {mensagemFinal && (

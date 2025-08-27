@@ -1,5 +1,5 @@
 import React, {useEffect, useState} from "react";
-import idolsData from "../idols.json";
+import idolsData from "../../idols.json";
 import GuessTable from "../components/GuessTable";
 import ModeSwitcher from "../components/ModeSwitcher";
 
@@ -13,18 +13,29 @@ export default function DailyMode() {
     const [mensagemFinal, setMensagemFinal] = useState("");
 
     const LOCAL_KEY = "daily-idol";
-
-    // Função determinística para escolher o idoloSecreto com base na data
+    const HISTORY_KEY = "daily-history"; // 🔑 histórico do Daily
     const escolherIdoloPorData = () => {
-        const hoje = new Date().toISOString().split("T")[0]; // Formato YYYY-MM-DD
-        // Soma os caracteres da data para criar um valor determinístico
-        const somaCaracteres = hoje
-            .split("")
-            .reduce((acc, char) => acc + char.charCodeAt(0), 0);
-        // Usa módulo para mapear ao tamanho do array idolsData
-        const indice = somaCaracteres % idolsData.length;
-        return idolsData[indice];
+        if (!idolsData || idolsData.length === 0) return null; // retorna null se não houver ídolos
+
+        const hoje = new Date().toISOString().split("T")[0]; // 'YYYY-MM-DD'
+
+        // Função de hash determinístico, embaralhado
+        const hashCode = (str) => {
+            let hash = 0;
+            for (let i = 0; i < str.length; i++) {
+                // shift e xor para embaralhar os bits
+                hash = ((hash << 5) - hash) + str.charCodeAt(i);
+                hash ^= (hash >> 13);
+                hash |= 0; // converte para int32
+            }
+            return Math.abs(hash);
+        };
+
+        const numero = hashCode(hoje);           // número determinístico baseado na data
+        const indice = numero % idolsData.length; // índice válido dentro do array
+        return idolsData[indice];                 // retorna o ídolo do dia
     };
+
 
     useEffect(() => {
         setIdols(idolsData);
@@ -54,7 +65,16 @@ export default function DailyMode() {
                 date: new Date().toDateString(),
             })
         );
+
+        // 👉 salva histórico apenas quando o jogo termina
+        if (novaMensagemFinal) {
+            const history = JSON.parse(localStorage.getItem(HISTORY_KEY)) || {};
+            const resultado = novasChances; // número de chances que precisou
+            history[resultado] = (history[resultado] || 0) + 1;
+            localStorage.setItem(HISTORY_KEY, JSON.stringify(history));
+        }
     };
+
 
     const novoJogo = () => {
         const secreto = escolherIdoloPorData(); // Usa função determinística
@@ -68,7 +88,7 @@ export default function DailyMode() {
 
     return (
         <div className="container">
-            <h1>🎤 GUESS THE IDOL<ModeSwitcher/></h1>
+            <h1>🎤 GUESS THE IDOL <ModeSwitcher/></h1>
 
             <GuessTable
                 tentativas={tentativas}
