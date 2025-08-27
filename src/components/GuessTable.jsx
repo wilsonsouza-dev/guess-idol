@@ -144,10 +144,10 @@ export default function GuessTable({
         <div className="guess-table-container">
             {mensagemFinal.includes("Parabéns") && (
                 <Confetti
-                    width={window.innerWidth}
-                    height={window.innerHeight}
+                    width={window.innerWidth - 100}
+                    height={window.innerHeight - 100}
                     recycle={false}
-                    numberOfPieces={200}
+                    numberOfPieces={500}
                     tweenDuration={5000}
                 />
             )}
@@ -215,7 +215,7 @@ export default function GuessTable({
                 ))}
                 </tbody>
             </table>
-            {mensagemFinal && <h3 className="mensagem-acerto">{mensagemFinal}</h3>}
+            {mensagemFinal && <h2 className="mensagem-acerto">{mensagemFinal}</h2>}
         </div>
     );
 }
